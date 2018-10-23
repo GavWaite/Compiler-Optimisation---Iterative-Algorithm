@@ -1,0 +1,25 @@
+401.bzip2
+"-O3"	3394
+"-O3 -faggressive-loop-optimizations"	3458
+"-O3 -falign-functions"	3361 !!!
+"-O3 -falign-jumps"	3341 !!!
+"-O3 -falign-labels"	3352 !!!
+"-O3 -falign-loops"	3346 !!!
+"-O3 -fassociative-math"	3335 !!!
+"-O3 -fauto-inc-dec"	3329 !!!
+"-O3 -fbranch-probabilities"	3395
+"-O3 -fbranch-target-load-optimize"	3347 !!!
+"-O3 -fbranch-target-load-optimize2"	3339 !!!
+"-O3 -fbtr-bb-exclusive"	3336 !!!
+"-O3 -fcaller-saves"	3325 !!!
+"-O3 -fcheck-data-deps"	3330 !!!
+"-O3 -fcombine-stack-adjustments"	3333 !!!
+"-O3 -fconserve-stack"	3325 !!!
+"-O3 -fcompare-elim"	3331 !!!
+"-O3 -fcprop-registers"	3355 !!!
+"-O3 -fcrossjumping"	3346 !!!
+"-O3 -fcse-follow-jumps"	3341 !!!
+"-O3 -fcse-skip-blocks"	3324 !!!
+"-O3 -fcx-fortran-rules"	3334 !!!
+"-O3 -fcx-limited-range"	3364 !!!
+"-O3 -fdata-sections"	3335 !!!

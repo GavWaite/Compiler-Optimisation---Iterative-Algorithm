@@ -1,0 +1,2754 @@
+{
+    "-O0": [
+        25867.363636363636,
+        729.0645653821531,
+        25603.0,
+        412.0,
+        25576,
+        25988
+    ],
+    "-O1": [
+        15144.7,
+        65.17982816792323,
+        15148.0,
+        181.0,
+        15071,
+        15252
+    ],
+    "-O2": [
+        14657.5,
+        69.72553334324522,
+        14680.0,
+        180.0,
+        14559,
+        14739
+    ],
+    "-O3": [
+        14421.7,
+        52.907560896340705,
+        14422.5,
+        149.0,
+        14350,
+        14499
+    ],
+    "-fkeep-inline-functions": [
+        14450.181818181818,
+        137.47648934987734,
+        14411.0,
+        101.0,
+        14377,
+        14478
+    ],
+    "-fkeep-static-functions": [
+        14380.90909090909,
+        147.664518139448,
+        14321.0,
+        142.0,
+        14304,
+        14446
+    ],
+    "-fmerge-all-constants": [
+        14313.6,
+        60.430455897668026,
+        14302.5,
+        202.0,
+        14226,
+        14428
+    ],
+    "-fmodulo-sched": [
+        14401.9,
+        65.48045509921262,
+        14411.5,
+        155.0,
+        14342,
+        14497
+    ],
+    "-fgcse-sm": [
+        14335.6,
+        60.501570227556904,
+        14320.0,
+        214.0,
+        14279,
+        14493
+    ],
+    "-fgcse-las": [
+        14425.6,
+        65.42812850754636,
+        14417.5,
+        196.0,
+        14348,
+        14544
+    ],
+    "-fgcse-after-reload": [
+        14424.7,
+        74.50241606820546,
+        14407.0,
+        254.0,
+        14378,
+        14632
+    ],
+    "-fdevirtualize-speculatively": [
+        14405.6,
+        48.46895913881379,
+        14396.5,
+        151.0,
+        14353,
+        14504
+    ],
+    "-flive-range-shrinkage": [
+        14354.0,
+        80.37412518964048,
+        14336.5,
+        266.0,
+        14270,
+        14536
+    ],
+    "-fno-defer-pop": [
+        14305.4,
+        64.76912844866757,
+        14311.0,
+        174.0,
+        14221,
+        14395
+    ],
+    "-fno-function-cse": [
+        14425.7,
+        42.3958724406044,
+        14406.0,
+        123.0,
+        14384,
+        14507
+    ],
+    "-fno-inline": [
+        14663.7,
+        42.99313898751753,
+        14659.5,
+        127.0,
+        14616,
+        14743
+    ],
+    "-fno-inline-functions": [
+        14592.6,
+        47.3607432374113,
+        14572.5,
+        156.0,
+        14541,
+        14697
+    ],
+    "-fno-zero-initialized-in-bss": [
+        14424.2,
+        54.37977565235075,
+        14417.5,
+        149.0,
+        14379,
+        14528
+    ],
+    "-fno-ira-share-save-slots": [
+        14414.8,
+        21.58147353634594,
+        14408.5,
+        63.0,
+        14395,
+        14458
+    ],
+    "-fno-ira-share-spill-slots": [
+        14337.9,
+        69.1801272042774,
+        14321.5,
+        214.0,
+        14278,
+        14492
+    ],
+    "-fno-predictive-commoning": [
+        14363.7,
+        55.75670363283684,
+        14352.5,
+        169.0,
+        14311,
+        14480
+    ],
+    "-fno-ipa-cp-clone": [
+        14326.0,
+        55.629129060232465,
+        14334.5,
+        160.0,
+        14263,
+        14423
+    ],
+    "-fsched-pressure": [
+        14446.8,
+        58.86730841477297,
+        14446.0,
+        203.0,
+        14383,
+        14586
+    ],
+    "-fsched-spec-load": [
+        14465.8,
+        67.7669535983432,
+        14481.5,
+        172.0,
+        14388,
+        14560
+    ],
+    "-fsched-spec-load-dangerous": [
+        14422.5,
+        36.26361813167572,
+        14424.0,
+        126.0,
+        14383,
+        14509
+    ],
+    "-fsched-stalled-insns": [
+        14410.9,
+        54.00083332690339,
+        14427.0,
+        135.0,
+        14342,
+        14477
+    ],
+    "-fsched-stalled-insns-dep": [
+        14415.8,
+        71.40840286688955,
+        14400.5,
+        213.0,
+        14344,
+        14557
+    ],
+    "-fsched2-use-superblocks": [
+        14424.5,
+        51.821327655705616,
+        14425.5,
+        114.0,
+        14369,
+        14483
+    ],
+    "-fsched-group-heuristic": [
+        14423.3,
+        33.99426422207135,
+        14427.5,
+        79.0,
+        14390,
+        14469
+    ],
+    "-fsched-critical-path-heuristic": [
+        14452.0,
+        99.06159699903894,
+        14405.5,
+        335.0,
+        14367,
+        14702
+    ],
+    "-fsched-spec-insn-heuristic": [
+        14454.9,
+        42.865953856178216,
+        14471.0,
+        111.0,
+        14399,
+        14510
+    ],
+    "-fsched-rank-heuristic": [
+        14427.4,
+        54.97126522102252,
+        14420.5,
+        111.0,
+        14390,
+        14501
+    ],
+    "-fsched-last-insn-heuristic": [
+        14428.363636363636,
+        162.2827346035715,
+        14380.0,
+        125.0,
+        14331,
+        14456
+    ],
+    "-fsched-dep-count-heuristic": [
+        14411.3,
+        44.36451284529111,
+        14406.5,
+        123.0,
+        14357,
+        14480
+    ],
+    "-freschedule-modulo-scheduled-loops": [
+        14381.7,
+        49.57025317667845,
+        14389.0,
+        129.0,
+        14319,
+        14448
+    ],
+    "-fselective-scheduling": [
+        14399.9,
+        59.555772180368876,
+        14400.0,
+        174.0,
+        14359,
+        14533
+    ],
+    "-fselective-scheduling2": [
+        14435.9,
+        32.94070430333875,
+        14428.0,
+        87.0,
+        14406,
+        14493
+    ],
+    "-fconserve-stack": [
+        14398.6,
+        62.28033397469862,
+        14377.0,
+        145.0,
+        14355,
+        14500
+    ],
+    "-fipa-pta": [
+        14403.7,
+        44.786270217556634,
+        14398.0,
+        126.0,
+        14345,
+        14471
+    ],
+    "-fisolate-erroneous-paths-attribute": [
+        14396.8,
+        52.82007194239705,
+        14385.0,
+        178.0,
+        14335,
+        14513
+    ],
+    "-floop-nest-optimize": [
+        14380.1,
+        25.212893526923878,
+        14379.5,
+        63.0,
+        14350,
+        14413
+    ],
+    "-floop-parallelize-all": [
+        14275.3,
+        29.47558311552123,
+        14274.0,
+        90.0,
+        14254,
+        14344
+    ],
+    "-floop-interchange": [
+        14338.6,
+        38.53102645920558,
+        14331.5,
+        122.0,
+        14305,
+        14427
+    ],
+    "-ftree-loop-im": [
+        14420.3,
+        40.6891877530137,
+        14430.0,
+        113.0,
+        14366,
+        14479
+    ],
+    "-ftree-loop-ivcanon": [
+        14419.1,
+        32.380395303331305,
+        14422.0,
+        38.0,
+        14411,
+        14449
+    ],
+    "-fivopts": [
+        14421.4,
+        55.290505514057294,
+        14410.0,
+        168.0,
+        14360,
+        14528
+    ],
+    "-ftree-parallelize-loops=16": [
+        14394.90909090909,
+        213.57921866283738,
+        14330.0,
+        68.0,
+        14306,
+        14374
+    ],
+    "-ftree-vectorize": [
+        14350.1,
+        31.61787469138304,
+        14359.5,
+        73.0,
+        14320,
+        14393
+    ],
+    "-fvariable-expansion-in-unroller": [
+        14447.2,
+        36.23478991245844,
+        14457.0,
+        113.0,
+        14399,
+        14512
+    ],
+    "-fprefetch-loop-arrays": [
+        14539.1,
+        50.0348878283943,
+        14541.0,
+        141.0,
+        14476,
+        14617
+    ],
+    "-flimit-function-alignment": [
+        14428.6,
+        46.97488690779362,
+        14420.0,
+        149.0,
+        14386,
+        14535
+    ],
+    "-fweb": [
+        14634.076923076924,
+        415.9704060365651,
+        14404.5,
+        221.0,
+        14369,
+        14590
+    ],
+    "-flto": [
+        14176.9,
+        40.88630577589518,
+        14187.0,
+        97.0,
+        14130,
+        14227
+    ],
+    "-fprofile-correction": [
+        14372.6,
+        53.09651589322976,
+        14383.0,
+        166.0,
+        14310,
+        14476
+    ],
+    "-fcx-limited-range": [
+        14410.5,
+        48.70985526564414,
+        14399.0,
+        144.0,
+        14374,
+        14518
+    ],
+    "-fbranch-probabilities": [
+        14329.363636363636,
+        120.49237827821516,
+        14322.0,
+        98.0,
+        14250,
+        14348
+    ],
+    "-fvpt": [
+        14445.4,
+        42.45044169381516,
+        14460.5,
+        96.0,
+        14406,
+        14502
+    ],
+    "-frename-registers": [
+        14489.8,
+        44.3819783245407,
+        14495.5,
+        118.0,
+        14450,
+        14568
+    ],
+    "-funroll-loops": [
+        14488.6,
+        50.331302387281816,
+        14486.5,
+        106.0,
+        14464,
+        14570
+    ],
+    "-funroll-all-loops": [
+        14615.8,
+        54.15311625382236,
+        14612.0,
+        168.0,
+        14537,
+        14705
+    ],
+    "-fprofile-use": [
+        14596.0,
+        60.75853849460173,
+        14580.5,
+        188.0,
+        14539,
+        14727
+    ],
+    "-fpeel-loops": [
+        14413.9,
+        39.56880084106669,
+        14403.0,
+        112.0,
+        14381,
+        14493
+    ],
+    "-fsplit-loops": [
+        14444.3,
+        49.01030503883851,
+        14442.0,
+        132.0,
+        14387,
+        14519
+    ],
+    "-funswitch-loops": [
+        14572.4,
+        121.43327385852693,
+        14588.0,
+        346.0,
+        14428,
+        14774
+    ],
+    "-floop-unroll-and-jam": [
+        14427.2,
+        35.10213668710211,
+        14412.5,
+        111.0,
+        14394,
+        14505
+    ],
+    "-fbranch-target-load-optimize": [
+        14490.272727272728,
+        122.39213500361778,
+        14456.0,
+        106.0,
+        14418,
+        14524
+    ],
+    "-fbranch-target-load-optimize2": [
+        14473.454545454546,
+        125.47680961861485,
+        14436.0,
+        173.0,
+        14392,
+        14565
+    ],
+    "-fbtr-bb-exclusive": [
+        14471.0,
+        87.87491109526086,
+        14445.0,
+        246.0,
+        14404,
+        14650
+    ],
+    "-fstdarg-opt": [
+        14453.5,
+        68.1135082050543,
+        14442.0,
+        202.0,
+        14385,
+        14587
+    ],
+    "-fsection-anchors": [
+        14431.1,
+        116.64943206034053,
+        14399.0,
+        349.0,
+        14324,
+        14673
+    ],
+    "-O3 -fsched-stalled-insns -fconserve-stack -fgcse-las -fsched-dep-count-heuristic -fno-zero-initialized-in-bss -fsched-last-insn-heuristic -fsplit-loops -fbranch-probabilities -flimit-function-alignment -fdevirtualize-speculatively -fno-ira-share-save-slots -ftree-vectorize -floop-parallelize-all -flto -fsched-critical-path-heuristic -ftree-loop-ivcanon -fsched-spec-insn-heuristic -fprefetch-loop-arrays -fno-defer-pop -fweb -fvariable-expansion-in-unroller -fsched-rank-heuristic": [
+        14339.818181818182,
+        118.02605119349955,
+        14300.0,
+        148.0,
+        14284,
+        14432
+    ],
+    "-O3 -fsched-pressure -fisolate-erroneous-paths-attribute -fsched-spec-load-dangerous -fbranch-target-load-optimize2 -fsched-dep-count-heuristic -fgcse-las -fsched-stalled-insns -fbtr-bb-exclusive -fprofile-correction -fno-zero-initialized-in-bss -flive-range-shrinkage -fno-predictive-commoning -fno-ira-share-save-slots -flimit-function-alignment -freschedule-modulo-scheduled-loops -fcx-limited-range -fno-ira-share-spill-slots -fvpt -fno-ipa-cp-clone -fprefetch-loop-arrays -fsched-critical-path-heuristic -floop-unroll-and-jam -ftree-loop-im -flto -fmodulo-sched -fconserve-stack -floop-interchange -fselective-scheduling -fgcse-after-reload -ftree-loop-ivcanon -floop-parallelize-all -fvariable-expansion-in-unroller -fsched2-use-superblocks -fsched-last-insn-heuristic -frename-registers -fmerge-all-constants -fno-defer-pop -fivopts -fbranch-probabilities -ftree-vectorize -fkeep-static-functions -fipa-pta -fweb -fpeel-loops -fgcse-sm -floop-nest-optimize -fsplit-loops -fsched-rank-heuristic -fdevirtualize-speculatively": [
+        14451.6875,
+        220.3266662112192,
+        14347.5,
+        171.0,
+        14330,
+        14501
+    ],
+    "-O3 -fipa-pta -fsched-dep-count-heuristic -fgcse-after-reload -fsched2-use-superblocks -fprefetch-loop-arrays -fbranch-target-load-optimize2 -flimit-function-alignment -flto -fgcse-las -ftree-loop-im -fno-defer-pop -fsplit-loops -fno-predictive-commoning -fbranch-probabilities -floop-interchange -fprofile-use -fno-ira-share-save-slots -fmodulo-sched -fweb -flive-range-shrinkage -fkeep-static-functions -fsched-spec-load-dangerous -fconserve-stack -fpeel-loops -fselective-scheduling -fcx-limited-range -fsched-spec-load -fstdarg-opt -floop-parallelize-all -fno-ira-share-spill-slots -fisolate-erroneous-paths-attribute": [
+        14498.7,
+        66.32654069073708,
+        14496.5,
+        194.0,
+        14409,
+        14603
+    ],
+    "-O3 -fconserve-stack -fsched-dep-count-heuristic -fkeep-static-functions -fmodulo-sched -fno-ipa-cp-clone -fbtr-bb-exclusive -fno-predictive-commoning -fdevirtualize-speculatively -flive-range-shrinkage -fsched-spec-load-dangerous -fmerge-all-constants -fivopts -floop-parallelize-all -fprefetch-loop-arrays -fno-defer-pop -fsplit-loops -fvpt -fstdarg-opt -fsched-rank-heuristic -fselective-scheduling -fweb -fno-ira-share-save-slots -flto -ftree-loop-im -fsched-critical-path-heuristic -fsched-spec-insn-heuristic -fno-function-cse -frename-registers -fipa-pta -fvariable-expansion-in-unroller -fisolate-erroneous-paths-attribute -freschedule-modulo-scheduled-loops -ftree-vectorize -ftree-loop-ivcanon -fsched-last-insn-heuristic -fno-ira-share-spill-slots -flimit-function-alignment -floop-interchange -fpeel-loops -fbranch-target-load-optimize -fgcse-sm -fgcse-las -fcx-limited-range -fsched-stalled-insns-dep -fsection-anchors -fbranch-target-load-optimize2": [
+        14269.8,
+        52.001538438780834,
+        14268.5,
+        154.0,
+        14227,
+        14381
+    ],
+    "-O3 -fsched-pressure -ftree-loop-ivcanon -fweb -fsched-critical-path-heuristic -fno-ira-share-spill-slots -flimit-function-alignment -fsplit-loops -flto -fprefetch-loop-arrays -fivopts -fkeep-static-functions -fconserve-stack -fdevirtualize-speculatively -fmodulo-sched -ftree-loop-im -ftree-vectorize -fcx-limited-range -fvariable-expansion-in-unroller -fno-ira-share-save-slots -floop-parallelize-all -fselective-scheduling -floop-nest-optimize -fbtr-bb-exclusive -fbranch-target-load-optimize2 -fpeel-loops -fgcse-las": [
+        14288.3,
+        85.43658466956647,
+        14256.0,
+        223.0,
+        14191,
+        14414
+    ],
+    "-O3 -fselective-scheduling -fkeep-static-functions -fno-ira-share-save-slots -fsched-spec-load-dangerous -fsched-pressure -fisolate-erroneous-paths-attribute -flto -fsched2-use-superblocks -fsched-rank-heuristic -ftree-loop-im -fstdarg-opt -fbtr-bb-exclusive -flimit-function-alignment -floop-parallelize-all -freschedule-modulo-scheduled-loops -fipa-pta -fmerge-all-constants -fbranch-target-load-optimize2 -fcx-limited-range -fweb -fivopts -fvpt -fno-predictive-commoning -fsched-critical-path-heuristic -fno-ipa-cp-clone -fgcse-sm -fpeel-loops -fmodulo-sched -ftree-vectorize -flive-range-shrinkage -fgcse-las -fdevirtualize-speculatively -floop-interchange -fsched-spec-insn-heuristic -fsched-dep-count-heuristic -fsched-stalled-insns-dep -fsched-spec-load -fsection-anchors -ftree-loop-ivcanon -fsplit-loops -fbranch-probabilities -fgcse-after-reload -fno-ira-share-spill-slots -frename-registers": [
+        14578.5,
+        40.7731529318006,
+        14575.0,
+        113.0,
+        14530,
+        14643
+    ],
+    "-O3 -fno-ira-share-save-slots -fisolate-erroneous-paths-attribute -fsched-dep-count-heuristic -fsched-last-insn-heuristic -fno-predictive-commoning -flto -fgcse-las -fgcse-after-reload -fno-ipa-cp-clone -ftree-loop-ivcanon -fprefetch-loop-arrays -ftree-vectorize -fmodulo-sched -fsched-spec-insn-heuristic -fsched-spec-load-dangerous -ftree-loop-im -fno-zero-initialized-in-bss -fselective-scheduling -frename-registers -fsplit-loops -fprofile-correction -fbtr-bb-exclusive -floop-nest-optimize -flimit-function-alignment -freschedule-modulo-scheduled-loops -fconserve-stack -fipa-pta -fdevirtualize-speculatively -fsched-stalled-insns-dep -fvpt -fno-ira-share-spill-slots -fivopts -floop-interchange -fgcse-sm -fno-function-cse": [
+        14412.8,
+        39.83666652720832,
+        14408.5,
+        114.0,
+        14383,
+        14497
+    ],
+    "-O3 -fbtr-bb-exclusive -frename-registers -fno-ira-share-save-slots -fsched-dep-count-heuristic -fno-function-cse -fisolate-erroneous-paths-attribute -flive-range-shrinkage -fno-ipa-cp-clone -floop-unroll-and-jam -fvpt -fsplit-loops -fgcse-sm -floop-interchange -fprofile-correction -fsched-rank-heuristic -fkeep-static-functions -fipa-pta -fprefetch-loop-arrays -freschedule-modulo-scheduled-loops -fno-ira-share-spill-slots -fconserve-stack -floop-parallelize-all -fdevirtualize-speculatively -fgcse-after-reload -funroll-all-loops -floop-nest-optimize -flto -fbranch-target-load-optimize2 -fno-predictive-commoning": [
+        14575.7,
+        48.495463705381766,
+        14570.0,
+        134.0,
+        14529,
+        14663
+    ],
+    "-O3 -fno-zero-initialized-in-bss -fno-ira-share-save-slots -fsched-last-insn-heuristic -fprefetch-loop-arrays": [
+        14505.3,
+        45.1199512411084,
+        14507.5,
+        108.0,
+        14459,
+        14567
+    ],
+    "-O3 -flto -floop-nest-optimize -floop-unroll-and-jam -fsched2-use-superblocks -fivopts -fweb -fno-ira-share-save-slots -fselective-scheduling -fprefetch-loop-arrays -fmodulo-sched -fsched-last-insn-heuristic -fsched-spec-insn-heuristic -fdevirtualize-speculatively -fno-ira-share-spill-slots -fno-predictive-commoning -floop-parallelize-all -fsched-stalled-insns -fkeep-static-functions -fprofile-correction -fsched-spec-load-dangerous -floop-interchange -fbtr-bb-exclusive -flimit-function-alignment -ftree-loop-im -fsched-stalled-insns-dep -ftree-loop-ivcanon -fgcse-sm -fcx-limited-range -frename-registers -fsplit-loops -fsched-rank-heuristic -fno-ipa-cp-clone -flive-range-shrinkage -ftree-vectorize -fipa-pta -fpeel-loops -fno-function-cse -fgcse-las -fsched-pressure -fbranch-target-load-optimize2 -funroll-all-loops -fconserve-stack -fsched-dep-count-heuristic -fbranch-target-load-optimize -fsection-anchors -fvariable-expansion-in-unroller -fisolate-erroneous-paths-attribute -fsched-spec-load -fno-defer-pop": [
+        14571.5,
+        44.84696199298231,
+        14571.0,
+        125.0,
+        14513,
+        14638
+    ],
+    "-O3 -fsched-last-insn-heuristic -fsection-anchors -fisolate-erroneous-paths-attribute -fsched-stalled-insns -fdevirtualize-speculatively -fmodulo-sched -flto -fgcse-after-reload -fvariable-expansion-in-unroller -fsched-pressure -fno-ira-share-save-slots -fprefetch-loop-arrays -fgcse-sm -fno-ira-share-spill-slots -freschedule-modulo-scheduled-loops -fconserve-stack -fsched-spec-load-dangerous": [
+        14278.8,
+        55.86018259905708,
+        14276.0,
+        155.0,
+        14220,
+        14375
+    ],
+    "-O3 -fsched-rank-heuristic -fbtr-bb-exclusive -fgcse-after-reload -fsched2-use-superblocks -fdevirtualize-speculatively -floop-parallelize-all -freschedule-modulo-scheduled-loops -fisolate-erroneous-paths-attribute -ftree-loop-im -fgcse-sm -floop-unroll-and-jam -fselective-scheduling -fivopts -fvariable-expansion-in-unroller -fsched-stalled-insns-dep": [
+        14360.4,
+        101.96587664508161,
+        14346.5,
+        341.0,
+        14275,
+        14616
+    ],
+    "-O3 -fgcse-sm -fbranch-target-load-optimize2 -fsched-pressure -ftree-loop-im -fsched-stalled-insns -floop-interchange -fconserve-stack -fno-defer-pop -fno-zero-initialized-in-bss -fcx-limited-range -fno-ira-share-spill-slots -fselective-scheduling -ftree-loop-ivcanon -flimit-function-alignment -fno-ipa-cp-clone -fisolate-erroneous-paths-attribute -fno-predictive-commoning -fvariable-expansion-in-unroller -fno-ira-share-save-slots -fsched-last-insn-heuristic -fsched-stalled-insns-dep -floop-parallelize-all -fsched-spec-insn-heuristic -fivopts -fsched2-use-superblocks -fsection-anchors -fsched-dep-count-heuristic -floop-unroll-and-jam -fdevirtualize-speculatively -freschedule-modulo-scheduled-loops -fsplit-loops": [
+        14524.454545454546,
+        186.53654949505383,
+        14438.0,
+        316.0,
+        14409,
+        14725
+    ],
+    "-O3 -fno-defer-pop -fno-ipa-cp-clone -ftree-loop-ivcanon -fisolate-erroneous-paths-attribute -fprefetch-loop-arrays -fno-function-cse -floop-parallelize-all -fno-zero-initialized-in-bss -fno-predictive-commoning -fgcse-las -fgcse-after-reload -fsched2-use-superblocks -ftree-vectorize -fno-ira-share-spill-slots -fbranch-probabilities -fdevirtualize-speculatively -flive-range-shrinkage -freschedule-modulo-scheduled-loops -fgcse-sm -fpeel-loops -fsplit-loops -fsched-stalled-insns-dep -fkeep-static-functions -fsched-spec-load-dangerous -fcx-limited-range -fvariable-expansion-in-unroller -fmerge-all-constants -fmodulo-sched -fselective-scheduling -fsched-dep-count-heuristic -flto -fno-ira-share-save-slots -fsection-anchors": [
+        14478.7,
+        42.78095370605943,
+        14477.0,
+        115.0,
+        14443,
+        14558
+    ],
+    "-O3 -fgcse-sm -fno-ira-share-save-slots -fsched-stalled-insns -fmerge-all-constants -fdevirtualize-speculatively -fvariable-expansion-in-unroller -floop-interchange -fkeep-static-functions -fconserve-stack -fcx-limited-range -fbtr-bb-exclusive -fno-defer-pop -frename-registers -fprefetch-loop-arrays -fipa-pta -flto -fsched-spec-insn-heuristic -fselective-scheduling -fno-zero-initialized-in-bss -fno-ira-share-spill-slots -fsection-anchors -fsched-stalled-insns-dep -fprofile-correction -floop-unroll-and-jam -fsplit-loops -floop-parallelize-all -fgcse-las -floop-nest-optimize -flimit-function-alignment -fstdarg-opt -fmodulo-sched -fgcse-after-reload -fbranch-target-load-optimize2 -fsched-dep-count-heuristic -flive-range-shrinkage -fsched-spec-load-dangerous -ftree-vectorize -fisolate-erroneous-paths-attribute -fbranch-probabilities -ftree-loop-ivcanon -fno-function-cse -fno-ipa-cp-clone -fivopts -fvpt -fsched2-use-superblocks": [
+        14339.3,
+        66.88654573230703,
+        14333.0,
+        205.0,
+        14262,
+        14467
+    ],
+    "-O3 -flimit-function-alignment -fconserve-stack -fno-ipa-cp-clone -flto -fsched-rank-heuristic -fsched-critical-path-heuristic -fsched-stalled-insns -frename-registers -fsched-stalled-insns-dep -fgcse-sm -fkeep-static-functions -fpeel-loops -fsched-last-insn-heuristic -fgcse-after-reload -fvpt -fno-defer-pop -fdevirtualize-speculatively -ftree-loop-ivcanon -floop-parallelize-all -fvariable-expansion-in-unroller -fno-predictive-commoning -fno-ira-share-spill-slots -ftree-vectorize -fsplit-loops -fbranch-target-load-optimize2 -fno-zero-initialized-in-bss -fsched2-use-superblocks -fmodulo-sched -fbtr-bb-exclusive": [
+        14466.1,
+        40.90097798341746,
+        14462.0,
+        122.0,
+        14428,
+        14550
+    ],
+    "-O3 -freschedule-modulo-scheduled-loops -fconserve-stack -fgcse-las -fsched-stalled-insns-dep -fprefetch-loop-arrays -flto -fivopts -fno-ira-share-spill-slots -frename-registers -fweb -fsched-spec-load-dangerous": [
+        14417.3,
+        22.851914580621028,
+        14419.0,
+        70.0,
+        14387,
+        14457
+    ],
+    "-O3 -fdevirtualize-speculatively -fbtr-bb-exclusive -ftree-loop-ivcanon -fipa-pta -fsplit-loops -fsched-critical-path-heuristic -fgcse-las": [
+        14359.4,
+        65.68135199582908,
+        14393.0,
+        173.0,
+        14265,
+        14438
+    ],
+    "-O3 -freschedule-modulo-scheduled-loops -fsplit-loops -flto -fno-predictive-commoning -floop-nest-optimize -floop-interchange -fkeep-static-functions -fstdarg-opt -fsched-stalled-insns -fno-ipa-cp-clone -fsched-spec-insn-heuristic -fweb -fno-ira-share-spill-slots -fconserve-stack -fselective-scheduling -fsched-stalled-insns-dep -fsched-pressure -fgcse-las -fprofile-use": [
+        14548.3,
+        23.426694175662085,
+        14550.5,
+        71.0,
+        14515,
+        14586
+    ],
+    "-O3 -fsection-anchors -floop-nest-optimize -flto -fmerge-all-constants -fno-ipa-cp-clone -fno-ira-share-save-slots -fisolate-erroneous-paths-attribute -fpeel-loops -fno-function-cse -fivopts -floop-interchange -fprefetch-loop-arrays -fsched-stalled-insns -fsched-spec-load-dangerous -fprofile-correction -freschedule-modulo-scheduled-loops -fvariable-expansion-in-unroller -fprofile-use -fsched-stalled-insns-dep -fno-predictive-commoning -fdevirtualize-speculatively -fsched-spec-load -floop-unroll-and-jam -fweb -fsched-pressure -funroll-loops -fmodulo-sched -fipa-pta -fbtr-bb-exclusive -fsplit-loops -fselective-scheduling -flive-range-shrinkage -fgcse-sm -fno-defer-pop -floop-parallelize-all -fsched-dep-count-heuristic -fsched-rank-heuristic -flimit-function-alignment -fbranch-target-load-optimize2 -fsched-critical-path-heuristic -fkeep-static-functions -fgcse-after-reload -ftree-loop-ivcanon -fno-ira-share-spill-slots -fsched-spec-insn-heuristic -fbranch-probabilities -fstdarg-opt -fsched2-use-superblocks": [
+        14573.7,
+        44.63866037416446,
+        14558.0,
+        144.0,
+        14539,
+        14683
+    ],
+    "-O3 -fsched-rank-heuristic -frename-registers -fweb -fisolate-erroneous-paths-attribute -fgcse-las -fdevirtualize-speculatively -floop-nest-optimize -fkeep-static-functions -fvariable-expansion-in-unroller -flive-range-shrinkage -fselective-scheduling -fno-zero-initialized-in-bss -fbranch-target-load-optimize2": [
+        14283.3,
+        43.646420242672825,
+        14271.5,
+        118.0,
+        14240,
+        14358
+    ],
+    "-O3 -fsched2-use-superblocks -fisolate-erroneous-paths-attribute -fbranch-target-load-optimize2 -fcx-limited-range -ftree-loop-ivcanon -fsched-spec-insn-heuristic -fsection-anchors -fsplit-loops -ftree-loop-im -fsched-dep-count-heuristic -floop-parallelize-all -fmodulo-sched -floop-unroll-and-jam -fsched-pressure -fbranch-probabilities -fprofile-correction -fvpt -flto -fmerge-all-constants -fbtr-bb-exclusive -floop-interchange -fno-function-cse -fconserve-stack -fivopts -fsched-stalled-insns-dep -fno-predictive-commoning -fsched-rank-heuristic -fipa-pta -floop-nest-optimize -fgcse-las -fstdarg-opt -fsched-last-insn-heuristic -fgcse-sm -fkeep-static-functions -fweb -fno-zero-initialized-in-bss -fno-ira-share-spill-slots -fgcse-after-reload -fprefetch-loop-arrays -fsched-spec-load-dangerous -fvariable-expansion-in-unroller -fpeel-loops -fno-ipa-cp-clone -frename-registers -funroll-all-loops -fno-ira-share-save-slots -flive-range-shrinkage -fdevirtualize-speculatively": [
+        15175.73076923077,
+        956.5006557435651,
+        14700.5,
+        175.0,
+        14602,
+        14777
+    ],
+    "-O3 -flto -fgcse-las -fbranch-target-load-optimize2 -floop-unroll-and-jam -fno-ipa-cp-clone -ftree-loop-im -ftree-loop-ivcanon -fno-zero-initialized-in-bss -fivopts -fno-function-cse -fvariable-expansion-in-unroller -fbtr-bb-exclusive -fdevirtualize-speculatively -fno-ira-share-spill-slots -fisolate-erroneous-paths-attribute -fgcse-after-reload -fvpt -freschedule-modulo-scheduled-loops -fselective-scheduling -fsplit-loops -fsched2-use-superblocks -fsection-anchors -fmerge-all-constants -fweb -flive-range-shrinkage -fipa-pta -fsched-dep-count-heuristic -fcx-limited-range -frename-registers -floop-interchange -fkeep-static-functions": [
+        14329.4,
+        40.787743257012885,
+        14330.5,
+        138.0,
+        14279,
+        14417
+    ],
+    "-O3 -fno-ipa-cp-clone -fbranch-target-load-optimize2 -fno-ira-share-spill-slots -flive-range-shrinkage -fkeep-static-functions -fno-predictive-commoning -frename-registers -fdevirtualize-speculatively -fsection-anchors -ftree-vectorize -fcx-limited-range -fvpt -fbtr-bb-exclusive -fselective-scheduling -floop-parallelize-all -fstdarg-opt -fsched-dep-count-heuristic -flto -fno-ira-share-save-slots": [
+        14388.9,
+        37.396390200124934,
+        14385.0,
+        134.0,
+        14338,
+        14472
+    ],
+    "-O3 -fstdarg-opt -fno-predictive-commoning -fno-defer-pop -fdevirtualize-speculatively -ftree-vectorize -fprofile-use -fbtr-bb-exclusive -fsched-last-insn-heuristic -fprefetch-loop-arrays -fbranch-target-load-optimize2 -fsched-stalled-insns -fselective-scheduling -fsched-dep-count-heuristic -fgcse-sm": [
+        14623.1,
+        44.48246845668527,
+        14620.5,
+        138.0,
+        14572,
+        14710
+    ],
+    "-O3 -fdevirtualize-speculatively -ftree-loop-ivcanon -fno-function-cse -flimit-function-alignment -fno-predictive-commoning -fsched2-use-superblocks -fivopts": [
+        14573.3,
+        41.20691689510391,
+        14573.0,
+        125.0,
+        14525,
+        14650
+    ],
+    "-O3 -fgcse-las -fgcse-sm -fgcse-after-reload -floop-parallelize-all -ftree-loop-ivcanon -fbranch-target-load-optimize2 -fcx-limited-range -frename-registers -fpeel-loops -fvpt -flimit-function-alignment -fsched-critical-path-heuristic": [
+        14357.4,
+        66.13198923365303,
+        14358.0,
+        218.0,
+        14300,
+        14518
+    ],
+    "-O3 -flive-range-shrinkage -ftree-loop-im -fsched-spec-load-dangerous -ftree-loop-ivcanon -fsplit-loops -fno-zero-initialized-in-bss -fprofile-correction -floop-unroll-and-jam -fmerge-all-constants -fweb -fno-ira-share-spill-slots -fmodulo-sched -flimit-function-alignment": [
+        14485.727272727272,
+        162.5395565332222,
+        14451.0,
+        257.0,
+        14354,
+        14611
+    ],
+    "-O3 -fno-ira-share-spill-slots -fgcse-sm -flto -flimit-function-alignment -fpeel-loops -ftree-vectorize -fkeep-static-functions -fsched-stalled-insns -fvariable-expansion-in-unroller -fselective-scheduling -fsched-last-insn-heuristic -fsched-spec-load-dangerous -fweb -fsched-rank-heuristic": [
+        14765.636363636364,
+        174.9931285545873,
+        14685.0,
+        340.0,
+        14647,
+        14987
+    ],
+    "-O3 -funroll-loops -fvariable-expansion-in-unroller -freschedule-modulo-scheduled-loops -fdevirtualize-speculatively -fsched-spec-insn-heuristic -floop-interchange -fbranch-target-load-optimize2 -fno-ira-share-spill-slots -fvpt -flto -fmodulo-sched -fno-predictive-commoning -fprofile-correction -fprefetch-loop-arrays -fgcse-las -fsched-pressure -fisolate-erroneous-paths-attribute -fivopts -floop-nest-optimize": [
+        14512.3,
+        34.77657257407636,
+        14513.0,
+        95.0,
+        14471,
+        14566
+    ],
+    "-O3 -fsched-stalled-insns-dep -fno-ira-share-save-slots -fno-ipa-cp-clone -fsplit-loops -fsched-dep-count-heuristic -floop-nest-optimize -freschedule-modulo-scheduled-loops": [
+        14320.4,
+        65.47854610481207,
+        14303.0,
+        202.0,
+        14249,
+        14451
+    ],
+    "-O3 -fsched-pressure -fgcse-after-reload -fselective-scheduling -fsched-dep-count-heuristic -fmerge-all-constants -fsched-rank-heuristic -freschedule-modulo-scheduled-loops -fsched-spec-load-dangerous -fipa-pta -flto -fbtr-bb-exclusive -fvpt -floop-parallelize-all -frename-registers -fsched2-use-superblocks -fsched-critical-path-heuristic -fsched-spec-load -fgcse-sm -fvariable-expansion-in-unroller -fsched-spec-insn-heuristic -fsplit-loops -floop-interchange -fmodulo-sched -fno-predictive-commoning -fgcse-las -fkeep-static-functions -fcx-limited-range -fprofile-correction -fpeel-loops -fstdarg-opt -fbranch-target-load-optimize2 -fno-ira-share-spill-slots": [
+        14326.6,
+        41.65381135022341,
+        14343.0,
+        97.0,
+        14271,
+        14368
+    ],
+    "-O3 -fsched-spec-load-dangerous -fisolate-erroneous-paths-attribute -frename-registers -fkeep-static-functions -fweb -fsched-last-insn-heuristic -fsched-dep-count-heuristic -ftree-loop-ivcanon -fmodulo-sched -fdevirtualize-speculatively -fno-ira-share-spill-slots -ftree-loop-im -fivopts -fsection-anchors -fsched-stalled-insns-dep -fgcse-las -fprefetch-loop-arrays -fgcse-sm -fsplit-loops -fselective-scheduling -fno-function-cse -fstdarg-opt -floop-interchange -fsched-critical-path-heuristic -floop-parallelize-all -fgcse-after-reload -fsched-stalled-insns -fno-ipa-cp-clone -fvpt -fno-predictive-commoning": [
+        14386.8,
+        42.93669759075563,
+        14389.5,
+        119.0,
+        14341,
+        14460
+    ],
+    "-O3 -fipa-pta -fweb -fsplit-loops -fbranch-target-load-optimize -fsched-dep-count-heuristic -fsection-anchors -fno-ira-share-spill-slots -fconserve-stack -fgcse-las -fdevirtualize-speculatively -fgcse-sm -fkeep-static-functions": [
+        14254.5,
+        54.94588246629587,
+        14237.5,
+        146.0,
+        14205,
+        14351
+    ],
+    "-O3 -fmerge-all-constants -fweb -fmodulo-sched -fipa-pta -fselective-scheduling -fno-ira-share-spill-slots -fpeel-loops -fno-predictive-commoning -funroll-loops -fsched-critical-path-heuristic -fsched-pressure -flimit-function-alignment -ftree-loop-ivcanon -freschedule-modulo-scheduled-loops -fivopts -floop-nest-optimize -fconserve-stack -fvpt -floop-parallelize-all -fsplit-loops -fsched2-use-superblocks -fno-ipa-cp-clone -fcx-limited-range -fvariable-expansion-in-unroller -fbranch-probabilities -fbtr-bb-exclusive": [
+        14618.7,
+        64.26359778288172,
+        14626.5,
+        174.0,
+        14548,
+        14722
+    ],
+    "-O3 -fno-function-cse -floop-interchange -fno-ipa-cp-clone -fdevirtualize-speculatively -floop-unroll-and-jam -ftree-loop-im -fselective-scheduling -fno-predictive-commoning -fvpt -fivopts -freschedule-modulo-scheduled-loops -fisolate-erroneous-paths-attribute -fstdarg-opt -fsplit-loops -fsched-dep-count-heuristic -fsched-spec-load-dangerous -ftree-loop-ivcanon -fbranch-target-load-optimize2 -fsched-stalled-insns-dep -fsched-spec-insn-heuristic -fmerge-all-constants -fgcse-sm -fprofile-correction -fsched-pressure": [
+        14251.5,
+        36.11993909186448,
+        14239.5,
+        103.0,
+        14216,
+        14319
+    ],
+    "-O3 -fprefetch-loop-arrays -fno-ira-share-spill-slots -ftree-vectorize -fweb -flive-range-shrinkage -fvpt -fgcse-sm -fno-ipa-cp-clone -fmodulo-sched -fsched-spec-insn-heuristic -fbranch-target-load-optimize2 -fsched-stalled-insns-dep -fno-zero-initialized-in-bss -floop-interchange -fgcse-after-reload -fsched-dep-count-heuristic -ftree-loop-im -fpeel-loops -freschedule-modulo-scheduled-loops -fcx-limited-range -fivopts -fdevirtualize-speculatively -fsplit-loops -fgcse-las -floop-unroll-and-jam -fbranch-target-load-optimize -fsched-spec-load-dangerous -fsched-spec-load -fsched-critical-path-heuristic -floop-parallelize-all -fselective-scheduling -fno-predictive-commoning -flimit-function-alignment -fsched-stalled-insns -floop-nest-optimize -fmerge-all-constants -fipa-pta -fbtr-bb-exclusive -fsection-anchors -fno-ira-share-save-slots -fno-function-cse": [
+        14362.9,
+        43.40149767001134,
+        14368.0,
+        114.0,
+        14313,
+        14427
+    ],
+    "-O3 -fsched2-use-superblocks -floop-nest-optimize -fsched-pressure -fno-defer-pop -floop-interchange -fno-predictive-commoning -fivopts -fgcse-sm -fsched-stalled-insns-dep -fpeel-loops -fsched-spec-load-dangerous -fsplit-loops -fkeep-static-functions -floop-parallelize-all -fselective-scheduling -fno-ira-share-save-slots -fno-function-cse -funroll-all-loops -fsched-spec-insn-heuristic -flimit-function-alignment -fcx-limited-range -fvpt -fgcse-after-reload -fdevirtualize-speculatively": [
+        14603.2,
+        46.6,
+        14605.0,
+        132.0,
+        14538,
+        14670
+    ],
+    "-O3 -fsched-pressure -frename-registers -fsplit-loops -fmodulo-sched -fivopts -fgcse-las -ftree-loop-im -fprefetch-loop-arrays -fbranch-target-load-optimize2 -flimit-function-alignment": [
+        14373.3,
+        38.52544613628764,
+        14378.0,
+        93.0,
+        14335,
+        14428
+    ],
+    "-O3 -fbranch-target-load-optimize2 -fsched-last-insn-heuristic -fsched-critical-path-heuristic": [
+        14414.3,
+        33.52327549628765,
+        14422.5,
+        84.0,
+        14372,
+        14456
+    ],
+    "-O3 -ftree-vectorize -fsched-spec-load-dangerous -flto -fsched-spec-insn-heuristic -fbranch-target-load-optimize2 -fselective-scheduling -fgcse-after-reload -fno-ira-share-spill-slots -ftree-loop-im -fprefetch-loop-arrays -fipa-pta -funroll-all-loops": [
+        14438.0,
+        181.1719424394206,
+        14382.0,
+        100.0,
+        14349,
+        14449
+    ],
+    "-O3 -fsched-rank-heuristic -fgcse-las -floop-parallelize-all -floop-interchange -fno-ira-share-save-slots -fipa-pta -fbranch-target-load-optimize2 -fno-defer-pop -fpeel-loops -freschedule-modulo-scheduled-loops -fno-function-cse -fsched-pressure -fivopts -ftree-loop-ivcanon -fsplit-loops -fprofile-correction -fno-zero-initialized-in-bss -fconserve-stack -fsched-spec-load-dangerous -fgcse-sm -fdevirtualize-speculatively -fsched-dep-count-heuristic -fsched-spec-load -fgcse-after-reload -fsection-anchors -fprefetch-loop-arrays -fisolate-erroneous-paths-attribute -ftree-loop-im -fsched2-use-superblocks -fselective-scheduling -fmodulo-sched -fcx-limited-range -fno-predictive-commoning -fweb -fsched-spec-insn-heuristic -ftree-vectorize -fkeep-static-functions -floop-nest-optimize -flive-range-shrinkage -fvariable-expansion-in-unroller -fbtr-bb-exclusive": [
+        14709.8,
+        40.05945581257938,
+        14710.5,
+        126.0,
+        14658,
+        14784
+    ],
+    "-O3 -fselective-scheduling -fpeel-loops -ftree-loop-im -fvariable-expansion-in-unroller -fno-predictive-commoning -fmerge-all-constants -fmodulo-sched -fsched-stalled-insns-dep -fno-ira-share-save-slots -fgcse-after-reload -fsched-spec-insn-heuristic -fno-function-cse -floop-nest-optimize -fconserve-stack -fno-defer-pop -fbtr-bb-exclusive -fkeep-static-functions -fno-ira-share-spill-slots -fvpt -flive-range-shrinkage -floop-unroll-and-jam -fno-ipa-cp-clone -flimit-function-alignment -fsched-dep-count-heuristic -fsched-stalled-insns -fsched-rank-heuristic -frename-registers -fstdarg-opt -fgcse-las -fbranch-target-load-optimize2": [
+        14302.1,
+        53.71117202221527,
+        14276.0,
+        123.0,
+        14257,
+        14380
+    ],
+    "-O3 -flive-range-shrinkage -freschedule-modulo-scheduled-loops -fno-predictive-commoning -fsection-anchors -fconserve-stack -fno-ipa-cp-clone -fsched-last-insn-heuristic -fstdarg-opt -fgcse-sm -fsched-spec-insn-heuristic -fivopts -fmerge-all-constants -fsched-spec-load-dangerous -fsched-pressure -fipa-pta -fselective-scheduling -flto -ftree-loop-ivcanon -fsplit-loops -fgcse-after-reload": [
+        14219.5,
+        54.727049984445536,
+        14199.5,
+        134.0,
+        14172,
+        14306
+    ],
+    "-O3 -flimit-function-alignment -fsplit-loops -fsched-spec-load-dangerous -fgcse-after-reload -fsched-spec-insn-heuristic -fsched-pressure -ftree-loop-im -ftree-loop-ivcanon -fstdarg-opt -fbranch-target-load-optimize2 -fno-ira-share-spill-slots -freschedule-modulo-scheduled-loops -fcx-limited-range -fno-ipa-cp-clone -fkeep-static-functions -fsection-anchors -floop-parallelize-all -flto -fselective-scheduling -fgcse-sm -fprefetch-loop-arrays -floop-interchange -fmerge-all-constants -fno-function-cse -fweb -fsched2-use-superblocks -frename-registers -fbranch-probabilities -fsched-rank-heuristic -fvpt -flive-range-shrinkage -floop-nest-optimize -fisolate-erroneous-paths-attribute -fdevirtualize-speculatively -fsched-stalled-insns-dep -fsched-stalled-insns -fbtr-bb-exclusive -fsched-critical-path-heuristic -fipa-pta -fno-defer-pop": [
+        14433.8,
+        53.25936537361294,
+        14419.0,
+        158.0,
+        14387,
+        14545
+    ],
+    "-O3 -fno-zero-initialized-in-bss -fsched-last-insn-heuristic -fbtr-bb-exclusive -fsched-pressure -frename-registers -fprefetch-loop-arrays -fno-ira-share-spill-slots -fivopts -fsplit-loops -fno-ipa-cp-clone -fsection-anchors -fvariable-expansion-in-unroller -fisolate-erroneous-paths-attribute -fipa-pta -flto -floop-parallelize-all -fsched-spec-load-dangerous -fgcse-sm -fvpt -fkeep-static-functions -fsched-stalled-insns-dep -fno-predictive-commoning -fsched2-use-superblocks -ftree-loop-ivcanon -fsched-dep-count-heuristic -fweb -fmodulo-sched -fsched-rank-heuristic -fconserve-stack -ftree-loop-im -floop-unroll-and-jam -flimit-function-alignment -fpeel-loops -fgcse-after-reload -fselective-scheduling -fgcse-las -fno-function-cse -fsched-spec-insn-heuristic -fno-defer-pop -flive-range-shrinkage -fsched-stalled-insns": [
+        14460.1,
+        77.06678921558884,
+        14454.5,
+        255.0,
+        14363,
+        14618
+    ],
+    "-O3 -fmerge-all-constants -freschedule-modulo-scheduled-loops -fkeep-static-functions -ftree-loop-ivcanon -fsched-stalled-insns -flive-range-shrinkage -floop-interchange -fgcse-sm -frename-registers -fno-ipa-cp-clone -flimit-function-alignment -fipa-pta -fsched-spec-insn-heuristic -fselective-scheduling -fsched-stalled-insns-dep -fprofile-correction": [
+        14286.8,
+        38.08096637429256,
+        14297.5,
+        100.0,
+        14240,
+        14340
+    ],
+    "-O3 -flive-range-shrinkage -fpeel-loops -fivopts -fipa-pta -flto -fno-predictive-commoning -fdevirtualize-speculatively -fmodulo-sched -fsched-stalled-insns-dep -fsched-dep-count-heuristic -fsched2-use-superblocks -fbranch-target-load-optimize2 -fmerge-all-constants -floop-interchange -fno-zero-initialized-in-bss -fsched-critical-path-heuristic -fgcse-las -fisolate-erroneous-paths-attribute -floop-parallelize-all -fgcse-after-reload -fsched-spec-load -fcx-limited-range -fno-ipa-cp-clone -fsched-pressure -fbranch-probabilities -fsched-spec-insn-heuristic -fsched-spec-load-dangerous -fsched-stalled-insns -fkeep-static-functions -fgcse-sm -flimit-function-alignment -fstdarg-opt -fprefetch-loop-arrays -freschedule-modulo-scheduled-loops -fno-function-cse -fno-defer-pop -fno-ira-share-save-slots -frename-registers -fprofile-use -fbtr-bb-exclusive -ftree-loop-ivcanon -fprofile-correction -fsplit-loops -fselective-scheduling -funroll-all-loops": [
+        14545.9,
+        62.0184649922908,
+        14548.0,
+        204.0,
+        14456,
+        14660
+    ],
+    "-O3 -fvariable-expansion-in-unroller -fbtr-bb-exclusive -fsched-stalled-insns -fconserve-stack -fbranch-target-load-optimize2 -fkeep-static-functions -floop-unroll-and-jam -fsplit-loops -freschedule-modulo-scheduled-loops -fbranch-probabilities -fivopts -fcx-limited-range -fgcse-las -flive-range-shrinkage -frename-registers -fsched-dep-count-heuristic -fisolate-erroneous-paths-attribute -fsched-spec-insn-heuristic -fgcse-after-reload -fno-defer-pop -fsched-pressure -fno-predictive-commoning -fsched-critical-path-heuristic -fselective-scheduling -fno-function-cse -floop-nest-optimize -floop-interchange -fdevirtualize-speculatively -fno-zero-initialized-in-bss -floop-parallelize-all -ftree-loop-im -fgcse-sm -fsched-rank-heuristic -fno-ira-share-spill-slots -fsched-spec-load-dangerous -fsection-anchors -fpeel-loops -ftree-vectorize -fsched-stalled-insns-dep -fmodulo-sched -fstdarg-opt -fweb -flimit-function-alignment -ftree-loop-ivcanon -fsched-last-insn-heuristic -fno-ira-share-save-slots -funroll-all-loops -flto -fsched2-use-superblocks": [
+        14790.90909090909,
+        136.79344385237084,
+        14751.0,
+        76.0,
+        14729,
+        14805
+    ],
+    "-O3 -fprofile-use -fsched-spec-insn-heuristic -fno-defer-pop -ftree-loop-im -floop-parallelize-all -fprofile-correction -fpeel-loops -fvariable-expansion-in-unroller -ftree-loop-ivcanon -fsched-rank-heuristic -floop-interchange -flto -fbtr-bb-exclusive -floop-unroll-and-jam -floop-nest-optimize -fmodulo-sched -fno-ira-share-spill-slots -fselective-scheduling -fsched-last-insn-heuristic -fgcse-after-reload -fsched2-use-superblocks -fno-ipa-cp-clone -fsched-spec-load-dangerous -fipa-pta -fweb -fbranch-target-load-optimize2 -fkeep-static-functions -fsection-anchors -fno-ira-share-save-slots -fsplit-loops -fbranch-probabilities -fno-predictive-commoning -fisolate-erroneous-paths-attribute -frename-registers": [
+        14649.5,
+        92.68252262427906,
+        14637.0,
+        331.0,
+        14570,
+        14901
+    ],
+    "-O3 -freschedule-modulo-scheduled-loops -floop-parallelize-all -fgcse-sm -fno-function-cse -fprofile-correction -fno-ipa-cp-clone -fstdarg-opt -fno-ira-share-spill-slots -fsched-spec-insn-heuristic -fsplit-loops -fdevirtualize-speculatively -flimit-function-alignment -fno-defer-pop -fgcse-las -fsched-spec-load-dangerous -fkeep-static-functions -fvpt -fmerge-all-constants -fisolate-erroneous-paths-attribute -floop-nest-optimize -fbtr-bb-exclusive -fsched-rank-heuristic -fprefetch-loop-arrays -frename-registers -fsched2-use-superblocks -fsched-stalled-insns -fsched-stalled-insns-dep -fbranch-probabilities -funroll-all-loops -fsched-dep-count-heuristic -fsched-last-insn-heuristic -fsched-critical-path-heuristic -fmodulo-sched -fno-predictive-commoning -fgcse-after-reload": [
+        14619.0,
+        43.365885209459286,
+        14604.0,
+        117.0,
+        14573,
+        14690
+    ],
+    "-O3 -fpeel-loops -fstdarg-opt -fbranch-probabilities -fsched-spec-load-dangerous -floop-nest-optimize -flive-range-shrinkage -fsched-dep-count-heuristic -fbranch-target-load-optimize2 -frename-registers -fprefetch-loop-arrays -fbtr-bb-exclusive -ftree-vectorize -floop-interchange -fmodulo-sched -fisolate-erroneous-paths-attribute -fkeep-static-functions -freschedule-modulo-scheduled-loops -fmerge-all-constants -fno-ipa-cp-clone -fsched-critical-path-heuristic -fsection-anchors -fvpt -fsched-rank-heuristic -fsplit-loops -fno-zero-initialized-in-bss -fno-predictive-commoning -fprofile-correction -fsched-stalled-insns -floop-unroll-and-jam": [
+        14231.2,
+        59.119878213677005,
+        14233.0,
+        157.0,
+        14152,
+        14309
+    ],
+    "-O3 -fgcse-sm -fmodulo-sched -fsched-critical-path-heuristic -fno-ira-share-save-slots -flimit-function-alignment -fprofile-correction -fsched2-use-superblocks -fstdarg-opt -fdevirtualize-speculatively -fconserve-stack -flto -fgcse-after-reload -ftree-vectorize -frename-registers -fsplit-loops -fsched-rank-heuristic -fbranch-probabilities": [
+        14743.181818181818,
+        217.69320287623222,
+        14676.0,
+        209.0,
+        14648,
+        14857
+    ],
+    "-O3 -fno-ipa-cp-clone -fno-predictive-commoning -fipa-pta -fno-ira-share-spill-slots -fprofile-correction -fsched-dep-count-heuristic -floop-unroll-and-jam -fsched-spec-insn-heuristic -fsched-critical-path-heuristic -fmerge-all-constants -fsched2-use-superblocks -fno-function-cse -fpeel-loops -fsplit-loops -fprefetch-loop-arrays -fconserve-stack -flimit-function-alignment -fdevirtualize-speculatively -fprofile-use -fvpt -floop-nest-optimize -fkeep-static-functions -fbranch-target-load-optimize2 -fno-ira-share-save-slots -fselective-scheduling -ftree-vectorize -fsched-spec-load-dangerous -fcx-limited-range": [
+        14839.9,
+        46.435869756040965,
+        14839.0,
+        118.0,
+        14790,
+        14908
+    ],
+    "-O3 -fno-function-cse -fgcse-sm -fisolate-erroneous-paths-attribute -fdevirtualize-speculatively": [
+        14322.2,
+        41.587979032407915,
+        14332.0,
+        103.0,
+        14283,
+        14386
+    ],
+    "-O3 -fmerge-all-constants -floop-unroll-and-jam -fsched-spec-load-dangerous -fvariable-expansion-in-unroller -floop-parallelize-all -fgcse-las -fisolate-erroneous-paths-attribute -fselective-scheduling -fsplit-loops -flimit-function-alignment -fmodulo-sched -fno-ira-share-save-slots -fsched2-use-superblocks -fweb -fno-zero-initialized-in-bss -fpeel-loops -flive-range-shrinkage -fbranch-target-load-optimize2 -fivopts -fgcse-after-reload -fbtr-bb-exclusive -fconserve-stack -fstdarg-opt -fsched-stalled-insns -fno-function-cse -fsection-anchors -freschedule-modulo-scheduled-loops -frename-registers -fdevirtualize-speculatively -fkeep-static-functions -fno-defer-pop -fno-predictive-commoning -fsched-stalled-insns-dep -fsched-last-insn-heuristic -fno-ipa-cp-clone -ftree-vectorize -ftree-loop-ivcanon -fsched-spec-insn-heuristic -fipa-pta -fprefetch-loop-arrays -fprofile-correction -fsched-dep-count-heuristic -fno-ira-share-spill-slots -fsched-rank-heuristic -floop-nest-optimize": [
+        14767.7,
+        56.007231675918426,
+        14763.0,
+        166.0,
+        14704,
+        14870
+    ],
+    "-O3 -flimit-function-alignment -fsched-spec-insn-heuristic -fno-ira-share-spill-slots -fgcse-after-reload -fsched-dep-count-heuristic -fsched-rank-heuristic -fsched-stalled-insns -fgcse-sm -fno-defer-pop -fvpt -fselective-scheduling -fbranch-probabilities -fdevirtualize-speculatively -fsplit-loops -fsched-spec-load-dangerous -floop-unroll-and-jam -fprefetch-loop-arrays -fbtr-bb-exclusive -fvariable-expansion-in-unroller -frename-registers -fno-function-cse -fkeep-static-functions -fisolate-erroneous-paths-attribute -fipa-pta -floop-parallelize-all -fmerge-all-constants -fpeel-loops -fstdarg-opt": [
+        14118.2,
+        38.749967741922056,
+        14112.0,
+        116.0,
+        14087,
+        14203
+    ],
+    "-O3 -fdevirtualize-speculatively -fpeel-loops -fno-defer-pop -fgcse-las -fsched-pressure -fmodulo-sched -fisolate-erroneous-paths-attribute -fno-ira-share-spill-slots -floop-interchange -fvariable-expansion-in-unroller -fvpt -fno-function-cse -fgcse-after-reload -fkeep-static-functions -ftree-vectorize -funroll-all-loops -fprofile-correction -fsched-rank-heuristic -fsched-stalled-insns -fbranch-target-load-optimize2 -fbtr-bb-exclusive -floop-nest-optimize -fipa-pta -fsched-last-insn-heuristic -fmerge-all-constants -freschedule-modulo-scheduled-loops -ftree-loop-ivcanon -flive-range-shrinkage -fsched-critical-path-heuristic -fprefetch-loop-arrays -floop-unroll-and-jam": [
+        14696.7,
+        32.363714249140195,
+        14685.0,
+        103.0,
+        14677,
+        14780
+    ],
+    "-O3 -fsched-last-insn-heuristic -fisolate-erroneous-paths-attribute -fselective-scheduling -fno-zero-initialized-in-bss -flimit-function-alignment -fvpt -frename-registers -fsched-rank-heuristic -fsched-stalled-insns -fgcse-sm -fmerge-all-constants -fno-predictive-commoning -fsched-spec-load -fgcse-after-reload -fsched-dep-count-heuristic -fprefetch-loop-arrays -fsched-critical-path-heuristic -fkeep-static-functions -floop-unroll-and-jam -floop-nest-optimize -fsched2-use-superblocks -fprofile-correction -fno-ira-share-save-slots -funroll-all-loops -fsection-anchors -fconserve-stack -fno-ipa-cp-clone -fno-defer-pop -fivopts -fbtr-bb-exclusive -fgcse-las": [
+        14707.1,
+        82.9258102161203,
+        14684.5,
+        299.0,
+        14646,
+        14945
+    ],
+    "-O3 -fsplit-loops -fsched-critical-path-heuristic -fmodulo-sched -flimit-function-alignment -fkeep-static-functions -fno-predictive-commoning -fprefetch-loop-arrays -fbranch-target-load-optimize2 -frename-registers -fselective-scheduling -fno-defer-pop -freschedule-modulo-scheduled-loops -fivopts -fgcse-after-reload -fno-ipa-cp-clone -flto -floop-parallelize-all -fbtr-bb-exclusive -fsched-dep-count-heuristic -fgcse-las -fisolate-erroneous-paths-attribute -fsched-pressure -fsched-rank-heuristic -floop-unroll-and-jam -fsched-last-insn-heuristic -fstdarg-opt -fipa-pta -fpeel-loops -fweb -fsched-stalled-insns -fsched2-use-superblocks -funroll-all-loops -fno-function-cse -fbranch-probabilities": [
+        14707.1,
+        53.60307826981581,
+        14723.5,
+        101.0,
+        14662,
+        14763
+    ],
+    "-O3 -floop-nest-optimize -fkeep-static-functions -fmerge-all-constants -fbranch-probabilities -fvariable-expansion-in-unroller -fsched-spec-insn-heuristic -fsched2-use-superblocks -floop-parallelize-all -fbranch-target-load-optimize2 -fsched-stalled-insns": [
+        14331.6,
+        64.38043180967335,
+        14306.0,
+        195.0,
+        14272,
+        14467
+    ],
+    "-O3 -fkeep-static-functions -fvpt": [
+        14360.1,
+        51.27270228883982,
+        14347.5,
+        181.0,
+        14310,
+        14491
+    ],
+    "-O3 -fisolate-erroneous-paths-attribute -fno-ira-share-spill-slots -fdevirtualize-speculatively -floop-parallelize-all -fvpt -fsplit-loops -fbranch-target-load-optimize2 -fsched-dep-count-heuristic -fpeel-loops -fgcse-sm -fprofile-use -flive-range-shrinkage -fsched-stalled-insns -fmerge-all-constants -flto -fprefetch-loop-arrays -fconserve-stack -fbtr-bb-exclusive -fno-ipa-cp-clone -fprofile-correction -fgcse-after-reload -fsched-critical-path-heuristic -fno-defer-pop -fkeep-static-functions -fsched-pressure -fno-predictive-commoning -floop-nest-optimize -fsched-spec-load-dangerous -fno-function-cse -floop-interchange -fbranch-probabilities -ftree-loop-im -fmodulo-sched -fsched-rank-heuristic -fipa-pta -flimit-function-alignment -fsched-spec-insn-heuristic -fno-zero-initialized-in-bss -funroll-all-loops -funroll-loops -fsched-stalled-insns-dep -frename-registers -fcx-limited-range -fweb -fivopts -fgcse-las": [
+        14425.0,
+        72.51896303726357,
+        14424.5,
+        236.0,
+        14357,
+        14593
+    ],
+    "-O3 -flive-range-shrinkage -fsched2-use-superblocks -fsched-stalled-insns-dep -fno-defer-pop -fbranch-target-load-optimize2 -fsched-dep-count-heuristic -fno-predictive-commoning -floop-nest-optimize -fprofile-correction -fvpt -freschedule-modulo-scheduled-loops -floop-unroll-and-jam -fsched-stalled-insns -fgcse-after-reload -fsched-critical-path-heuristic -fsched-last-insn-heuristic -fpeel-loops -fipa-pta -fprefetch-loop-arrays -fvariable-expansion-in-unroller -fweb -fsched-rank-heuristic -fgcse-sm -fselective-scheduling -fbtr-bb-exclusive -fgcse-las -ftree-vectorize -fno-ipa-cp-clone -floop-parallelize-all -fkeep-static-functions -fsplit-loops -flimit-function-alignment -flto -fisolate-erroneous-paths-attribute -frename-registers -fsched-spec-load-dangerous -fcx-limited-range -fivopts -fbranch-probabilities -fsched-spec-insn-heuristic -fno-function-cse -floop-interchange -ftree-loop-im -fmerge-all-constants -fdevirtualize-speculatively": [
+        14291.8,
+        19.15097908724251,
+        14289.0,
+        43.0,
+        14277,
+        14320
+    ],
+    "-O3 -fsched-critical-path-heuristic -floop-unroll-and-jam -fsched-spec-load -fno-ira-share-spill-slots -fsched-stalled-insns -ftree-loop-ivcanon -fsched-dep-count-heuristic -fvariable-expansion-in-unroller -fno-zero-initialized-in-bss -fno-ipa-cp-clone": [
+        14464.7,
+        115.50935027087635,
+        14417.5,
+        375.0,
+        14373,
+        14748
+    ],
+    "-O3 -fsched-spec-load -fvariable-expansion-in-unroller": [
+        14417.2,
+        49.16462142638749,
+        14423.0,
+        121.0,
+        14373,
+        14494
+    ],
+    "-O3 -fgcse-las -fno-zero-initialized-in-bss -fbranch-probabilities -fsection-anchors -funroll-all-loops -flto -fno-function-cse -fgcse-sm -fno-ipa-cp-clone -fsplit-loops -flimit-function-alignment -fbranch-target-load-optimize -fweb -fsched-last-insn-heuristic -fno-predictive-commoning -fno-inline-functions -funroll-loops -fsched-spec-load -floop-parallelize-all -fno-defer-pop -fsched-rank-heuristic -fivopts": [
+        14566.4,
+        65.12019655989991,
+        14552.5,
+        172.0,
+        14519,
+        14691
+    ],
+    "-O3 -fgcse-after-reload -funroll-loops -fconserve-stack -fsched-spec-insn-heuristic -freschedule-modulo-scheduled-loops -fweb -fbranch-target-load-optimize2 -fdevirtualize-speculatively -fcx-limited-range -fsched-group-heuristic -fipa-pta -fvariable-expansion-in-unroller -fsched-pressure -fbranch-target-load-optimize -fno-zero-initialized-in-bss -fsched-spec-load -floop-nest-optimize -funroll-all-loops -ftree-vectorize": [
+        14670.3,
+        67.74813650573718,
+        14660.5,
+        209.0,
+        14623,
+        14832
+    ],
+    "-O3 -fno-ira-share-save-slots": [
+        14420.1,
+        38.05640550551247,
+        14419.5,
+        116.0,
+        14359,
+        14475
+    ],
+    "-O3 -fisolate-erroneous-paths-attribute -floop-interchange -fmodulo-sched -fsched-spec-load-dangerous -fgcse-las -fbranch-target-load-optimize2 -fno-ipa-cp-clone": [
+        14372.7,
+        55.414889695820925,
+        14379.5,
+        155.0,
+        14294,
+        14449
+    ],
+    "-O3 -fsection-anchors -fcx-limited-range -fsplit-loops -fbtr-bb-exclusive -fselective-scheduling2 -fipa-pta -fno-ira-share-spill-slots -flto -fno-ira-share-save-slots -floop-parallelize-all -fpeel-loops -ftree-vectorize -fsched-critical-path-heuristic -fno-zero-initialized-in-bss": [
+        14316.5,
+        85.19066850307021,
+        14313.0,
+        293.0,
+        14229,
+        14522
+    ],
+    "-O3 -flto -frename-registers -fno-ira-share-spill-slots -fmodulo-sched -fno-ira-share-save-slots -fbtr-bb-exclusive -fisolate-erroneous-paths-attribute -fsched-pressure -ftree-parallelize-loops=16 -floop-interchange -fbranch-probabilities -fsched-critical-path-heuristic -fcx-limited-range -fkeep-inline-functions": [
+        14397.7,
+        39.46910183928689,
+        14400.5,
+        68.0,
+        14378,
+        14446
+    ],
+    "-O3 -fsched2-use-superblocks -fprefetch-loop-arrays": [
+        14758.2,
+        73.40544938899292,
+        14753.0,
+        191.0,
+        14683,
+        14874
+    ],
+    "-O3 -fsched-stalled-insns-dep -floop-unroll-and-jam -fno-zero-initialized-in-bss -ftree-parallelize-loops=16 -fbranch-target-load-optimize2 -fsched-group-heuristic -flimit-function-alignment -fgcse-las -fkeep-static-functions -fprofile-correction -frename-registers -fvariable-expansion-in-unroller -fno-function-cse -fselective-scheduling -fbtr-bb-exclusive -ftree-loop-ivcanon -fsplit-loops -fcx-limited-range -fconserve-stack -fno-inline-functions -fsched-last-insn-heuristic -fno-ira-share-save-slots -fsched-spec-load -fsched-stalled-insns -fkeep-inline-functions -flto -ftree-vectorize -funroll-loops -fno-ira-share-spill-slots -fsched-spec-insn-heuristic -fisolate-erroneous-paths-attribute -floop-parallelize-all -fno-ipa-cp-clone -floop-interchange -fsched-pressure -funroll-all-loops -floop-nest-optimize -flive-range-shrinkage -fweb -fivopts -fpeel-loops -fvpt -fsched-dep-count-heuristic": [
+        14642.3,
+        38.97191296305584,
+        14642.0,
+        93.0,
+        14604,
+        14697
+    ],
+    "-O3 -fvpt -fselective-scheduling -fno-ira-share-spill-slots -fsched-pressure -fcx-limited-range -fbranch-target-load-optimize -fsched-group-heuristic -floop-nest-optimize -fsection-anchors -fipa-pta -fno-ipa-cp-clone -fsched-spec-load-dangerous -fsched-critical-path-heuristic -fkeep-inline-functions -fgcse-las -fsched2-use-superblocks -fstdarg-opt -fno-ira-share-save-slots -fprefetch-loop-arrays -fmerge-all-constants": [
+        14878.6,
+        45.906862232132575,
+        14876.5,
+        125.0,
+        14830,
+        14955
+    ],
+    "-O3 -fivopts -fsection-anchors -fgcse-after-reload -fbtr-bb-exclusive -fsched-spec-load-dangerous -fsplit-loops -floop-nest-optimize -freschedule-modulo-scheduled-loops -fmodulo-sched -fsched-last-insn-heuristic -fsched-group-heuristic -fkeep-inline-functions -fweb -fno-ipa-cp-clone -fno-predictive-commoning -fbranch-target-load-optimize2 -fprefetch-loop-arrays -fgcse-sm -fsched-stalled-insns-dep -fno-zero-initialized-in-bss -fsched-rank-heuristic -fipa-pta -fstdarg-opt -fbranch-target-load-optimize -floop-unroll-and-jam": [
+        14427.2,
+        45.89727660765942,
+        14431.0,
+        157.0,
+        14368,
+        14525
+    ],
+    "-O3 -fno-ira-share-spill-slots -ftree-loop-im -fno-ipa-cp-clone -fsched-last-insn-heuristic -flto -fgcse-after-reload -fprofile-use -fcx-limited-range -flive-range-shrinkage -funroll-loops -fno-defer-pop -fsection-anchors -fsched-spec-load -fselective-scheduling -fdevirtualize-speculatively -fgcse-las -fmerge-all-constants -fprofile-correction -fmodulo-sched -fsched-spec-insn-heuristic -fweb -fipa-pta -fvariable-expansion-in-unroller -fsched-stalled-insns -flimit-function-alignment -frename-registers": [
+        14524.5,
+        46.99202059924642,
+        14525.5,
+        135.0,
+        14460,
+        14595
+    ],
+    "-O3 -fconserve-stack -fvpt -fisolate-erroneous-paths-attribute -fvariable-expansion-in-unroller -fsched-stalled-insns-dep -floop-nest-optimize -fivopts -fsched-rank-heuristic -ftree-loop-ivcanon -fno-defer-pop -funroll-loops -fselective-scheduling -fgcse-las -fsched-last-insn-heuristic -flimit-function-alignment -fsched-dep-count-heuristic -ftree-loop-im -funswitch-loops -fmodulo-sched -fselective-scheduling2 -fno-function-cse -fno-inline-functions -fbranch-probabilities -floop-interchange -fno-ira-share-spill-slots -frename-registers -fdevirtualize-speculatively -fbranch-target-load-optimize2 -fno-ira-share-save-slots -fsched-critical-path-heuristic -flto -fno-ipa-cp-clone -fsched-stalled-insns": [
+        14679.2,
+        53.637300454068345,
+        14686.5,
+        149.0,
+        14612,
+        14761
+    ],
+    "-O3 -fsched-group-heuristic -fprofile-correction -fivopts -fno-function-cse -fkeep-static-functions -ftree-loop-im -funswitch-loops -fsched-spec-load-dangerous -floop-parallelize-all -fsched-critical-path-heuristic -ftree-vectorize -fconserve-stack -fsplit-loops -ftree-loop-ivcanon -flimit-function-alignment -fsched-dep-count-heuristic -fno-predictive-commoning -floop-interchange -fsched-pressure": [
+        14284.5,
+        51.48834819646092,
+        14286.0,
+        174.0,
+        14215,
+        14389
+    ],
+    "-O3 -fprefetch-loop-arrays -fisolate-erroneous-paths-attribute -ftree-vectorize -fno-zero-initialized-in-bss -fsched-pressure -fbranch-probabilities -fno-ira-share-spill-slots -fdevirtualize-speculatively -flto -floop-nest-optimize -fgcse-after-reload -fno-function-cse -freschedule-modulo-scheduled-loops -funswitch-loops -fselective-scheduling2 -flive-range-shrinkage -fkeep-static-functions -fsched-last-insn-heuristic -funroll-loops -fweb": [
+        14388.0,
+        41.28437961263315,
+        14386.0,
+        126.0,
+        14351,
+        14477
+    ],
+    "-O3 -fno-ipa-cp-clone -floop-interchange -fbranch-target-load-optimize2 -fvpt -fsched-spec-load-dangerous -fisolate-erroneous-paths-attribute -fselective-scheduling -fsched-dep-count-heuristic -ftree-parallelize-loops=16 -fprofile-correction -fmodulo-sched -fgcse-sm -ftree-loop-im -funroll-loops -fsched-group-heuristic -fsched-spec-insn-heuristic -fno-defer-pop -fweb -fbranch-probabilities -fcx-limited-range -fmerge-all-constants -funroll-all-loops -flive-range-shrinkage -fno-function-cse -fstdarg-opt -floop-unroll-and-jam -fno-zero-initialized-in-bss -fno-predictive-commoning -fsection-anchors -ftree-vectorize -fsplit-loops -fipa-pta": [
+        14569.7,
+        34.19956140069635,
+        14573.5,
+        90.0,
+        14528,
+        14618
+    ],
+    "-O3 -funroll-loops -ftree-vectorize -fno-inline-functions -fsched-spec-insn-heuristic -fbranch-target-load-optimize -fno-ira-share-spill-slots -fsched-critical-path-heuristic -fcx-limited-range -fno-ipa-cp-clone -fsched-stalled-insns-dep -fipa-pta -fbtr-bb-exclusive -fmerge-all-constants -floop-interchange -fsched-group-heuristic -funroll-all-loops -fweb -fdevirtualize-speculatively -fstdarg-opt -fisolate-erroneous-paths-attribute -fno-function-cse -fsched-stalled-insns -floop-unroll-and-jam -fbranch-target-load-optimize2 -fno-predictive-commoning -fno-zero-initialized-in-bss -floop-nest-optimize -flimit-function-alignment -fsched-spec-load -fsched-rank-heuristic -fivopts -fsplit-loops -fkeep-static-functions -fno-defer-pop -funswitch-loops -fno-ira-share-save-slots -fgcse-las -fsched-last-insn-heuristic -flto -fprofile-correction -fsched-pressure -fprefetch-loop-arrays": [
+        14877.363636363636,
+        135.60187229015327,
+        14817.0,
+        188.0,
+        14796,
+        14984
+    ],
+    "-O3 -fisolate-erroneous-paths-attribute -fno-function-cse -fsched-spec-load-dangerous -fvpt -funroll-loops -fsched-spec-load -freschedule-modulo-scheduled-loops -fno-ipa-cp-clone -fgcse-las -fkeep-static-functions -fsched-pressure -floop-unroll-and-jam -fconserve-stack -fstdarg-opt -fmodulo-sched -fpeel-loops -fcx-limited-range -fprofile-correction -fmerge-all-constants -floop-nest-optimize -fsched-rank-heuristic -frename-registers -flto -ftree-vectorize -fno-ira-share-spill-slots -fno-ira-share-save-slots -fgcse-sm -fdevirtualize-speculatively -fprefetch-loop-arrays -fsched-critical-path-heuristic": [
+        14761.4,
+        74.53214071794798,
+        14779.5,
+        213.0,
+        14670,
+        14883
+    ],
+    "-O3 -fno-ipa-cp-clone -fno-defer-pop -fvariable-expansion-in-unroller -fbranch-target-load-optimize -fisolate-erroneous-paths-attribute -fipa-pta -fsched-critical-path-heuristic -fmodulo-sched -fno-function-cse -fbranch-probabilities -fpeel-loops": [
+        14249.0,
+        47.057411743528775,
+        14249.0,
+        115.0,
+        14205,
+        14320
+    ],
+    "-O3 -fsched-stalled-insns -freschedule-modulo-scheduled-loops -fsched-rank-heuristic -fsched-spec-insn-heuristic -fprefetch-loop-arrays -fweb -fmerge-all-constants -fselective-scheduling -funroll-all-loops -fno-function-cse -flive-range-shrinkage": [
+        14691.6,
+        95.2934415371803,
+        14692.0,
+        298.0,
+        14590,
+        14888
+    ],
+    "-O3 -fno-ira-share-save-slots -flive-range-shrinkage -fvpt -fprefetch-loop-arrays -fprofile-use -fgcse-las -fsplit-loops -funroll-loops -fbranch-target-load-optimize2 -fweb -fvariable-expansion-in-unroller -fipa-pta -fsched-rank-heuristic -fgcse-after-reload -flto -fsched-critical-path-heuristic -freschedule-modulo-scheduled-loops -ftree-loop-ivcanon -fmerge-all-constants -fbranch-probabilities -fkeep-static-functions -fsched-spec-insn-heuristic -fconserve-stack -floop-parallelize-all -fprofile-correction -fsched-dep-count-heuristic -floop-interchange -fsched-spec-load-dangerous -fdevirtualize-speculatively -ftree-loop-im -floop-nest-optimize -fstdarg-opt -fisolate-erroneous-paths-attribute -fsched-last-insn-heuristic -fpeel-loops -fno-predictive-commoning -fbtr-bb-exclusive": [
+        14327.0,
+        70.07710039663456,
+        14328.5,
+        184.0,
+        14256,
+        14440
+    ],
+    "-O3 -flto -ftree-vectorize -fsched-rank-heuristic -ftree-loop-ivcanon -floop-unroll-and-jam -floop-parallelize-all -fsched-last-insn-heuristic -fselective-scheduling -flive-range-shrinkage -fsched2-use-superblocks -floop-nest-optimize -fcx-limited-range -fvpt -fsched-dep-count-heuristic -fgcse-sm": [
+        14261.8,
+        32.21738661033822,
+        14273.5,
+        80.0,
+        14225,
+        14305
+    ],
+    "-O3 -fcx-limited-range -fmodulo-sched -floop-nest-optimize -floop-unroll-and-jam -fbtr-bb-exclusive -fkeep-static-functions -fbranch-probabilities -fsched2-use-superblocks -flto -fpeel-loops -fsched-critical-path-heuristic -floop-interchange -fdevirtualize-speculatively -fsched-stalled-insns-dep -fno-predictive-commoning -fselective-scheduling -fmerge-all-constants -fsched-dep-count-heuristic -fivopts -fno-defer-pop -fprofile-use -fbranch-target-load-optimize2": [
+        14448.7,
+        42.25884522795199,
+        14442.0,
+        132.0,
+        14405,
+        14537
+    ],
+    "-O3 -fstdarg-opt -fconserve-stack -flimit-function-alignment -fno-ira-share-save-slots -fipa-pta -fsplit-loops -flto -fsched-stalled-insns -ftree-vectorize -floop-interchange -fweb": [
+        14175.5,
+        44.08457780222013,
+        14186.5,
+        130.0,
+        14123,
+        14253
+    ],
+    "-O3 -flto -fsched-stalled-insns -fcx-limited-range -fgcse-sm -fprefetch-loop-arrays -floop-parallelize-all -fno-ira-share-spill-slots": [
+        14319.3,
+        23.753105060181078,
+        14327.0,
+        65.0,
+        14289,
+        14354
+    ],
+    "-O3 -freschedule-modulo-scheduled-loops -flto": [
+        14212.6,
+        42.389149555045336,
+        14225.0,
+        137.0,
+        14142,
+        14279
+    ],
+    "-O3 -fsched-spec-load-dangerous -fsched-pressure -fselective-scheduling -floop-unroll-and-jam -fsection-anchors -fno-defer-pop -fgcse-sm -floop-nest-optimize -fsched-critical-path-heuristic -fno-zero-initialized-in-bss -floop-parallelize-all -fconserve-stack -fsplit-loops -fdevirtualize-speculatively -fno-ipa-cp-clone -fno-ira-share-save-slots -fbranch-probabilities -fcx-limited-range -flto -frename-registers -fsched-spec-insn-heuristic -fvpt -fmodulo-sched -floop-interchange -fmerge-all-constants -fno-ira-share-spill-slots -fisolate-erroneous-paths-attribute -fkeep-static-functions -ftree-loop-im -fbranch-target-load-optimize2 -fstdarg-opt -fno-function-cse -fweb -fno-predictive-commoning -ftree-vectorize -fsched-stalled-insns-dep -fpeel-loops": [
+        14394.3,
+        26.951994360343726,
+        14399.5,
+        67.0,
+        14359,
+        14426
+    ],
+    "-O3 -fsched-spec-load-dangerous -fivopts -freschedule-modulo-scheduled-loops -flto -floop-interchange -fno-ira-share-save-slots -fno-ipa-cp-clone -fsched-spec-insn-heuristic -floop-unroll-and-jam -fcx-limited-range -fstdarg-opt -fsched-dep-count-heuristic -ftree-loop-im -fkeep-static-functions -fdevirtualize-speculatively -fno-ira-share-spill-slots -fno-defer-pop -flive-range-shrinkage -flimit-function-alignment -fisolate-erroneous-paths-attribute -floop-parallelize-all -fconserve-stack -fsched2-use-superblocks -fipa-pta -fprofile-correction -fbranch-probabilities -fmerge-all-constants -fsched-last-insn-heuristic -fno-zero-initialized-in-bss -fweb -fbtr-bb-exclusive -fsched-stalled-insns -fsched-critical-path-heuristic -fpeel-loops -fbranch-target-load-optimize2 -fvariable-expansion-in-unroller -fprefetch-loop-arrays -fgcse-sm -floop-nest-optimize -fno-predictive-commoning -fgcse-las -fsplit-loops -fsection-anchors -ftree-vectorize -fvpt -fsched-rank-heuristic": [
+        14274.6,
+        59.711305462198695,
+        14282.0,
+        112.0,
+        14235,
+        14347
+    ],
+    "-O3 -fkeep-static-functions -floop-parallelize-all -fisolate-erroneous-paths-attribute -fgcse-las -fsched-spec-load-dangerous -fmerge-all-constants -fprefetch-loop-arrays -floop-interchange -fivopts -fmodulo-sched -fipa-pta -fsplit-loops -fno-ira-share-save-slots -fsched-dep-count-heuristic -fprofile-correction -flto -fdevirtualize-speculatively -fbranch-probabilities -fgcse-after-reload -fconserve-stack -fpeel-loops -fno-ira-share-spill-slots -fselective-scheduling -fno-ipa-cp-clone -fbranch-target-load-optimize2 -fsched2-use-superblocks -flive-range-shrinkage -frename-registers -fsched-pressure -fsched-critical-path-heuristic -fcx-limited-range -fno-zero-initialized-in-bss -fsched-last-insn-heuristic -freschedule-modulo-scheduled-loops -fbranch-target-load-optimize -fno-function-cse -fweb -fsched-stalled-insns -fgcse-sm -fsection-anchors -fstdarg-opt -fsched-rank-heuristic -fno-defer-pop -floop-nest-optimize -floop-unroll-and-jam -fsched-spec-load": [
+        14450.9,
+        49.752286379622795,
+        14434.5,
+        159.0,
+        14412,
+        14571
+    ],
+    "-O3 -fselective-scheduling -fsection-anchors -fprefetch-loop-arrays -fdevirtualize-speculatively -fsched-dep-count-heuristic -fweb -fisolate-erroneous-paths-attribute -fpeel-loops -fbranch-target-load-optimize2 -fno-defer-pop -fsched-stalled-insns-dep -fmerge-all-constants -fbtr-bb-exclusive -ftree-loop-ivcanon -fsched-stalled-insns -fno-ira-share-spill-slots -floop-unroll-and-jam -fcx-limited-range -flto -fsched2-use-superblocks -fno-function-cse -frename-registers -fvariable-expansion-in-unroller -fivopts -fgcse-after-reload -floop-interchange -fmodulo-sched -fno-predictive-commoning -fsched-spec-insn-heuristic -fsched-spec-load-dangerous": [
+        14397.9,
+        41.8890200410561,
+        14412.0,
+        118.0,
+        14338,
+        14456
+    ],
+    "-O3 -fno-defer-pop -fno-zero-initialized-in-bss -flimit-function-alignment -fgcse-after-reload -fsched-pressure -fsched-critical-path-heuristic -fcx-limited-range -fbranch-probabilities -flive-range-shrinkage -ftree-loop-ivcanon -fsched2-use-superblocks -funroll-all-loops -fno-ira-share-spill-slots -fipa-pta -fno-function-cse -fsched-stalled-insns-dep -fmodulo-sched -fsched-stalled-insns -fweb -fmerge-all-constants -flto -fconserve-stack -fprofile-use -freschedule-modulo-scheduled-loops -fselective-scheduling -fivopts -fno-ipa-cp-clone -floop-interchange -fsplit-loops -fpeel-loops -frename-registers -ftree-loop-im -fgcse-las -floop-unroll-and-jam -fgcse-sm -fno-ira-share-save-slots -fsched-rank-heuristic -fsched-spec-load-dangerous -fbranch-target-load-optimize2 -fsched-spec-insn-heuristic": [
+        14550.9,
+        46.9669032404735,
+        14542.0,
+        126.0,
+        14502,
+        14628
+    ],
+    "-O3 -flto -funroll-loops -fsched-stalled-insns -floop-parallelize-all -fno-ira-share-spill-slots -fbranch-target-load-optimize2 -fisolate-erroneous-paths-attribute -fsched-dep-count-heuristic -fsched-stalled-insns-dep -fsched-spec-load-dangerous -fsched2-use-superblocks": [
+        14585.818181818182,
+        175.40540998281574,
+        14553.0,
+        106.0,
+        14491,
+        14597
+    ],
+    "-O3 -fsched-spec-insn-heuristic -fsched2-use-superblocks -fvariable-expansion-in-unroller -fsched-stalled-insns -fmodulo-sched -ftree-loop-im -flto -fsection-anchors -fdevirtualize-speculatively -fbranch-target-load-optimize2 -fno-function-cse -fvpt -fsched-critical-path-heuristic -fbtr-bb-exclusive -fpeel-loops -fconserve-stack -frename-registers": [
+        14440.6,
+        33.859119894055134,
+        14448.5,
+        90.0,
+        14405,
+        14495
+    ],
+    "-O3 -fdevirtualize-speculatively -fsched-spec-insn-heuristic -freschedule-modulo-scheduled-loops -fconserve-stack -fcx-limited-range -frename-registers -fgcse-after-reload -fvpt -fno-predictive-commoning -fno-defer-pop -fsched-dep-count-heuristic -fipa-pta -fsection-anchors -fno-ipa-cp-clone -fsched-pressure -fweb -fsched-critical-path-heuristic -fisolate-erroneous-paths-attribute -fpeel-loops -fsched-spec-load-dangerous -fno-zero-initialized-in-bss -fbtr-bb-exclusive -fsched-last-insn-heuristic -fno-function-cse -fsched-stalled-insns-dep -fkeep-static-functions -flto -fprofile-use": [
+        14443.5,
+        44.90044543208898,
+        14452.0,
+        134.0,
+        14392,
+        14526
+    ],
+    "-O3 -fsched-spec-load-dangerous": [
+        14413.8,
+        29.63713886325737,
+        14429.0,
+        77.0,
+        14368,
+        14445
+    ],
+    "-O3 -fbranch-target-load-optimize2 -fsched-critical-path-heuristic -ftree-loop-ivcanon -funroll-loops -ftree-vectorize -fipa-pta -fmerge-all-constants -fsplit-loops -fselective-scheduling -fsched-rank-heuristic -fsched-pressure -fgcse-sm -fdevirtualize-speculatively -fno-ira-share-spill-slots -fsched-spec-insn-heuristic -fno-defer-pop -fcx-limited-range": [
+        14629.636363636364,
+        160.4302582700503,
+        14599.0,
+        191.0,
+        14519,
+        14710
+    ],
+    "-O3 -fsched-spec-load-dangerous -fgcse-after-reload": [
+        14426.6,
+        59.27933872775573,
+        14426.5,
+        170.0,
+        14333,
+        14503
+    ],
+    "-O3 -fipa-pta": [
+        14414.4,
+        86.65587112250387,
+        14389.5,
+        304.0,
+        14347,
+        14651
+    ],
+    "-O3 -fno-defer-pop -fsched-dep-count-heuristic -fgcse-after-reload -fgcse-sm -fsplit-loops -fkeep-static-functions -fno-inline": [
+        14675.3,
+        73.85939344457141,
+        14663.5,
+        263.0,
+        14610,
+        14873
+    ],
+    "-O3 -fkeep-static-functions -flto -fstdarg-opt -fpeel-loops -frename-registers -fbranch-target-load-optimize -fbranch-probabilities -fselective-scheduling -fmerge-all-constants -ftree-vectorize -fno-inline-functions": [
+        14345.90909090909,
+        174.48128555310583,
+        14294.0,
+        92.0,
+        14272,
+        14364
+    ],
+    "-O3 -ftree-vectorize -fisolate-erroneous-paths-attribute -flto -flimit-function-alignment -fcx-limited-range": [
+        14058.2,
+        51.545707871752036,
+        14049.5,
+        172.0,
+        14004,
+        14176
+    ],
+    "-O3 -freschedule-modulo-scheduled-loops -fsection-anchors -funswitch-loops": [
+        14406.4,
+        60.64025065911255,
+        14418.0,
+        183.0,
+        14339,
+        14522
+    ],
+    "-O3 -fisolate-erroneous-paths-attribute -fno-ira-share-spill-slots -fsched-stalled-insns-dep -fno-zero-initialized-in-bss -flto -fcx-limited-range -fprofile-use -fselective-scheduling2 -fstdarg-opt -fipa-pta -fgcse-sm -fsched-dep-count-heuristic -fsplit-loops -fsched-group-heuristic -frename-registers -freschedule-modulo-scheduled-loops": [
+        14332.7,
+        44.89331798831537,
+        14314.0,
+        114.0,
+        14293,
+        14407
+    ],
+    "-O3 -fno-inline -fprofile-correction -fmerge-all-constants": [
+        14598.3,
+        39.623351700733245,
+        14598.5,
+        121.0,
+        14550,
+        14671
+    ],
+    "-O3 -floop-parallelize-all -fsched-last-insn-heuristic -fsched-group-heuristic -fgcse-sm -fgcse-las -flive-range-shrinkage -fprofile-use -fweb -fsection-anchors -fkeep-inline-functions -fstdarg-opt": [
+        14535.9,
+        20.111936754077167,
+        14537.5,
+        47.0,
+        14518,
+        14565
+    ],
+    "-O3 -funswitch-loops -fsplit-loops -fbranch-probabilities -fgcse-sm -fisolate-erroneous-paths-attribute -flto -fno-inline-functions -floop-unroll-and-jam -fkeep-inline-functions -fprofile-use -fpeel-loops -fcx-limited-range -fsched-critical-path-heuristic -fsched-stalled-insns-dep": [
+        14356.9,
+        34.57007376329996,
+        14357.5,
+        102.0,
+        14320,
+        14422
+    ],
+    "-O3 -fno-inline-functions -freschedule-modulo-scheduled-loops -floop-parallelize-all": [
+        14431.2,
+        59.074190641937705,
+        14423.5,
+        175.0,
+        14358,
+        14533
+    ],
+    "-O3 -fkeep-inline-functions -ftree-loop-ivcanon -flto -flive-range-shrinkage -fsched-dep-count-heuristic -fsched-spec-load -fprofile-use -fconserve-stack": [
+        14332.7,
+        19.60637651377735,
+        14339.0,
+        49.0,
+        14307,
+        14356
+    ],
+    "-O3 -fsched-pressure -fvariable-expansion-in-unroller": [
+        14405.6,
+        52.587450974543344,
+        14397.5,
+        161.0,
+        14360,
+        14521
+    ],
+    "-O3 -fsched-stalled-insns-dep -fconserve-stack -fno-zero-initialized-in-bss -fipa-pta -fgcse-sm -fbranch-target-load-optimize -freschedule-modulo-scheduled-loops -fsched2-use-superblocks -fbranch-probabilities -fmodulo-sched -frename-registers -funroll-loops -fkeep-inline-functions -fno-inline-functions -ftree-vectorize -ftree-parallelize-loops=16 -fweb -fgcse-after-reload -flto -fno-predictive-commoning -funroll-all-loops -fbtr-bb-exclusive -ftree-loop-ivcanon -fsched-critical-path-heuristic -fvariable-expansion-in-unroller -fpeel-loops -fsched-spec-load -floop-interchange -fgcse-las -flive-range-shrinkage -fselective-scheduling -fivopts": [
+        14431.9,
+        28.07650263120391,
+        14419.5,
+        91.0,
+        14406,
+        14497
+    ],
+    "-O3 -fmodulo-sched -floop-interchange -flto -fdevirtualize-speculatively -fsplit-loops": [
+        14236.5,
+        33.48805757281243,
+        14237.0,
+        85.0,
+        14198,
+        14283
+    ],
+    "-O3 -fkeep-inline-functions -fisolate-erroneous-paths-attribute -fipa-pta -fsched-critical-path-heuristic": [
+        14324.2,
+        39.40507581517893,
+        14315.5,
+        108.0,
+        14295,
+        14403
+    ],
+    "-O3 -flimit-function-alignment -fbranch-target-load-optimize -ftree-loop-ivcanon -fprefetch-loop-arrays -fno-ipa-cp-clone -fcx-limited-range -fprofile-use -fbtr-bb-exclusive -floop-interchange -funroll-all-loops -flto -fconserve-stack -ftree-parallelize-loops=16 -fselective-scheduling2 -fipa-pta -fsched-stalled-insns-dep -fsched-spec-load-dangerous -funswitch-loops -fgcse-after-reload -fkeep-static-functions -fvariable-expansion-in-unroller -fprofile-correction -funroll-loops -fkeep-inline-functions -fgcse-sm -fno-ira-share-spill-slots": [
+        14500.8,
+        64.66343634543405,
+        14483.5,
+        169.0,
+        14453,
+        14622
+    ],
+    "-O3 -fconserve-stack -fno-ira-share-save-slots -floop-unroll-and-jam -floop-nest-optimize -fselective-scheduling -fselective-scheduling2 -fcx-limited-range -ftree-loop-ivcanon -fpeel-loops -fgcse-sm -fbranch-probabilities -fno-zero-initialized-in-bss -fisolate-erroneous-paths-attribute -fno-defer-pop -flive-range-shrinkage -ftree-vectorize -flto -fsched-dep-count-heuristic -fsched-stalled-insns-dep -fkeep-inline-functions -floop-parallelize-all -fsched-spec-load -ftree-parallelize-loops=16 -fsection-anchors -fbranch-target-load-optimize -floop-interchange -fipa-pta -fstdarg-opt -fsched-spec-insn-heuristic -fsched-group-heuristic": [
+        14450.2,
+        41.496505877001255,
+        14439.0,
+        133.0,
+        14407,
+        14540
+    ],
+    "-O3 -fkeep-inline-functions -fvariable-expansion-in-unroller -flto -floop-parallelize-all -fivopts -fisolate-erroneous-paths-attribute -fsplit-loops -fdevirtualize-speculatively -fno-predictive-commoning -fselective-scheduling2 -ftree-loop-im -funroll-loops -fsched-stalled-insns-dep -fmodulo-sched -floop-unroll-and-jam -fvpt -fpeel-loops -fstdarg-opt -fgcse-sm -fipa-pta -fno-ira-share-save-slots -ftree-loop-ivcanon": [
+        14255.1,
+        59.87395093026683,
+        14253.5,
+        147.0,
+        14187,
+        14334
+    ],
+    "-O3 -flto -frename-registers -fweb -fno-predictive-commoning -ftree-vectorize -fsched-group-heuristic -fkeep-inline-functions -fmodulo-sched -fbranch-probabilities -fno-zero-initialized-in-bss -fsched-spec-insn-heuristic -fsched-spec-load -fgcse-las -flive-range-shrinkage -fvpt -fno-defer-pop -fbranch-target-load-optimize2": [
+        14617.5,
+        51.24695112882326,
+        14627.0,
+        93.0,
+        14583,
+        14676
+    ],
+    "-O3 -funswitch-loops -fsched-spec-load -fprofile-use -flive-range-shrinkage -frename-registers -fconserve-stack -ftree-vectorize -freschedule-modulo-scheduled-loops -fweb -fno-ira-share-save-slots -fno-defer-pop -fbranch-target-load-optimize2 -fgcse-sm -ftree-loop-im -fsched-spec-load-dangerous -fsched-dep-count-heuristic": [
+        14642.8,
+        43.68477995824175,
+        14650.0,
+        124.0,
+        14581,
+        14705
+    ],
+    "-O3 -fselective-scheduling2 -fno-ira-share-spill-slots -fivopts -fstdarg-opt -ftree-loop-im -fkeep-inline-functions -fsched-rank-heuristic -fsection-anchors -fpeel-loops -fno-ipa-cp-clone -fbranch-probabilities -flto -fgcse-after-reload -fconserve-stack -floop-unroll-and-jam -fno-ira-share-save-slots -fvpt -floop-nest-optimize -floop-interchange -fselective-scheduling -fprofile-use -fgcse-las -fweb -fsched-spec-load -freschedule-modulo-scheduled-loops -funroll-loops -fbranch-target-load-optimize -fvariable-expansion-in-unroller -fsched-spec-insn-heuristic -ftree-loop-ivcanon -fsched-critical-path-heuristic -fno-defer-pop": [
+        14512.0,
+        50.26728558416498,
+        14515.5,
+        128.0,
+        14452,
+        14580
+    ],
+    "-O3 -ftree-loop-ivcanon -fsched-critical-path-heuristic -frename-registers -fno-predictive-commoning -ftree-vectorize -fno-ira-share-save-slots -funroll-all-loops -fbranch-target-load-optimize -fbranch-probabilities -floop-interchange -fsched-spec-load -fsched2-use-superblocks -fdevirtualize-speculatively -freschedule-modulo-scheduled-loops -ftree-loop-im -fisolate-erroneous-paths-attribute -fno-zero-initialized-in-bss -fsplit-loops -flto -fipa-pta -ftree-parallelize-loops=16 -fpeel-loops -fweb -fsched-dep-count-heuristic -fmerge-all-constants -fno-inline-functions -floop-parallelize-all -fsched-stalled-insns-dep": [
+        14453.818181818182,
+        159.09849332571443,
+        14423.0,
+        169.0,
+        14341,
+        14510
+    ],
+    "-O3 -fdevirtualize-speculatively -fsched-stalled-insns-dep -flto -fno-ira-share-save-slots -fvpt -ftree-loop-im -ftree-parallelize-loops=16 -fmodulo-sched -fgcse-sm -fbranch-target-load-optimize2 -fsched2-use-superblocks -fpeel-loops -fsection-anchors -fvariable-expansion-in-unroller -fselective-scheduling -ftree-vectorize -freschedule-modulo-scheduled-loops -floop-unroll-and-jam -fsched-dep-count-heuristic -fisolate-erroneous-paths-attribute -ftree-loop-ivcanon -frename-registers -fno-predictive-commoning -fipa-pta -fsched-spec-insn-heuristic": [
+        14249.2,
+        19.379370474811612,
+        14253.5,
+        66.0,
+        14220,
+        14286
+    ],
+    "-O3 -ftree-loop-im -fsched-last-insn-heuristic -ftree-loop-ivcanon -fvariable-expansion-in-unroller -fisolate-erroneous-paths-attribute -flive-range-shrinkage -fsched-group-heuristic -fgcse-sm -fsection-anchors -fkeep-static-functions -fprofile-use -fno-zero-initialized-in-bss -freschedule-modulo-scheduled-loops -fsched-dep-count-heuristic -ftree-parallelize-loops=16 -fsched-spec-load -fcx-limited-range -fconserve-stack -floop-interchange -fgcse-las -fsched2-use-superblocks -funswitch-loops -frename-registers -fbranch-target-load-optimize2 -fivopts": [
+        14571.9,
+        35.86767346790143,
+        14581.0,
+        87.0,
+        14540,
+        14627
+    ],
+    "-O3 -fdevirtualize-speculatively -ftree-loop-im -fbtr-bb-exclusive -ftree-parallelize-loops=16 -fsched-spec-insn-heuristic -funswitch-loops -flimit-function-alignment -fprofile-use -fno-ira-share-save-slots -fivopts -fselective-scheduling2 -fgcse-sm -fsection-anchors -frename-registers -floop-unroll-and-jam -fgcse-las -floop-interchange -flto -ftree-loop-ivcanon -fmodulo-sched -fkeep-static-functions -fvariable-expansion-in-unroller -fpeel-loops -floop-parallelize-all -fprefetch-loop-arrays -fbranch-target-load-optimize2 -fsched-group-heuristic -fsched-spec-load -fipa-pta -fsplit-loops -funroll-loops -fsched-dep-count-heuristic -fcx-limited-range -fbranch-probabilities -floop-nest-optimize -flive-range-shrinkage -fsched-stalled-insns-dep -fisolate-erroneous-paths-attribute -fbranch-target-load-optimize -fsched-pressure -fweb -freschedule-modulo-scheduled-loops -fgcse-after-reload -fsched-last-insn-heuristic -fstdarg-opt -fno-predictive-commoning -fkeep-inline-functions": [
+        14488.6,
+        42.73686932848498,
+        14485.5,
+        114.0,
+        14442,
+        14556
+    ],
+    "-O3 -flive-range-shrinkage -floop-nest-optimize -ftree-loop-ivcanon -fprofile-use -fmerge-all-constants -fno-ira-share-spill-slots -fsched-dep-count-heuristic -fno-predictive-commoning -fselective-scheduling -fgcse-sm -floop-parallelize-all -ftree-loop-im -fdevirtualize-speculatively -fconserve-stack -fgcse-after-reload -fselective-scheduling2 -fbranch-target-load-optimize2 -fbranch-target-load-optimize": [
+        14648.6,
+        35.908773301242135,
+        14645.5,
+        119.0,
+        14612,
+        14731
+    ],
+    "-O3 -fprofile-correction -floop-parallelize-all -ftree-vectorize -fcx-limited-range -fno-defer-pop -frename-registers -fbranch-probabilities -fno-function-cse -freschedule-modulo-scheduled-loops -fmodulo-sched -ftree-loop-ivcanon -fsched-spec-load -fno-ira-share-spill-slots -fsched-dep-count-heuristic -fconserve-stack -fno-ipa-cp-clone": [
+        14420.3,
+        38.71188448009216,
+        14442.5,
+        92.0,
+        14365,
+        14457
+    ],
+    "-O3 -fno-ira-share-spill-slots -fsched-dep-count-heuristic -fcx-limited-range -fsched-last-insn-heuristic -fconserve-stack -fbtr-bb-exclusive -flive-range-shrinkage -fkeep-static-functions -fisolate-erroneous-paths-attribute -fno-inline-functions -fbranch-target-load-optimize -fsched-stalled-insns -fno-defer-pop -fprofile-use -funroll-all-loops -fno-predictive-commoning -fsched-stalled-insns-dep -fprofile-correction -fgcse-after-reload -floop-nest-optimize -fbranch-probabilities -fno-ira-share-save-slots -fsched-spec-load-dangerous -fmodulo-sched": [
+        14918.5,
+        50.134319582497575,
+        14904.0,
+        168.0,
+        14888,
+        15056
+    ],
+    "-O3 -funroll-loops -fno-ira-share-save-slots -fno-ipa-cp-clone -fsched-spec-load -fbtr-bb-exclusive -fgcse-after-reload -fdevirtualize-speculatively -flive-range-shrinkage -fsched-critical-path-heuristic -fmodulo-sched -fsched-dep-count-heuristic -fsched-group-heuristic -fsched-spec-insn-heuristic -fconserve-stack -fno-inline-functions -fmerge-all-constants -ftree-loop-ivcanon -fivopts -freschedule-modulo-scheduled-loops -fsched-spec-load-dangerous": [
+        14622.2,
+        30.873289426298587,
+        14622.0,
+        97.0,
+        14589,
+        14686
+    ],
+    "-O3 -frename-registers -fsched-spec-insn-heuristic -fsplit-loops -fpeel-loops -fsched-dep-count-heuristic -fisolate-erroneous-paths-attribute -fkeep-inline-functions -fbranch-probabilities -funroll-loops -floop-unroll-and-jam -fno-defer-pop -floop-nest-optimize -fbranch-target-load-optimize -fsched-critical-path-heuristic": [
+        14521.9,
+        60.13060784658675,
+        14530.5,
+        218.0,
+        14451,
+        14669
+    ],
+    "-O3 -fsection-anchors -fno-ira-share-save-slots -fno-predictive-commoning -fsched-stalled-insns -freschedule-modulo-scheduled-loops -fprofile-use -fno-inline-functions -fsched-pressure -fvpt -fpeel-loops -ftree-loop-ivcanon -fconserve-stack -fbtr-bb-exclusive -fsched-dep-count-heuristic -funroll-loops -fsched-critical-path-heuristic -fipa-pta -fsched2-use-superblocks -fbranch-target-load-optimize -fdevirtualize-speculatively -flto -floop-unroll-and-jam -fgcse-sm -fsched-rank-heuristic -fivopts -fvariable-expansion-in-unroller -fsched-group-heuristic -frename-registers -fgcse-after-reload -fprefetch-loop-arrays -fgcse-las -fsched-last-insn-heuristic -fbranch-target-load-optimize2 -fno-ira-share-spill-slots -fsplit-loops -fkeep-static-functions -ftree-vectorize -floop-nest-optimize -fisolate-erroneous-paths-attribute": [
+        14639.5,
+        58.83408875813409,
+        14631.5,
+        171.0,
+        14569,
+        14740
+    ],
+    "-O3 -fsection-anchors -fivopts -fstdarg-opt -fcx-limited-range -fsched-spec-load -fbranch-target-load-optimize -fsched-critical-path-heuristic -fsched-group-heuristic -fsched-dep-count-heuristic -fvariable-expansion-in-unroller -fbranch-target-load-optimize2 -ftree-loop-im -flive-range-shrinkage -fbranch-probabilities -fweb -fsched-spec-insn-heuristic -fpeel-loops -fprofile-use -fsched-pressure -fno-predictive-commoning -fno-function-cse -fgcse-las -frename-registers -flimit-function-alignment -fdevirtualize-speculatively -fno-ipa-cp-clone -floop-parallelize-all -fkeep-inline-functions -floop-nest-optimize -fselective-scheduling -ftree-loop-ivcanon -fselective-scheduling2 -freschedule-modulo-scheduled-loops -fsched2-use-superblocks -fno-ira-share-save-slots -fsched-stalled-insns -fsched-stalled-insns-dep -fvpt -fipa-pta -fno-ira-share-spill-slots -fbtr-bb-exclusive -flto -fconserve-stack -fmodulo-sched -fkeep-static-functions -fprofile-correction -floop-unroll-and-jam -fno-defer-pop": [
+        14481.0,
+        48.02499349297197,
+        14472.0,
+        122.0,
+        14433,
+        14555
+    ],
+    "-O3 -fgcse-las -fvpt -fsched-pressure -floop-interchange -floop-nest-optimize -fconserve-stack -fprofile-correction -flto -fsched-last-insn-heuristic -fbtr-bb-exclusive -fmodulo-sched -fno-ira-share-spill-slots -fbranch-target-load-optimize -fsched-dep-count-heuristic -fsched-group-heuristic -ftree-loop-im -fgcse-sm -fpeel-loops -fipa-pta -fdevirtualize-speculatively -fstdarg-opt -fno-zero-initialized-in-bss -fgcse-after-reload -fno-predictive-commoning -fselective-scheduling -floop-unroll-and-jam -fsched-spec-insn-heuristic -fno-inline-functions -fsched-spec-load-dangerous -fkeep-inline-functions -fsplit-loops": [
+        14212.2,
+        40.66644808684427,
+        14209.5,
+        72.0,
+        14191,
+        14263
+    ],
+    "-O3 -fgcse-las -fsched-stalled-insns-dep -ftree-loop-ivcanon -fsection-anchors -floop-nest-optimize -fvpt -fno-predictive-commoning -fcx-limited-range -fisolate-erroneous-paths-attribute -fsched-pressure -flto -fweb -fconserve-stack -fno-ira-share-spill-slots -fbranch-target-load-optimize2 -fivopts -funroll-loops -fgcse-sm -fdevirtualize-speculatively -fsplit-loops -fsched-spec-load -fprefetch-loop-arrays -fstdarg-opt -fsched2-use-superblocks -frename-registers -fsched-dep-count-heuristic -floop-unroll-and-jam -flimit-function-alignment -fbtr-bb-exclusive": [
+        14492.0,
+        145.09996554100212,
+        14449.0,
+        123.0,
+        14430,
+        14553
+    ],
+    "-O3 -fipa-pta -fsplit-loops -ftree-loop-im -flimit-function-alignment -fkeep-static-functions -fcx-limited-range -fsection-anchors -fprefetch-loop-arrays -fconserve-stack -fsched-dep-count-heuristic -floop-parallelize-all -fno-ipa-cp-clone -fsched-spec-load-dangerous -ftree-parallelize-loops=16 -fmerge-all-constants -fsched-stalled-insns-dep -fgcse-sm -ftree-loop-ivcanon -ftree-vectorize -fsched-stalled-insns -fisolate-erroneous-paths-attribute -fweb -fstdarg-opt -fno-predictive-commoning": [
+        14266.5,
+        93.38334969361509,
+        14244.0,
+        245.0,
+        14191,
+        14436
+    ],
+    "-O3 -fprofile-use -fsched-dep-count-heuristic -fno-zero-initialized-in-bss -fipa-pta -fsched-stalled-insns-dep": [
+        14580.9,
+        40.406558873529434,
+        14572.0,
+        130.0,
+        14544,
+        14674
+    ],
+    "-O3 -ftree-loop-ivcanon -fno-ipa-cp-clone -fno-function-cse -fcx-limited-range -fgcse-las -ftree-vectorize -fweb -fipa-pta": [
+        14419.3,
+        50.12394637296628,
+        14405.5,
+        128.0,
+        14363,
+        14491
+    ],
+    "-O3 -fbranch-target-load-optimize -fsched-spec-load-dangerous -fsched-last-insn-heuristic -fisolate-erroneous-paths-attribute -ftree-loop-im -fbtr-bb-exclusive -fvpt -fno-ira-share-spill-slots -fkeep-static-functions -fconserve-stack -fprofile-use -fsplit-loops -floop-nest-optimize -fprefetch-loop-arrays -fgcse-sm -ftree-vectorize -fno-defer-pop -fsched-spec-insn-heuristic -floop-interchange -frename-registers -floop-unroll-and-jam -fsched-stalled-insns -fpeel-loops -fdevirtualize-speculatively -ftree-loop-ivcanon -fsched2-use-superblocks -fsection-anchors -flto -fipa-pta -flimit-function-alignment": [
+        14584.57142857143,
+        242.08962752481168,
+        14483.5,
+        311.0,
+        14425,
+        14736
+    ],
+    "-O3 -fprefetch-loop-arrays -fvariable-expansion-in-unroller -fsched2-use-superblocks -fconserve-stack -fweb -fisolate-erroneous-paths-attribute -fbranch-target-load-optimize -fcx-limited-range -fprofile-correction -fvpt -fsched-last-insn-heuristic -fno-ira-share-spill-slots -fselective-scheduling -fbranch-probabilities -fsection-anchors -fselective-scheduling2 -fsched-critical-path-heuristic -fsched-dep-count-heuristic -floop-interchange -fstdarg-opt -fsched-spec-insn-heuristic -fgcse-sm -fivopts -freschedule-modulo-scheduled-loops -floop-nest-optimize -flive-range-shrinkage -fsched-spec-load -fno-predictive-commoning -fipa-pta -fno-function-cse -fno-ira-share-save-slots -frename-registers -fsched-stalled-insns-dep -fno-defer-pop -fbtr-bb-exclusive -funroll-loops -fpeel-loops -fkeep-static-functions": [
+        14553.1,
+        43.90318895023458,
+        14530.0,
+        97.0,
+        14515,
+        14612
+    ],
+    "-O3 -freschedule-modulo-scheduled-loops -floop-nest-optimize -fkeep-static-functions -fgcse-sm -fconserve-stack -fno-function-cse -fno-defer-pop -ftree-loop-ivcanon -floop-interchange -fcx-limited-range -fvpt -fsched2-use-superblocks -fvariable-expansion-in-unroller -fmodulo-sched -fno-predictive-commoning -fno-inline-functions -fsched-dep-count-heuristic -fno-ira-share-spill-slots -fisolate-erroneous-paths-attribute -flto -fsched-critical-path-heuristic -ftree-loop-im -fstdarg-opt -fgcse-las -funroll-all-loops -fprefetch-loop-arrays -fsched-last-insn-heuristic -fpeel-loops -fkeep-inline-functions -fsched-stalled-insns-dep -frename-registers -fdevirtualize-speculatively -fgcse-after-reload -fweb -flive-range-shrinkage -fsched-spec-insn-heuristic -fsched-spec-load-dangerous -fsched-spec-load -floop-unroll-and-jam -fsched-stalled-insns": [
+        14723.1,
+        30.339578111766816,
+        14723.5,
+        89.0,
+        14681,
+        14770
+    ],
+    "-O3 -fsched-critical-path-heuristic -fprofile-use -fdevirtualize-speculatively -flimit-function-alignment -fno-ira-share-spill-slots -fno-predictive-commoning -fstdarg-opt -fgcse-sm -fprefetch-loop-arrays -fsched2-use-superblocks -flive-range-shrinkage -fsched-last-insn-heuristic -fmerge-all-constants -fconserve-stack -fno-function-cse -fivopts -fipa-pta -frename-registers -fkeep-static-functions -fsection-anchors -fsched-group-heuristic": [
+        14642.6,
+        48.10654841079331,
+        14632.5,
+        170.0,
+        14601,
+        14771
+    ],
+    "-O3 -fno-function-cse -fprofile-use -fno-zero-initialized-in-bss -fbranch-target-load-optimize": [
+        14579.0,
+        51.66817202108083,
+        14574.0,
+        147.0,
+        14537,
+        14684
+    ],
+    "-O3 -fisolate-erroneous-paths-attribute -fpeel-loops -fno-inline-functions -fprofile-correction -fno-ira-share-save-slots -ftree-loop-im -fweb -fsched-stalled-insns-dep -fsched-spec-insn-heuristic -fipa-pta -fprefetch-loop-arrays -fsched-rank-heuristic -fno-ipa-cp-clone -fsched-critical-path-heuristic -floop-unroll-and-jam -fsched2-use-superblocks -fno-ira-share-spill-slots -fdevirtualize-speculatively -ftree-vectorize -fsched-stalled-insns -frename-registers -fno-function-cse -floop-nest-optimize -fprofile-use -fselective-scheduling": [
+        14866.9,
+        91.93959973808892,
+        14822.0,
+        233.0,
+        14792,
+        15025
+    ],
+    "-O3 -fno-predictive-commoning -floop-unroll-and-jam -funroll-all-loops -fsched-stalled-insns-dep -floop-interchange -fno-inline-functions -fsched-rank-heuristic -freschedule-modulo-scheduled-loops -fprofile-correction -fipa-pta -fisolate-erroneous-paths-attribute -flimit-function-alignment -fsched-group-heuristic -fno-ira-share-spill-slots": [
+        14782.4,
+        44.457170400285264,
+        14791.0,
+        127.0,
+        14726,
+        14853
+    ],
+    "-O3 -fno-zero-initialized-in-bss -ftree-loop-ivcanon -fsched-group-heuristic -fsched-dep-count-heuristic -fselective-scheduling": [
+        14423.0,
+        58.11712312219179,
+        14411.5,
+        156.0,
+        14379,
+        14535
+    ],
+    "-O3 -fsplit-loops -fbranch-probabilities -fsched-stalled-insns -fweb -fselective-scheduling -fno-predictive-commoning -floop-unroll-and-jam -fstdarg-opt -fkeep-inline-functions -funroll-loops -fno-zero-initialized-in-bss -fprefetch-loop-arrays -fno-defer-pop -floop-nest-optimize -fno-function-cse -fmerge-all-constants -flimit-function-alignment -fgcse-las -fvpt -fno-inline-functions -fsched-critical-path-heuristic -fpeel-loops -fconserve-stack -fsched-spec-load-dangerous -fipa-pta -fsched-spec-insn-heuristic -funroll-all-loops -fvariable-expansion-in-unroller -fselective-scheduling2 -fsched-group-heuristic -fsched-rank-heuristic -fmodulo-sched -fsection-anchors -fisolate-erroneous-paths-attribute -fivopts -funswitch-loops -fno-ipa-cp-clone -ftree-vectorize -freschedule-modulo-scheduled-loops -ftree-loop-im -fsched-spec-load": [
+        14743.0,
+        49.745351541626476,
+        14757.0,
+        117.0,
+        14690,
+        14807
+    ],
+    "-O3 -fcx-limited-range -fsched-stalled-insns -frename-registers -fsched2-use-superblocks -fprofile-correction -fno-ira-share-save-slots -ftree-loop-im -funroll-loops -fkeep-inline-functions -fipa-pta -fno-inline -fsched-stalled-insns-dep -fno-defer-pop -fvariable-expansion-in-unroller -fsplit-loops -fprefetch-loop-arrays -fconserve-stack -fsched-dep-count-heuristic -fsched-spec-insn-heuristic -fsection-anchors -fsched-group-heuristic -freschedule-modulo-scheduled-loops -fvpt -fselective-scheduling2 -funroll-all-loops -fivopts -fmodulo-sched -fweb -fmerge-all-constants -fno-ipa-cp-clone -fkeep-static-functions -fgcse-las -funswitch-loops -fno-function-cse -fsched-spec-load-dangerous -fno-inline-functions -fdevirtualize-speculatively": [
+        14871.5,
+        69.74704294807056,
+        14880.5,
+        172.0,
+        14792,
+        14964
+    ],
+    "-O3 -fbranch-target-load-optimize2 -fno-inline -fno-ira-share-spill-slots -fno-inline-functions -fsched-critical-path-heuristic -freschedule-modulo-scheduled-loops -fstdarg-opt -fsched-last-insn-heuristic -flive-range-shrinkage -fsched-spec-load-dangerous -fsched-group-heuristic -fbtr-bb-exclusive -fsched-rank-heuristic -fno-zero-initialized-in-bss -fipa-pta -funroll-loops -fsched-pressure -fpeel-loops -fvpt -floop-interchange -fmerge-all-constants -flto -fno-ira-share-save-slots -flimit-function-alignment -fconserve-stack -fdevirtualize-speculatively -fno-predictive-commoning -funroll-all-loops -fprefetch-loop-arrays": [
+        14735.9,
+        56.10784258907127,
+        14733.0,
+        123.0,
+        14687,
+        14810
+    ],
+    "-O3 -fprefetch-loop-arrays -fno-ira-share-save-slots -fsched2-use-superblocks -fno-ira-share-spill-slots -fbtr-bb-exclusive -fgcse-las -flto -fstdarg-opt -fno-defer-pop -floop-parallelize-all -fgcse-sm -fno-predictive-commoning -fsched-last-insn-heuristic -fno-ipa-cp-clone -frename-registers -fvpt -fgcse-after-reload -fdevirtualize-speculatively -ftree-vectorize -fsched-stalled-insns-dep -floop-interchange -fprofile-correction -fsched-pressure -fbranch-target-load-optimize -fno-function-cse -fsplit-loops -floop-nest-optimize -fipa-pta -funroll-all-loops -fsched-stalled-insns -freschedule-modulo-scheduled-loops -fsched-critical-path-heuristic -floop-unroll-and-jam -fsched-spec-load-dangerous -funroll-loops -funswitch-loops -fsection-anchors -fsched-dep-count-heuristic -fprofile-use -fno-zero-initialized-in-bss -fkeep-static-functions -flimit-function-alignment -fsched-spec-insn-heuristic -fweb -fno-inline-functions -ftree-loop-ivcanon -fvariable-expansion-in-unroller -fmerge-all-constants -fselective-scheduling": [
+        14774.1,
+        64.72781473215359,
+        14765.0,
+        209.0,
+        14721,
+        14930
+    ],
+    "-O3 -fsched-stalled-insns-dep": [
+        14420.0,
+        48.462356525451796,
+        14418.5,
+        124.0,
+        14370,
+        14494
+    ],
+    "-O3 -fbranch-target-load-optimize -fsched-spec-load -funroll-loops -fsched-critical-path-heuristic -flimit-function-alignment -fgcse-sm -fsched-last-insn-heuristic -floop-unroll-and-jam -ftree-vectorize -fkeep-inline-functions -fsched-group-heuristic -fprofile-correction -ftree-loop-im -fno-defer-pop -fsched-pressure -freschedule-modulo-scheduled-loops -fcx-limited-range -fvariable-expansion-in-unroller -fsched-spec-load-dangerous -fsched-dep-count-heuristic -fdevirtualize-speculatively -floop-nest-optimize -fgcse-after-reload -fno-ira-share-save-slots -funroll-all-loops -fsched2-use-superblocks -floop-parallelize-all -funswitch-loops -fsched-rank-heuristic -frename-registers -fsection-anchors -fstdarg-opt -fivopts": [
+        14554.6,
+        43.49298794058647,
+        14543.5,
+        115.0,
+        14528,
+        14643
+    ],
+    "-O3 -fno-ira-share-spill-slots -fweb -fconserve-stack -fsched-spec-load-dangerous -fno-ira-share-save-slots -fgcse-sm -fsched-dep-count-heuristic -funswitch-loops -fmerge-all-constants -fsched-group-heuristic -fdevirtualize-speculatively -floop-parallelize-all -fsched-last-insn-heuristic -ftree-loop-ivcanon -flto -fvariable-expansion-in-unroller -funroll-all-loops -fmodulo-sched -fipa-pta -fsched-spec-insn-heuristic -fivopts -fkeep-static-functions -fno-inline -fno-function-cse -fbranch-target-load-optimize2 -fselective-scheduling2 -fkeep-inline-functions -fbtr-bb-exclusive -fvpt -fprefetch-loop-arrays -fsection-anchors -fsched-stalled-insns -fno-inline-functions -fsched-spec-load": [
+        14670.0,
+        65.37124750224673,
+        14662.0,
+        183.0,
+        14623,
+        14806
+    ],
+    "-O3 -fsched-stalled-insns-dep -ftree-vectorize -fno-predictive-commoning -floop-nest-optimize -floop-parallelize-all -fgcse-after-reload -floop-interchange -fno-ipa-cp-clone -fsched-critical-path-heuristic -fsched2-use-superblocks -fconserve-stack -fbranch-target-load-optimize2 -fsched-last-insn-heuristic -fpeel-loops -flimit-function-alignment -ftree-loop-ivcanon -fselective-scheduling2 -fno-ira-share-save-slots -floop-unroll-and-jam -freschedule-modulo-scheduled-loops -fvariable-expansion-in-unroller -fvpt -fsection-anchors -fno-inline -funswitch-loops -fsplit-loops -fsched-pressure -fprefetch-loop-arrays -fivopts -fsched-spec-load-dangerous -fbtr-bb-exclusive -fsched-spec-load -funroll-loops": [
+        14769.7,
+        62.605191478023606,
+        14767.0,
+        155.0,
+        14707,
+        14862
+    ],
+    "-O3 -fprefetch-loop-arrays -fbtr-bb-exclusive -fno-ipa-cp-clone -funroll-all-loops -fstdarg-opt -floop-unroll-and-jam -fweb -fdevirtualize-speculatively -fno-function-cse -flive-range-shrinkage -floop-nest-optimize -fbranch-target-load-optimize -fselective-scheduling -freschedule-modulo-scheduled-loops -fselective-scheduling2 -fsched-last-insn-heuristic -fprofile-correction -fsched-dep-count-heuristic -fcx-limited-range -fmodulo-sched -flto -floop-parallelize-all -fsched-rank-heuristic": [
+        14680.818181818182,
+        162.50136680925496,
+        14648.0,
+        91.0,
+        14590,
+        14681
+    ],
+    "-O3 -floop-nest-optimize -fsched-spec-insn-heuristic -flive-range-shrinkage": [
+        14429.5,
+        70.07460310269335,
+        14426.0,
+        224.0,
+        14337,
+        14561
+    ],
+    "-O3 -fno-defer-pop -fselective-scheduling -fstdarg-opt -fvpt -fsched-stalled-insns -fbranch-target-load-optimize2 -freschedule-modulo-scheduled-loops -fno-ipa-cp-clone -fivopts -fsched-spec-load-dangerous -fno-function-cse -fmerge-all-constants -flto -fsection-anchors -fprofile-correction -fno-inline -fsched-critical-path-heuristic -fgcse-after-reload -fno-zero-initialized-in-bss -fbranch-target-load-optimize -fweb": [
+        14610.1,
+        51.22392019359706,
+        14612.0,
+        154.0,
+        14537,
+        14691
+    ],
+    "-O3 -fprofile-use -fdevirtualize-speculatively -fkeep-inline-functions -fno-zero-initialized-in-bss -fivopts -floop-interchange -fvpt -fkeep-static-functions -fsched-pressure -fno-inline-functions -fisolate-erroneous-paths-attribute": [
+        14903.6,
+        54.97308432314854,
+        14893.5,
+        185.0,
+        14842,
+        15027
+    ],
+    "-O3 -fno-ira-share-save-slots -fmerge-all-constants -fgcse-sm -fsched-last-insn-heuristic -fno-ipa-cp-clone -freschedule-modulo-scheduled-loops -funroll-loops -fweb -fbranch-target-load-optimize2 -ftree-loop-ivcanon -fno-defer-pop -fbtr-bb-exclusive -ftree-loop-im -funroll-all-loops -flive-range-shrinkage -fgcse-las -fsched-stalled-insns-dep -fsection-anchors -fcx-limited-range -fsched-spec-load -fselective-scheduling -fsched-stalled-insns -fmodulo-sched -fivopts -fpeel-loops -fsplit-loops -fno-ira-share-spill-slots -flto -floop-nest-optimize -fdevirtualize-speculatively -fgcse-after-reload -fbranch-probabilities -fprefetch-loop-arrays -fstdarg-opt -fsched-spec-insn-heuristic -fprofile-correction -fvpt -fsched2-use-superblocks -floop-parallelize-all -fno-function-cse -fkeep-inline-functions": [
+        14699.3,
+        54.0408179064677,
+        14693.5,
+        169.0,
+        14650,
+        14819
+    ],
+    "-O3 -fgcse-after-reload -fno-predictive-commoning -fgcse-las -flto -fsched-dep-count-heuristic -frename-registers -fno-function-cse -fselective-scheduling -fsched-rank-heuristic -floop-parallelize-all -ftree-vectorize -fconserve-stack -fno-ipa-cp-clone -flimit-function-alignment -fsched-stalled-insns -fisolate-erroneous-paths-attribute -fno-defer-pop -fsched-critical-path-heuristic -fkeep-static-functions -fbranch-probabilities -ftree-loop-im -fsched-spec-load -flive-range-shrinkage -fsched2-use-superblocks": [
+        14406.6,
+        56.185763321325446,
+        14396.5,
+        98.0,
+        14376,
+        14474
+    ],
+    "-O3 -floop-interchange -fno-zero-initialized-in-bss -fgcse-after-reload -fno-defer-pop -fconserve-stack -fprefetch-loop-arrays -floop-nest-optimize -fno-ipa-cp-clone -fgcse-las -fsched-last-insn-heuristic -ftree-loop-ivcanon -fno-ira-share-spill-slots -fbranch-target-load-optimize2 -fsched-spec-load-dangerous -fdevirtualize-speculatively -fbranch-probabilities -flimit-function-alignment -fsplit-loops -floop-parallelize-all -fno-function-cse -fweb -fmerge-all-constants -flto -fsched-spec-insn-heuristic -fmodulo-sched -fno-ira-share-save-slots -fstdarg-opt -fsection-anchors -fsched-dep-count-heuristic -fvariable-expansion-in-unroller -fipa-pta -fprofile-use -fgcse-sm -flive-range-shrinkage -fkeep-static-functions -fisolate-erroneous-paths-attribute -fsched2-use-superblocks -fsched-critical-path-heuristic -frename-registers -fsched-pressure -ftree-parallelize-loops=16 -freschedule-modulo-scheduled-loops -funroll-all-loops -fbtr-bb-exclusive -fsched-stalled-insns-dep -fsched-rank-heuristic -funroll-loops": [
+        14595.5,
+        49.57267392424984,
+        14571.0,
+        146.0,
+        14553,
+        14699
+    ],
+    "-O3 -flto -fselective-scheduling -fgcse-sm -floop-unroll-and-jam -flimit-function-alignment -fmodulo-sched -fbranch-target-load-optimize2 -flive-range-shrinkage -fbranch-probabilities -ftree-loop-ivcanon -fno-predictive-commoning -fno-function-cse -fprefetch-loop-arrays -fsched-group-heuristic -floop-parallelize-all -fsched-pressure -fno-zero-initialized-in-bss -fgcse-after-reload -fsched-stalled-insns-dep -fconserve-stack -ftree-parallelize-loops=16 -fsched-critical-path-heuristic -fcx-limited-range -fkeep-inline-functions -fvariable-expansion-in-unroller -frename-registers -fsection-anchors -fbtr-bb-exclusive -fprofile-use -fsplit-loops -fno-ira-share-save-slots -ftree-loop-im -funroll-all-loops -fsched-last-insn-heuristic -fsched-spec-load-dangerous -fkeep-static-functions -fmerge-all-constants -fdevirtualize-speculatively -fweb -fstdarg-opt -fno-ira-share-spill-slots -fbranch-target-load-optimize -floop-interchange": [
+        14356.818181818182,
+        192.64560877038542,
+        14298.0,
+        117.0,
+        14263,
+        14380
+    ],
+    "-O3 -fsched-stalled-insns -fbranch-target-load-optimize2 -fdevirtualize-speculatively -frename-registers -fno-zero-initialized-in-bss -fbranch-probabilities -fsched-rank-heuristic -fgcse-after-reload -fno-ipa-cp-clone -fipa-pta -fsection-anchors -fstdarg-opt -fno-ira-share-spill-slots -fsched-spec-insn-heuristic -fweb -fno-ira-share-save-slots -floop-nest-optimize -fselective-scheduling -fsched-stalled-insns-dep -fisolate-erroneous-paths-attribute -fsplit-loops -fsched2-use-superblocks -fgcse-las -flimit-function-alignment -fvpt -ftree-loop-ivcanon -fconserve-stack -ftree-loop-im -fno-predictive-commoning -fgcse-sm -fsched-pressure -flive-range-shrinkage -fcx-limited-range -flto -fvariable-expansion-in-unroller -fmerge-all-constants -fkeep-inline-functions -fsched-last-insn-heuristic -fno-defer-pop -fsched-dep-count-heuristic -fsched-spec-load": [
+        14403.8,
+        48.82171647945206,
+        14386.5,
+        150.0,
+        14357,
+        14507
+    ],
+    "-O3 -flimit-function-alignment -fgcse-sm -fselective-scheduling -fsched-stalled-insns -flive-range-shrinkage -fstdarg-opt -fpeel-loops -fkeep-inline-functions -fno-ira-share-save-slots -fdevirtualize-speculatively -floop-parallelize-all -fconserve-stack -ftree-loop-ivcanon -fno-ira-share-spill-slots -frename-registers -fsplit-loops -floop-unroll-and-jam -fsched-dep-count-heuristic -fsched-last-insn-heuristic -fsched-critical-path-heuristic -fisolate-erroneous-paths-attribute -ftree-vectorize -fbranch-target-load-optimize2 -flto -ftree-loop-im -fsched-pressure -fsched-spec-insn-heuristic -fweb -fcx-limited-range -fgcse-las -fmerge-all-constants -fipa-pta -fno-zero-initialized-in-bss -fivopts -fsched-rank-heuristic -fprefetch-loop-arrays -fgcse-after-reload -fsched-spec-load-dangerous -fno-defer-pop -freschedule-modulo-scheduled-loops": [
+        14242.7,
+        52.474851119369546,
+        14248.5,
+        109.0,
+        14203,
+        14312
+    ],
+    "-O3 -fprofile-correction -fselective-scheduling -fweb -fsched-spec-load -frename-registers -fsched-stalled-insns": [
+        14369.4,
+        50.64819838849157,
+        14361.0,
+        147.0,
+        14334,
+        14481
+    ],
+    "-O3 -fsched2-use-superblocks -fsched-spec-load-dangerous -fsched-stalled-insns -fno-ipa-cp-clone -fno-predictive-commoning -fno-defer-pop -fkeep-static-functions -flto -fno-function-cse -floop-unroll-and-jam -fsched-spec-insn-heuristic -fpeel-loops -flimit-function-alignment -fbranch-target-load-optimize2 -fprofile-use -fmodulo-sched -floop-nest-optimize -fvpt -fno-ira-share-spill-slots -fsched-stalled-insns-dep -fsched-pressure -ftree-loop-ivcanon -frename-registers -fsched-spec-load -fisolate-erroneous-paths-attribute -fvariable-expansion-in-unroller -fno-zero-initialized-in-bss -freschedule-modulo-scheduled-loops -floop-interchange -fbranch-target-load-optimize -flive-range-shrinkage -fprefetch-loop-arrays -fno-ira-share-save-slots -floop-parallelize-all -fcx-limited-range -fdevirtualize-speculatively -fbtr-bb-exclusive -fgcse-las -fsched-critical-path-heuristic -fprofile-correction -fstdarg-opt -fweb -fsched-last-insn-heuristic": [
+        14548.5,
+        39.61628453048065,
+        14557.5,
+        98.0,
+        14511,
+        14609
+    ],
+    "-O3 -floop-parallelize-all -fprofile-use -ftree-vectorize -flto -fno-ira-share-spill-slots -fmerge-all-constants -fno-defer-pop -ftree-parallelize-loops=16 -fkeep-static-functions -fgcse-las -fcx-limited-range -fipa-pta -flimit-function-alignment -fsplit-loops -ftree-loop-im -frename-registers -fsched-stalled-insns -fdevirtualize-speculatively -fsched-critical-path-heuristic -fsched-pressure -fgcse-sm -fconserve-stack -funswitch-loops -freschedule-modulo-scheduled-loops -fisolate-erroneous-paths-attribute -fpeel-loops -fgcse-after-reload -fsched-rank-heuristic": [
+        14403.9,
+        39.85837427693207,
+        14395.5,
+        109.0,
+        14365,
+        14474
+    ],
+    "-O3 -fno-defer-pop -floop-interchange -fsched-spec-insn-heuristic -fdevirtualize-speculatively -fno-ira-share-spill-slots -fsched-rank-heuristic -fprofile-correction -frename-registers -fno-function-cse -fivopts -fsched-critical-path-heuristic -fno-ipa-cp-clone -fprefetch-loop-arrays -fsplit-loops -flive-range-shrinkage -ftree-vectorize -fsched-pressure -fstdarg-opt -fgcse-sm -fsched2-use-superblocks -fisolate-erroneous-paths-attribute -fpeel-loops -fvariable-expansion-in-unroller -fcx-limited-range -fno-ira-share-save-slots -fconserve-stack -fselective-scheduling -fgcse-after-reload -fweb -fbranch-target-load-optimize2 -ftree-loop-ivcanon -fsched-spec-load-dangerous -fprofile-use -fno-predictive-commoning -fsection-anchors -fsched-dep-count-heuristic -fsched-group-heuristic -fgcse-las": [
+        14790.9,
+        43.60149080020086,
+        14809.0,
+        117.0,
+        14725,
+        14842
+    ],
+    "-O3 -fselective-scheduling -ftree-parallelize-loops=16 -fkeep-static-functions -flimit-function-alignment -fsched-spec-insn-heuristic -fno-function-cse -fno-predictive-commoning -fpeel-loops -fdevirtualize-speculatively -fsched-dep-count-heuristic -freschedule-modulo-scheduled-loops -funroll-all-loops -fno-ipa-cp-clone -fbranch-target-load-optimize2 -fsched-stalled-insns -fgcse-sm -fsched-stalled-insns-dep -fkeep-inline-functions -fno-defer-pop -ftree-loop-im -fprofile-correction -flto -fsched-rank-heuristic -fvariable-expansion-in-unroller -floop-parallelize-all -fvpt -flive-range-shrinkage -fisolate-erroneous-paths-attribute -fstdarg-opt -fconserve-stack -fbranch-probabilities -frename-registers -fno-ira-share-save-slots -fmodulo-sched -funroll-loops -ftree-loop-ivcanon -fno-ira-share-spill-slots": [
+        14540.4,
+        40.637913332256616,
+        14542.0,
+        135.0,
+        14486,
+        14621
+    ],
+    "-O3 -fsched-stalled-insns -fstdarg-opt -fgcse-after-reload -fno-function-cse -fbranch-probabilities -fvpt -fno-defer-pop": [
+        14344.3,
+        45.400550657453486,
+        14345.5,
+        124.0,
+        14287,
+        14411
+    ],
+    "-O3 -fdevirtualize-speculatively -fisolate-erroneous-paths-attribute -fprefetch-loop-arrays -fipa-pta -flto -fkeep-static-functions -fno-ipa-cp-clone": [
+        14277.3,
+        51.73016528100408,
+        14285.0,
+        104.0,
+        14238,
+        14342
+    ],
+    "-O3 -fno-ipa-cp-clone -fvariable-expansion-in-unroller -fvpt -frename-registers -floop-parallelize-all -ftree-loop-im -fipa-pta -flive-range-shrinkage": [
+        14323.8,
+        45.678879145618275,
+        14322.5,
+        132.0,
+        14274,
+        14406
+    ],
+    "-O3 -fstdarg-opt -fno-ipa-cp-clone -fgcse-after-reload -fprofile-correction -fweb -frename-registers -flto -fprefetch-loop-arrays -floop-parallelize-all -fsched-spec-load-dangerous -fsection-anchors -freschedule-modulo-scheduled-loops -fdevirtualize-speculatively -fsched-dep-count-heuristic -fsched-pressure -fsched-spec-load -fsched-rank-heuristic -flimit-function-alignment -fpeel-loops -fsched-spec-insn-heuristic -funroll-loops -fcx-limited-range -fsched-stalled-insns": [
+        14557.7,
+        69.77829175323798,
+        14541.5,
+        195.0,
+        14483,
+        14678
+    ],
+    "-O3 -fprofile-correction -ftree-loop-im -flimit-function-alignment -fmodulo-sched -fno-function-cse -fsection-anchors -fno-ira-share-spill-slots -fweb -fprofile-use -fdevirtualize-speculatively -fsched-pressure -fsched-spec-insn-heuristic -fsched-spec-load-dangerous -fsplit-loops -fkeep-static-functions -funroll-all-loops -fmerge-all-constants -fsched-dep-count-heuristic -fbranch-probabilities -fcx-limited-range -fsched-spec-load -fsched2-use-superblocks -fsched-critical-path-heuristic -fno-inline-functions -fno-ipa-cp-clone -fsched-last-insn-heuristic -fivopts -fselective-scheduling -fstdarg-opt -flto -fno-predictive-commoning -funroll-loops -ftree-loop-ivcanon -fconserve-stack -flive-range-shrinkage -fisolate-erroneous-paths-attribute": [
+        14781.8,
+        30.76946538372092,
+        14778.5,
+        92.0,
+        14746,
+        14838
+    ],
+    "-O3 -fgcse-sm -fsched-spec-load -flto -fsplit-loops -fivopts -ftree-parallelize-loops=16 -fweb -fsched-critical-path-heuristic -fno-ira-share-spill-slots -fbtr-bb-exclusive -funroll-all-loops -fno-inline -fno-inline-functions -fbranch-target-load-optimize -funroll-loops -fsched-dep-count-heuristic -flive-range-shrinkage -fvariable-expansion-in-unroller -fno-zero-initialized-in-bss -funswitch-loops -fno-function-cse -fsched-spec-insn-heuristic -fsched-rank-heuristic -fselective-scheduling -fno-ipa-cp-clone -fsched-stalled-insns -fsched-group-heuristic -freschedule-modulo-scheduled-loops -fno-ira-share-save-slots -fbranch-target-load-optimize2 -flimit-function-alignment -fselective-scheduling2 -ftree-loop-im -ftree-vectorize -frename-registers": [
+        14740.4,
+        34.73384516577455,
+        14744.0,
+        98.0,
+        14688,
+        14786
+    ],
+    "-O3 -fselective-scheduling -funroll-loops -fprofile-use -fsched-last-insn-heuristic -fstdarg-opt -fsched-rank-heuristic -flimit-function-alignment -fselective-scheduling2 -fmodulo-sched -floop-nest-optimize -fsched-spec-load-dangerous -fipa-pta -fgcse-after-reload -fprofile-correction -fkeep-static-functions -fprefetch-loop-arrays -flto -fbtr-bb-exclusive -funswitch-loops -fkeep-inline-functions -floop-unroll-and-jam": [
+        14396.6,
+        42.17155439392767,
+        14388.0,
+        120.0,
+        14359,
+        14479
+    ],
+    "-O3 -fno-inline-functions -fsched-stalled-insns-dep -fsched-spec-insn-heuristic -fweb -fsplit-loops -funroll-loops -fno-function-cse -floop-interchange -fbranch-target-load-optimize2 -ftree-parallelize-loops=16 -fsched-critical-path-heuristic -fisolate-erroneous-paths-attribute -fprefetch-loop-arrays -ftree-vectorize -fsection-anchors -fmodulo-sched -fsched-stalled-insns -fbranch-target-load-optimize -fsched-group-heuristic -fvariable-expansion-in-unroller -fno-inline -fgcse-sm -fsched-rank-heuristic -fsched-last-insn-heuristic -flimit-function-alignment -fivopts -fkeep-static-functions -fgcse-las -funswitch-loops -fipa-pta": [
+        14882.7,
+        49.075553995854186,
+        14886.0,
+        132.0,
+        14817,
+        14949
+    ],
+    "-O3 -fbranch-target-load-optimize -flimit-function-alignment -fprefetch-loop-arrays -funswitch-loops -funroll-all-loops -ftree-vectorize -fkeep-static-functions -floop-nest-optimize -fsection-anchors -ftree-loop-im -fprofile-use -fno-inline-functions -fcx-limited-range -fgcse-sm -fsched-stalled-insns -fno-defer-pop -fbranch-probabilities": [
+        14852.1,
+        52.85158464984754,
+        14853.0,
+        160.0,
+        14790,
+        14950
+    ],
+    "-O3 -ftree-parallelize-loops=16 -fipa-pta -funswitch-loops -fsched-group-heuristic -funroll-loops -fbranch-probabilities -fbranch-target-load-optimize -ftree-loop-im -fsched-stalled-insns-dep -fsched-stalled-insns -fvpt -fprofile-correction -fgcse-sm -fprofile-use -fgcse-after-reload -floop-parallelize-all -floop-unroll-and-jam -fweb -fbranch-target-load-optimize2 -fno-zero-initialized-in-bss -fsched-spec-insn-heuristic -fsched-spec-load-dangerous -fsplit-loops -freschedule-modulo-scheduled-loops -fkeep-inline-functions -fsched-critical-path-heuristic -fisolate-erroneous-paths-attribute -fno-ira-share-spill-slots -fsched-rank-heuristic -flimit-function-alignment -fcx-limited-range": [
+        14666.4,
+        30.097175947254584,
+        14663.0,
+        66.0,
+        14644,
+        14710
+    ],
+    "-O3 -flto -fsched2-use-superblocks -frename-registers -fsched-last-insn-heuristic -ftree-vectorize -fno-inline-functions -fsched-group-heuristic -ftree-loop-ivcanon -freschedule-modulo-scheduled-loops -fno-inline": [
+        14516.6,
+        36.13917541948073,
+        14512.5,
+        104.0,
+        14478,
+        14582
+    ],
+    "-O3 -fprofile-use -fsched-dep-count-heuristic -fno-function-cse -fgcse-las -fsched-spec-load -fsched-last-insn-heuristic": [
+        14617.9,
+        38.67932264143208,
+        14628.5,
+        101.0,
+        14571,
+        14672
+    ],
+    "-O3 -fprofile-use -fselective-scheduling2 -fstdarg-opt -flive-range-shrinkage -fno-inline-functions -ftree-vectorize -fkeep-static-functions": [
+        14780.7,
+        55.26852630566515,
+        14779.0,
+        115.0,
+        14743,
+        14858
+    ],
+    "-O3 -fno-inline-functions -frename-registers -flto -fselective-scheduling -fsched-rank-heuristic -fsched-spec-load -fprofile-use -fmodulo-sched -fbranch-target-load-optimize -flimit-function-alignment -fgcse-las -fsched-pressure -fipa-pta -fvariable-expansion-in-unroller": [
+        14467.818181818182,
+        157.69984042294237,
+        14429.0,
+        71.0,
+        14402,
+        14473
+    ],
+    "-O3 -fbtr-bb-exclusive -fno-function-cse -fselective-scheduling2 -freschedule-modulo-scheduled-loops -fconserve-stack -fsched-group-heuristic -fsched-spec-insn-heuristic -fno-ira-share-save-slots": [
+        14470.7,
+        41.099999999999994,
+        14470.0,
+        114.0,
+        14425,
+        14539
+    ],
+    "-O3 -fdevirtualize-speculatively -funroll-all-loops -floop-unroll-and-jam -fsched-spec-insn-heuristic -fgcse-after-reload -fno-inline -fno-defer-pop": [
+        14965.3,
+        53.62098469815712,
+        14972.0,
+        159.0,
+        14889,
+        15048
+    ],
+    "-O3 -floop-nest-optimize -fisolate-erroneous-paths-attribute -fsched-spec-load -fselective-scheduling -fsched-dep-count-heuristic -fmerge-all-constants -fno-defer-pop -fno-inline -fgcse-after-reload -fcx-limited-range -fgcse-las -funswitch-loops -fprefetch-loop-arrays -fbtr-bb-exclusive -fbranch-target-load-optimize2 -fno-predictive-commoning -fconserve-stack": [
+        14750.1,
+        41.53661035761103,
+        14754.5,
+        103.0,
+        14709,
+        14812
+    ],
+    "-O3 -fsched-last-insn-heuristic -fsched-pressure -fivopts -ftree-loop-im -fselective-scheduling -fdevirtualize-speculatively -flimit-function-alignment -ftree-vectorize -fvariable-expansion-in-unroller -fisolate-erroneous-paths-attribute -fbranch-target-load-optimize2 -fpeel-loops -fkeep-static-functions -fcx-limited-range -fsched-stalled-insns-dep -fgcse-las": [
+        14372.5,
+        26.552777632481313,
+        14373.0,
+        70.0,
+        14348,
+        14418
+    ],
+    "-O3 -fgcse-after-reload -fmodulo-sched -fbranch-target-load-optimize -fbranch-target-load-optimize2 -fvpt": [
+        14402.7,
+        48.72791807578076,
+        14415.0,
+        108.0,
+        14351,
+        14459
+    ],
+    "-O3 -funroll-all-loops -fsched-stalled-insns-dep -fsched-critical-path-heuristic -fno-inline-functions -ftree-loop-im -funswitch-loops -floop-unroll-and-jam -fsched-spec-load -fsched-stalled-insns -fno-defer-pop -fmodulo-sched -fstdarg-opt -fweb -fsched-spec-load-dangerous -fsched2-use-superblocks -fsched-last-insn-heuristic -fbranch-probabilities -fkeep-inline-functions": [
+        14757.8,
+        55.316905191812744,
+        14751.5,
+        161.0,
+        14717,
+        14878
+    ],
+    "-O3 -fivopts -fsched-rank-heuristic -fdevirtualize-speculatively -fbranch-target-load-optimize -fkeep-inline-functions -fselective-scheduling -fprofile-correction -fconserve-stack -fgcse-after-reload -fsched-spec-insn-heuristic -flimit-function-alignment -fkeep-static-functions -fmerge-all-constants -fisolate-erroneous-paths-attribute -fno-inline-functions -fbranch-probabilities -ftree-vectorize -ftree-parallelize-loops=16 -fsched-stalled-insns -flive-range-shrinkage -fbtr-bb-exclusive -floop-nest-optimize -fgcse-las -floop-interchange -fsched-dep-count-heuristic -fno-function-cse -ftree-loop-im -fno-ira-share-spill-slots -fsched-pressure -fcx-limited-range -ftree-loop-ivcanon -funroll-all-loops -funswitch-loops -frename-registers": [
+        14904.454545454546,
+        147.1161344815496,
+        14846.0,
+        84.0,
+        14834,
+        14918
+    ],
+    "-O3 -fselective-scheduling -fgcse-las -fno-ipa-cp-clone -flimit-function-alignment -fgcse-after-reload -fsched-group-heuristic -fsplit-loops -funroll-loops -fbranch-target-load-optimize2 -fmerge-all-constants -fsched-pressure -fbranch-target-load-optimize -fbtr-bb-exclusive -fbranch-probabilities -fno-function-cse -fconserve-stack -fsched-spec-load-dangerous -ftree-vectorize -fsched2-use-superblocks -fivopts -fsched-spec-insn-heuristic -fprofile-use -fsched-dep-count-heuristic -fno-inline-functions -fprofile-correction": [
+        14807.4,
+        57.28036312734059,
+        14811.5,
+        176.0,
+        14725,
+        14901
+    ],
+    "-O3 -fweb -fsched-rank-heuristic -fno-ira-share-save-slots -funroll-loops -fbtr-bb-exclusive -fivopts -fselective-scheduling -fkeep-inline-functions -fkeep-static-functions -ftree-loop-ivcanon -fsched2-use-superblocks -fbranch-target-load-optimize2 -fgcse-after-reload -funroll-all-loops -fbranch-probabilities -floop-interchange -fno-ipa-cp-clone -fsched-spec-insn-heuristic -fisolate-erroneous-paths-attribute": [
+        14565.6,
+        30.80649282213086,
+        14567.5,
+        85.0,
+        14526,
+        14611
+    ],
+    "-O3 -flimit-function-alignment -floop-nest-optimize -fsched-pressure -flive-range-shrinkage -fmodulo-sched -fsched-last-insn-heuristic -fno-zero-initialized-in-bss -fno-inline-functions -fsched-rank-heuristic -frename-registers -fsched-group-heuristic -fsched-stalled-insns-dep -fpeel-loops -fweb -floop-unroll-and-jam -fno-ira-share-spill-slots -fsched2-use-superblocks -fsched-spec-insn-heuristic -fisolate-erroneous-paths-attribute -funroll-loops -fgcse-after-reload -fno-ira-share-save-slots -fno-ipa-cp-clone -ftree-parallelize-loops=16 -fmerge-all-constants -fdevirtualize-speculatively -fconserve-stack -ftree-vectorize -fkeep-inline-functions -fbranch-target-load-optimize2 -fprofile-correction -fno-predictive-commoning -fbranch-probabilities -fsched-dep-count-heuristic -fgcse-sm -fsched-stalled-insns -fcx-limited-range -fsplit-loops -fivopts -fgcse-las -fipa-pta -fsched-critical-path-heuristic -flto -funswitch-loops -fkeep-static-functions": [
+        14767.6,
+        28.555910071296974,
+        14758.5,
+        84.0,
+        14744,
+        14828
+    ],
+    "-O3 -funroll-loops -fgcse-after-reload -fno-zero-initialized-in-bss -fsched-rank-heuristic -fno-ipa-cp-clone -fno-ira-share-spill-slots -funroll-all-loops -funswitch-loops -fmerge-all-constants -fstdarg-opt -fsection-anchors -fsched-group-heuristic -fkeep-inline-functions -floop-unroll-and-jam -ftree-loop-im -fno-predictive-commoning -fno-ira-share-save-slots -fsched-dep-count-heuristic -fno-defer-pop -fgcse-sm -fsched-stalled-insns -ftree-loop-ivcanon -fvariable-expansion-in-unroller -fmodulo-sched -ftree-parallelize-loops=16 -fisolate-erroneous-paths-attribute -fno-function-cse -fcx-limited-range -fprefetch-loop-arrays -fsched-critical-path-heuristic -fselective-scheduling -fsched2-use-superblocks -fbranch-target-load-optimize -fno-inline-functions -fconserve-stack -fsched-spec-load -frename-registers -flive-range-shrinkage -fgcse-las -fno-inline -fsched-spec-insn-heuristic": [
+        15091.363636363636,
+        207.7959106812927,
+        15031.0,
+        112.0,
+        15000,
+        15112
+    ],
+    "-O3 -fsched-dep-count-heuristic -fsched2-use-superblocks -fno-inline -fvpt -fno-ipa-cp-clone -funroll-loops -fsched-pressure -fgcse-sm -fmodulo-sched -fkeep-inline-functions -fno-zero-initialized-in-bss -fbranch-target-load-optimize -fbranch-target-load-optimize2 -flive-range-shrinkage -floop-interchange -fno-predictive-commoning -fisolate-erroneous-paths-attribute -fsched-group-heuristic -fsched-stalled-insns -fsched-rank-heuristic -fstdarg-opt": [
+        14918.9,
+        54.43794632423233,
+        14904.0,
+        160.0,
+        14860,
+        15020
+    ],
+    "-O3 -fno-function-cse -fsched2-use-superblocks -fbranch-target-load-optimize2 -fcx-limited-range -fgcse-sm -fsched-pressure -fkeep-inline-functions -fsched-stalled-insns-dep -fkeep-static-functions -fsched-rank-heuristic -fsection-anchors -fgcse-after-reload -fivopts -fprefetch-loop-arrays -ftree-loop-ivcanon -frename-registers -floop-parallelize-all -fno-predictive-commoning -fsched-critical-path-heuristic -fno-ira-share-spill-slots -fno-zero-initialized-in-bss -fvpt -fisolate-erroneous-paths-attribute -fdevirtualize-speculatively -fweb -fsched-spec-insn-heuristic -fprofile-use -fselective-scheduling -fbranch-probabilities -fmerge-all-constants -flto -fmodulo-sched -funroll-loops -fstdarg-opt -fsched-group-heuristic -ftree-parallelize-loops=16 -fno-ira-share-save-slots -fno-defer-pop -fconserve-stack -fsched-dep-count-heuristic -flive-range-shrinkage -floop-unroll-and-jam -fbtr-bb-exclusive -fselective-scheduling2 -fsplit-loops -fvariable-expansion-in-unroller -fsched-spec-load-dangerous": [
+        14305.1,
+        55.907870644480816,
+        14295.5,
+        159.0,
+        14248,
+        14407
+    ],
+    "-O3 -fsched-stalled-insns -ftree-parallelize-loops=16 -fipa-pta -fgcse-after-reload -fcx-limited-range -fsched-spec-load -fno-ipa-cp-clone -ftree-loop-im -funroll-loops -freschedule-modulo-scheduled-loops -fvariable-expansion-in-unroller -fpeel-loops -fgcse-sm -ftree-vectorize -fsplit-loops -fprofile-correction -fsched-rank-heuristic -fmodulo-sched -fsched-pressure -fsched-critical-path-heuristic -fno-zero-initialized-in-bss -fno-function-cse -fisolate-erroneous-paths-attribute -fsched-dep-count-heuristic -fvpt -fweb -fsched-last-insn-heuristic -funswitch-loops -fbranch-target-load-optimize2 -flimit-function-alignment -floop-parallelize-all -fgcse-las -fsched-spec-insn-heuristic -fstdarg-opt -frename-registers -fivopts -fno-predictive-commoning -fmerge-all-constants -fsection-anchors -fsched2-use-superblocks -ftree-loop-ivcanon -floop-unroll-and-jam": [
+        14564.2,
+        43.494367451429845,
+        14574.5,
+        89.0,
+        14535,
+        14624
+    ],
+    "-O3 -fvariable-expansion-in-unroller -fconserve-stack -fsched-group-heuristic -fno-defer-pop -fsched-spec-load-dangerous -fselective-scheduling2 -fsched-spec-insn-heuristic -fsched2-use-superblocks -fno-ira-share-save-slots -fprofile-correction -frename-registers -flto -ftree-loop-im -freschedule-modulo-scheduled-loops -fcx-limited-range -fisolate-erroneous-paths-attribute -fsched-critical-path-heuristic -fmerge-all-constants -ftree-parallelize-loops=16": [
+        14353.272727272728,
+        201.10652577861268,
+        14312.0,
+        79.0,
+        14267,
+        14346
+    ],
+    "-O3 -funroll-all-loops -fweb -fno-function-cse -floop-unroll-and-jam -fsched-pressure -fvpt -fdevirtualize-speculatively -fgcse-las -fconserve-stack -fstdarg-opt -fno-ipa-cp-clone -flimit-function-alignment -frename-registers -ftree-vectorize -fbranch-target-load-optimize2 -freschedule-modulo-scheduled-loops -fgcse-after-reload -fno-defer-pop -fsched-group-heuristic -flive-range-shrinkage -flto -fsched-stalled-insns-dep -fselective-scheduling -fno-ira-share-spill-slots -fsched-last-insn-heuristic -fvariable-expansion-in-unroller -ftree-loop-im -fprofile-correction -fkeep-inline-functions -fipa-pta -fno-zero-initialized-in-bss -fprofile-use -fpeel-loops -fsched-spec-load-dangerous -fprefetch-loop-arrays -floop-nest-optimize -fsplit-loops -fmerge-all-constants": [
+        14631.818181818182,
+        154.6514075307421,
+        14579.0,
+        103.0,
+        14546,
+        14649
+    ],
+    "-O3 -fkeep-inline-functions -fselective-scheduling -floop-parallelize-all": [
+        14401.4,
+        65.97908759599514,
+        14393.0,
+        169.0,
+        14336,
+        14505
+    ],
+    "-O3 -fbranch-target-load-optimize -fno-zero-initialized-in-bss -funswitch-loops -fno-function-cse -fkeep-inline-functions -fbranch-target-load-optimize2 -fsched-rank-heuristic -fgcse-after-reload -frename-registers -ftree-vectorize -fsched2-use-superblocks -fivopts -fconserve-stack -fsched-group-heuristic -flive-range-shrinkage -fsched-critical-path-heuristic -fselective-scheduling -fsched-dep-count-heuristic -funroll-loops -fstdarg-opt -fpeel-loops -floop-interchange -fsched-pressure -fsched-spec-load-dangerous -fisolate-erroneous-paths-attribute -fno-ira-share-save-slots -fvpt -floop-nest-optimize -fsched-last-insn-heuristic -fvariable-expansion-in-unroller -freschedule-modulo-scheduled-loops -fsection-anchors -fsched-spec-load -ftree-loop-im -fno-ira-share-spill-slots": [
+        14806.5,
+        33.148906467634795,
+        14795.0,
+        101.0,
+        14781,
+        14882
+    ],
+    "-O3 -fsched-spec-load -fprofile-correction -ftree-loop-ivcanon -funswitch-loops -fbtr-bb-exclusive -fgcse-las -fgcse-sm -fmodulo-sched -fcx-limited-range -fprefetch-loop-arrays -floop-unroll-and-jam -fprofile-use -fmerge-all-constants -fgcse-after-reload -fvpt -fbranch-target-load-optimize2 -flto -floop-interchange -fno-predictive-commoning -frename-registers -flive-range-shrinkage -fsplit-loops -fsched-stalled-insns -fno-ipa-cp-clone -fno-defer-pop -fno-zero-initialized-in-bss -fsched-spec-load-dangerous -fweb -fisolate-erroneous-paths-attribute -funroll-all-loops -fselective-scheduling2 -ftree-loop-im -fsched2-use-superblocks -fivopts -fkeep-inline-functions -ftree-parallelize-loops=16 -floop-parallelize-all -fno-ira-share-spill-slots -fdevirtualize-speculatively -fconserve-stack -fsched-dep-count-heuristic -fsched-group-heuristic -fsched-pressure -fvariable-expansion-in-unroller -fipa-pta -fsched-spec-insn-heuristic -fsection-anchors -freschedule-modulo-scheduled-loops": [
+        14522.9,
+        47.41824543358811,
+        14525.5,
+        117.0,
+        14478,
+        14595
+    ],
+    "-O3 -fipa-pta -fcx-limited-range -fsched-last-insn-heuristic -ftree-vectorize -fisolate-erroneous-paths-attribute -fno-ira-share-spill-slots -fconserve-stack -ftree-parallelize-loops=16 -flive-range-shrinkage -fdevirtualize-speculatively -fno-defer-pop -fgcse-sm -floop-parallelize-all -fno-ipa-cp-clone -fvariable-expansion-in-unroller -frename-registers -freschedule-modulo-scheduled-loops -fstdarg-opt -fsched-spec-load-dangerous -fsched-group-heuristic -fweb -fno-predictive-commoning -funroll-loops -fpeel-loops -funroll-all-loops -fprefetch-loop-arrays": [
+        14644.6,
+        47.44091061520637,
+        14625.5,
+        144.0,
+        14607,
+        14751
+    ],
+    "-O3 -floop-unroll-and-jam -fbranch-target-load-optimize2 -fsched-pressure -fno-ira-share-save-slots -floop-interchange -fsplit-loops -flimit-function-alignment -fisolate-erroneous-paths-attribute -ftree-parallelize-loops=16 -fno-predictive-commoning -fstdarg-opt -ftree-loop-ivcanon -fsched-stalled-insns-dep -fprofile-correction -fvariable-expansion-in-unroller -fgcse-las -fno-defer-pop -fmodulo-sched -ftree-loop-im -fvpt -fno-zero-initialized-in-bss -floop-parallelize-all -fsched-critical-path-heuristic -flto -funroll-all-loops -fconserve-stack -fselective-scheduling2 -fivopts -fsched-spec-load -fno-ira-share-spill-slots -fbranch-target-load-optimize -floop-nest-optimize -fsched-dep-count-heuristic -fprofile-use -fpeel-loops -fgcse-sm -fmerge-all-constants": [
+        14705.3,
+        70.30512072388468,
+        14706.5,
+        214.0,
+        14656,
+        14870
+    ],
+    "-O3 -fprofile-correction -floop-parallelize-all -fsched-dep-count-heuristic -fsched-spec-load-dangerous -fno-predictive-commoning -flive-range-shrinkage -fno-inline -fselective-scheduling2 -fno-ira-share-save-slots -fstdarg-opt -ftree-loop-im -fno-zero-initialized-in-bss -fsched-rank-heuristic -floop-unroll-and-jam -ftree-loop-ivcanon -ftree-vectorize -fsched-stalled-insns-dep -ftree-parallelize-loops=16 -fbtr-bb-exclusive -fivopts -fmerge-all-constants": [
+        14696.5,
+        76.98084177248259,
+        14667.0,
+        260.0,
+        14644,
+        14904
+    ],
+    "-O3 -fsched-spec-load -flimit-function-alignment -fsched-last-insn-heuristic -fno-function-cse -fsched-rank-heuristic -fno-ipa-cp-clone -fsched-dep-count-heuristic -fbtr-bb-exclusive -fsched-stalled-insns-dep -fmodulo-sched -fgcse-las -flive-range-shrinkage -floop-interchange -fbranch-target-load-optimize -fkeep-inline-functions -fsplit-loops -funroll-loops -fipa-pta -ftree-parallelize-loops=16 -ftree-loop-ivcanon -ftree-vectorize -fsched-spec-load-dangerous -fselective-scheduling -fivopts": [
+        14662.6,
+        55.593524802804154,
+        14662.5,
+        158.0,
+        14602,
+        14760
+    ],
+    "-O3 -flimit-function-alignment -fsched-stalled-insns-dep -fno-defer-pop -floop-unroll-and-jam -fsched-pressure -fsched-dep-count-heuristic -ftree-loop-im -fdevirtualize-speculatively -freschedule-modulo-scheduled-loops -fivopts -fstdarg-opt -fgcse-sm -fno-ipa-cp-clone -fweb -fsched2-use-superblocks -fcx-limited-range -floop-interchange -fsched-critical-path-heuristic -floop-parallelize-all -fvpt -fno-ira-share-save-slots -fconserve-stack -fmodulo-sched -fbranch-target-load-optimize2 -flive-range-shrinkage -ftree-parallelize-loops=16 -fsplit-loops -fno-ira-share-spill-slots -floop-nest-optimize -fsched-last-insn-heuristic -fno-zero-initialized-in-bss -fsched-rank-heuristic -fsched-spec-load-dangerous -fprefetch-loop-arrays -fkeep-static-functions -fpeel-loops -fgcse-after-reload -fsched-spec-load -fkeep-inline-functions -fsched-stalled-insns -fprofile-correction -fbtr-bb-exclusive": [
+        14631.1,
+        35.11253337485064,
+        14619.0,
+        104.0,
+        14600,
+        14704
+    ],
+    "-O3 -fdevirtualize-speculatively -fprofile-correction -fselective-scheduling -fsection-anchors -fno-predictive-commoning -fno-ipa-cp-clone -fisolate-erroneous-paths-attribute -fstdarg-opt -floop-nest-optimize -fno-function-cse -fkeep-static-functions -fsched-rank-heuristic -fsched-group-heuristic -ftree-loop-im -fsched-pressure": [
+        14326.727272727272,
+        136.9061330116308,
+        14277.0,
+        192.0,
+        14231,
+        14423
+    ],
+    "-O3 -frename-registers -fweb -fsched-stalled-insns -fsched-spec-insn-heuristic -funswitch-loops -fselective-scheduling -fsplit-loops -fipa-pta -fgcse-sm -floop-parallelize-all -fpeel-loops -ftree-loop-ivcanon -fsched-spec-load -flto -fsched-rank-heuristic -fgcse-after-reload -fbranch-target-load-optimize2 -floop-nest-optimize -fsched-critical-path-heuristic -fisolate-erroneous-paths-attribute": [
+        14258.3,
+        33.84390639391381,
+        14262.5,
+        94.0,
+        14213,
+        14307
+    ],
+    "-O3 -fno-ipa-cp-clone -floop-unroll-and-jam -fgcse-las -flto -fprofile-use -fno-function-cse -fno-ira-share-save-slots -fsched-dep-count-heuristic -fbranch-probabilities -floop-parallelize-all -fconserve-stack -fstdarg-opt": [
+        14570.0,
+        32.30170274149646,
+        14556.5,
+        94.0,
+        14541,
+        14635
+    ],
+    "-O3 -fno-predictive-commoning -fno-function-cse -fsched-rank-heuristic -fmodulo-sched -flto -funswitch-loops -ftree-loop-ivcanon -fsched-dep-count-heuristic -fisolate-erroneous-paths-attribute -fsched-spec-load -fsched-stalled-insns -fcx-limited-range -fno-zero-initialized-in-bss -funroll-all-loops -flive-range-shrinkage -fpeel-loops -fgcse-sm -fweb -fgcse-after-reload -fsched-critical-path-heuristic -fivopts -fvariable-expansion-in-unroller -fno-defer-pop -fipa-pta -fsched-stalled-insns-dep -fno-ira-share-save-slots -fsched-pressure -fbranch-probabilities": [
+        15031.911764705883,
+        1206.5118016449944,
+        14371.0,
+        125.0,
+        14354,
+        14479
+    ],
+    "-O3 -frename-registers -fsched-stalled-insns-dep -fprofile-use -ftree-loop-ivcanon": [
+        14621.5,
+        82.4854532629845,
+        14597.5,
+        247.0,
+        14565,
+        14812
+    ],
+    "-O3 -fno-defer-pop -fsched-critical-path-heuristic -fno-function-cse -fkeep-static-functions -ftree-parallelize-loops=16 -fisolate-erroneous-paths-attribute -fsched-spec-load-dangerous -fsched-stalled-insns-dep -fprofile-use -fsched-last-insn-heuristic -fpeel-loops -floop-interchange -ftree-loop-ivcanon -fsplit-loops -fgcse-after-reload -fvpt -fivopts -fselective-scheduling2 -fprofile-correction -fkeep-inline-functions -fsched-spec-insn-heuristic -fno-ira-share-save-slots -flimit-function-alignment -fvariable-expansion-in-unroller -fsched-pressure -funroll-all-loops -fsched-dep-count-heuristic -fmerge-all-constants -fgcse-sm -fsched2-use-superblocks -fipa-pta -funswitch-loops -floop-nest-optimize -fconserve-stack -fdevirtualize-speculatively -fbtr-bb-exclusive -fno-ipa-cp-clone -fprefetch-loop-arrays -ftree-vectorize -fgcse-las -floop-unroll-and-jam -fsched-stalled-insns": [
+        14506.7,
+        54.61510779994855,
+        14491.5,
+        159.0,
+        14468,
+        14627
+    ],
+    "-O3 -fno-inline-functions -ftree-loop-ivcanon -fsched2-use-superblocks -fno-defer-pop -fsched-last-insn-heuristic -floop-unroll-and-jam -frename-registers -fsplit-loops -fno-ira-share-spill-slots -ftree-parallelize-loops=16 -fsched-rank-heuristic -fivopts -fmerge-all-constants -funroll-all-loops -fbranch-target-load-optimize2 -fweb": [
+        14881.1,
+        24.402663789021066,
+        14871.0,
+        59.0,
+        14862,
+        14921
+    ],
+    "-O3 -fno-function-cse -fvpt -fsched-group-heuristic -flive-range-shrinkage -fivopts -fsched-stalled-insns -fgcse-las -ftree-parallelize-loops=16 -fgcse-after-reload -funroll-loops -fno-inline -fno-zero-initialized-in-bss -fsched2-use-superblocks -fsched-pressure -fsched-spec-insn-heuristic -fipa-pta -fbranch-target-load-optimize2 -fkeep-inline-functions -fprefetch-loop-arrays -fisolate-erroneous-paths-attribute -ftree-vectorize -fmodulo-sched -funswitch-loops -fdevirtualize-speculatively -ftree-loop-ivcanon -fgcse-sm -fweb -fsched-rank-heuristic -fno-inline-functions": [
+        15048.3,
+        65.9318587634233,
+        15029.5,
+        209.0,
+        14988,
+        15197
+    ],
+    "-O3 -fpeel-loops -fconserve-stack -frename-registers -fsched-rank-heuristic -fsched-dep-count-heuristic -ftree-loop-ivcanon -fsched-spec-load -fkeep-inline-functions -fgcse-las -fbranch-probabilities -flimit-function-alignment -fbtr-bb-exclusive -fivopts -fprefetch-loop-arrays -funroll-loops -fsched-stalled-insns -fno-ira-share-save-slots -fmerge-all-constants -fsched2-use-superblocks -ftree-vectorize -fselective-scheduling -fsched-stalled-insns-dep -fbranch-target-load-optimize2 -fmodulo-sched -fno-zero-initialized-in-bss -freschedule-modulo-scheduled-loops -fisolate-erroneous-paths-attribute -funroll-all-loops -fno-function-cse -fsection-anchors -fweb -floop-nest-optimize -fsched-critical-path-heuristic -fno-defer-pop -fbranch-target-load-optimize": [
+        14763.1,
+        68.03006688222496,
+        14755.0,
+        187.0,
+        14691,
+        14878
+    ],
+    "-O3 -fisolate-erroneous-paths-attribute -fsched-pressure -fsched-spec-load-dangerous -fsched-stalled-insns-dep -fivopts -fsched-stalled-insns -ftree-parallelize-loops=16": [
+        14320.2,
+        26.663833182796505,
+        14322.5,
+        87.0,
+        14285,
+        14372
+    ],
+    "-O3 -fprefetch-loop-arrays -fmodulo-sched -ftree-vectorize -funroll-loops -fsched-spec-load -fstdarg-opt -fsched2-use-superblocks -fsched-last-insn-heuristic -fno-inline-functions -fsplit-loops -fsched-stalled-insns -flive-range-shrinkage -funswitch-loops -fsched-group-heuristic -floop-nest-optimize -fsched-dep-count-heuristic -fbranch-target-load-optimize -fsched-stalled-insns-dep -flimit-function-alignment -frename-registers -fsched-spec-insn-heuristic -fgcse-las -fkeep-inline-functions -fprofile-correction -fsched-pressure -ftree-loop-ivcanon -fmerge-all-constants -fconserve-stack -fvariable-expansion-in-unroller -fpeel-loops -fvpt -fbtr-bb-exclusive": [
+        14652.8,
+        59.8578315678074,
+        14623.5,
+        194.0,
+        14610,
+        14804
+    ],
+    "-O3 -fsched-dep-count-heuristic -fpeel-loops -floop-unroll-and-jam -fsched-group-heuristic -funroll-loops -fno-inline -fgcse-sm -fgcse-las -fsched-rank-heuristic -fsched-last-insn-heuristic -floop-parallelize-all -ftree-loop-ivcanon -ftree-loop-im -fsched-spec-insn-heuristic -fmodulo-sched -fsched-critical-path-heuristic -fsched2-use-superblocks -fdevirtualize-speculatively -fisolate-erroneous-paths-attribute -fsched-spec-load": [
+        14959.0,
+        48.850793238186014,
+        14954.5,
+        117.0,
+        14897,
+        15014
+    ],
+    "-O3 -fsched-rank-heuristic -fgcse-after-reload -fsched-last-insn-heuristic -fprofile-use": [
+        14610.363636363636,
+        121.41908845532613,
+        14570.0,
+        91.0,
+        14540,
+        14631
+    ],
+    "-O3 -fcx-limited-range -ftree-loop-ivcanon -fsection-anchors -fvpt -fisolate-erroneous-paths-attribute -fsched-pressure -fno-ira-share-spill-slots -fdevirtualize-speculatively -ftree-loop-im": [
+        14319.6,
+        67.77492161559465,
+        14326.5,
+        207.0,
+        14261,
+        14468
+    ],
+    "-O3 -fstdarg-opt -fno-ira-share-save-slots -ftree-vectorize -fbranch-probabilities -fsched-pressure -fno-defer-pop -fsched-dep-count-heuristic -fvpt -fsched-rank-heuristic -fmerge-all-constants -flimit-function-alignment -fno-inline-functions": [
+        14607.3,
+        37.86040147700497,
+        14601.5,
+        100.0,
+        14561,
+        14661
+    ],
+    "-O3 -fmerge-all-constants -fpeel-loops -flive-range-shrinkage -fno-function-cse -flimit-function-alignment -ftree-loop-ivcanon -fgcse-sm -floop-parallelize-all -floop-nest-optimize -fvpt": [
+        14340.2,
+        45.659172134413474,
+        14333.5,
+        125.0,
+        14294,
+        14419
+    ],
+    "-O3 -fno-zero-initialized-in-bss -funroll-loops -fkeep-inline-functions -funroll-all-loops -fno-inline-functions -fno-ira-share-save-slots -fsched-stalled-insns-dep -fprofile-correction -fsection-anchors": [
+        14643.9,
+        57.85922571206773,
+        14643.5,
+        122.0,
+        14599,
+        14721
+    ],
+    "-O3 -fno-ipa-cp-clone -fkeep-inline-functions -ftree-vectorize -fsched2-use-superblocks -fkeep-static-functions -fmodulo-sched -fgcse-sm -fsched-stalled-insns -fsched-group-heuristic -fstdarg-opt -fsched-spec-insn-heuristic -fweb -fsplit-loops -fbranch-target-load-optimize2 -fivopts -frename-registers -fno-defer-pop -fdevirtualize-speculatively -fsched-rank-heuristic -fno-ira-share-save-slots -flive-range-shrinkage -fsched-critical-path-heuristic -fbranch-target-load-optimize -fmerge-all-constants -fselective-scheduling -funroll-loops -fvpt -fcx-limited-range -fsched-pressure -flto -fgcse-after-reload -fgcse-las -fno-predictive-commoning -fsection-anchors -fno-inline-functions -fno-inline -floop-nest-optimize -ftree-parallelize-loops=16 -funswitch-loops -fno-function-cse -fno-zero-initialized-in-bss": [
+        14778.5,
+        58.89524598811011,
+        14767.0,
+        160.0,
+        14712,
+        14872
+    ],
+    "-O3 -fsched-last-insn-heuristic -fbranch-target-load-optimize -funswitch-loops -fbtr-bb-exclusive -ftree-loop-im -floop-nest-optimize -fweb -fbranch-probabilities -fvariable-expansion-in-unroller": [
+        14366.5,
+        82.46241568132722,
+        14355.0,
+        264.0,
+        14306,
+        14570
+    ],
+    "-O3 -fsched-rank-heuristic -fstdarg-opt -floop-interchange -fgcse-sm -funroll-loops -fno-predictive-commoning -funroll-all-loops -fsection-anchors -floop-parallelize-all -fkeep-inline-functions -fsched2-use-superblocks -fno-inline -fsched-spec-load-dangerous -fsched-critical-path-heuristic -fdevirtualize-speculatively -fno-defer-pop -fsched-spec-load -fsched-stalled-insns -fsched-stalled-insns-dep -fconserve-stack -ftree-vectorize -fivopts -funswitch-loops -flive-range-shrinkage -fno-zero-initialized-in-bss -fisolate-erroneous-paths-attribute -fkeep-static-functions -fprofile-correction": [
+        15028.8,
+        55.18115620390715,
+        15016.0,
+        150.0,
+        14979,
+        15129
+    ],
+    "-O3 -fmodulo-sched -fsection-anchors -fno-inline-functions -flive-range-shrinkage -fkeep-inline-functions -fweb -fsched-spec-insn-heuristic -fvariable-expansion-in-unroller -fno-zero-initialized-in-bss -fbranch-target-load-optimize -fno-function-cse -floop-nest-optimize -fsched-pressure -ftree-vectorize -fsched-critical-path-heuristic -fcx-limited-range -fsched-spec-load -fsched-last-insn-heuristic -fno-defer-pop -frename-registers -fmerge-all-constants -fbranch-probabilities -fsched-spec-load-dangerous -funroll-loops -ftree-loop-im -fgcse-sm -fselective-scheduling -funroll-all-loops -fsched-stalled-insns-dep": [
+        14643.9,
+        47.854884808136354,
+        14641.5,
+        162.0,
+        14587,
+        14749
+    ],
+    "-O3 -fno-ipa-cp-clone -fstdarg-opt -fprefetch-loop-arrays -fkeep-inline-functions -fno-defer-pop -fbranch-target-load-optimize2 -floop-parallelize-all -fmerge-all-constants -fsched-stalled-insns-dep -fno-function-cse -fbtr-bb-exclusive -fweb -floop-nest-optimize -flto -fno-ira-share-spill-slots -fisolate-erroneous-paths-attribute -fvariable-expansion-in-unroller -fsection-anchors -funroll-loops -fsched2-use-superblocks -fselective-scheduling -fgcse-sm -fno-predictive-commoning -fcx-limited-range -fno-ira-share-save-slots -freschedule-modulo-scheduled-loops -ftree-loop-im -floop-interchange -fkeep-static-functions -fvpt -fsched-last-insn-heuristic -fsplit-loops -fdevirtualize-speculatively -fprofile-correction -fivopts -fno-zero-initialized-in-bss -flimit-function-alignment -fsched-spec-insn-heuristic -floop-unroll-and-jam -fconserve-stack -ftree-loop-ivcanon -fipa-pta -fselective-scheduling2 -fmodulo-sched -fsched-rank-heuristic -ftree-vectorize": [
+        14499.7,
+        63.5264511837392,
+        14487.0,
+        219.0,
+        14445,
+        14664
+    ],
+    "-O3 -flive-range-shrinkage -fno-ira-share-spill-slots -flto -fconserve-stack -fprofile-correction -fsched-pressure -fbtr-bb-exclusive -fsched-stalled-insns-dep -fkeep-static-functions -fipa-pta -fno-ira-share-save-slots -fsched-dep-count-heuristic -fsched-critical-path-heuristic -fno-function-cse -floop-nest-optimize -fweb -fgcse-las -floop-unroll-and-jam -fno-predictive-commoning -fdevirtualize-speculatively -fsched-spec-load -fno-ipa-cp-clone -fpeel-loops -fsched-spec-load-dangerous -fsched2-use-superblocks -fsection-anchors": [
+        14468.8,
+        46.43016261009647,
+        14469.5,
+        153.0,
+        14410,
+        14563
+    ],
+    "-O3 -fprofile-correction -fconserve-stack -fweb -fsplit-loops -fbranch-target-load-optimize2 -ftree-loop-ivcanon -funswitch-loops -fipa-pta -fno-predictive-commoning -fisolate-erroneous-paths-attribute -funroll-all-loops -fno-ira-share-spill-slots -floop-nest-optimize -fivopts -freschedule-modulo-scheduled-loops -frename-registers -fgcse-las -fbtr-bb-exclusive -fsched-stalled-insns -fsched-spec-insn-heuristic -fgcse-after-reload -fsched-pressure -floop-interchange -fsched2-use-superblocks -flimit-function-alignment -fmerge-all-constants -fsched-stalled-insns-dep -fno-defer-pop -fsched-group-heuristic -floop-parallelize-all -fsched-dep-count-heuristic -fstdarg-opt -fsection-anchors -fselective-scheduling2": [
+        14686.4,
+        99.72983505451116,
+        14670.0,
+        272.0,
+        14593,
+        14865
+    ],
+    "-O3 -fsplit-loops -fcx-limited-range -fsched-dep-count-heuristic -fmodulo-sched -fbtr-bb-exclusive -frename-registers -fgcse-las -fno-ira-share-save-slots -fweb -floop-parallelize-all -fstdarg-opt -ftree-loop-im -fbranch-probabilities -fipa-pta -ftree-loop-ivcanon -funroll-loops -fvpt -fsched-spec-load-dangerous -fsched-stalled-insns -fsched-last-insn-heuristic -fgcse-sm -fkeep-static-functions -fsched-rank-heuristic -fno-ira-share-spill-slots -fdevirtualize-speculatively -fivopts -floop-nest-optimize -fmerge-all-constants -fvariable-expansion-in-unroller -fgcse-after-reload -fprefetch-loop-arrays -fsched-stalled-insns-dep -ftree-vectorize -fno-inline-functions -fno-ipa-cp-clone -fselective-scheduling2 -flimit-function-alignment -fbranch-target-load-optimize2 -fprofile-correction -fno-defer-pop -floop-unroll-and-jam -fselective-scheduling -fbranch-target-load-optimize -freschedule-modulo-scheduled-loops -fsched-pressure -fsched-critical-path-heuristic -fisolate-erroneous-paths-attribute": [
+        14866.5,
+        102.65695300368115,
+        14846.5,
+        356.0,
+        14802,
+        15158
+    ],
+    "-O3 -fmodulo-sched -fvpt -floop-parallelize-all -fno-function-cse -fselective-scheduling -fno-ira-share-spill-slots -fsched-spec-insn-heuristic -fstdarg-opt": [
+        14293.1,
+        54.816876963212714,
+        14276.0,
+        161.0,
+        14248,
+        14409
+    ],
+    "-O3 -fno-ira-share-spill-slots -fsched-dep-count-heuristic -fgcse-las -fgcse-after-reload -fsection-anchors -fbranch-target-load-optimize2 -fstdarg-opt -fbtr-bb-exclusive -fsched-pressure -fsplit-loops -floop-interchange -frename-registers -floop-nest-optimize -fno-function-cse -ftree-vectorize -fprofile-correction -fivopts -fsched-group-heuristic -fno-ira-share-save-slots -ftree-loop-ivcanon -fsched-spec-load -flto -fkeep-static-functions -fmodulo-sched -fsched-spec-load-dangerous -fisolate-erroneous-paths-attribute -fsched-rank-heuristic -fvariable-expansion-in-unroller": [
+        14394.4,
+        29.431955422635447,
+        14405.5,
+        75.0,
+        14362,
+        14437
+    ],
+    "-O3 -floop-nest-optimize -frename-registers -fstdarg-opt -fpeel-loops -fsection-anchors -fisolate-erroneous-paths-attribute -fgcse-after-reload -floop-interchange -fbranch-probabilities -flimit-function-alignment -flto -fsched-spec-load-dangerous -floop-parallelize-all -fprefetch-loop-arrays -fsched-pressure -funroll-all-loops -fbranch-target-load-optimize -fkeep-static-functions -fcx-limited-range -fmodulo-sched -fsched-dep-count-heuristic -freschedule-modulo-scheduled-loops -fsched-last-insn-heuristic -fsplit-loops -fsched-critical-path-heuristic -flive-range-shrinkage -fsched-stalled-insns-dep -fno-ira-share-spill-slots -fbtr-bb-exclusive -fsched-spec-load": [
+        14411.6,
+        45.67318688245873,
+        14404.5,
+        132.0,
+        14371,
+        14503
+    ],
+    "-O3 -floop-parallelize-all -fsched-dep-count-heuristic -fprofile-use -fsched2-use-superblocks -fno-ira-share-save-slots -fsched-spec-load-dangerous -flto -fmodulo-sched -fno-defer-pop -funswitch-loops -fsched-pressure -fgcse-sm -fselective-scheduling -fgcse-las -fdevirtualize-speculatively -fsched-spec-load -fvariable-expansion-in-unroller -fsched-spec-insn-heuristic -flimit-function-alignment -frename-registers -fisolate-erroneous-paths-attribute -fstdarg-opt": [
+        14527.9,
+        40.00612453112648,
+        14525.5,
+        96.0,
+        14479,
+        14575
+    ],
+    "-O3 -funswitch-loops -fisolate-erroneous-paths-attribute -fconserve-stack -funroll-all-loops -fipa-pta -fsection-anchors -fno-ira-share-save-slots -floop-interchange -flimit-function-alignment -fstdarg-opt -fbtr-bb-exclusive -fsched-stalled-insns -fbranch-target-load-optimize2 -fgcse-las -fkeep-static-functions -fsched-spec-load -fno-ira-share-spill-slots -fweb -fsplit-loops -fdevirtualize-speculatively -fsched2-use-superblocks -fsched-dep-count-heuristic -fvpt -ftree-loop-im -ftree-loop-ivcanon -fgcse-after-reload -fivopts": [
+        14703.6,
+        41.45648320829928,
+        14706.0,
+        121.0,
+        14651,
+        14772
+    ],
+    "-O3 -floop-interchange -flimit-function-alignment -fsched-rank-heuristic -fno-zero-initialized-in-bss -fbtr-bb-exclusive": [
+        14409.9,
+        52.94610467258191,
+        14398.0,
+        146.0,
+        14364,
+        14510
+    ],
+    "-O3 -fstdarg-opt -flto -fsched-spec-load -fbranch-probabilities -fvpt -frename-registers -fsched-pressure -fipa-pta -flimit-function-alignment -fsched-critical-path-heuristic -floop-unroll-and-jam -ftree-vectorize -fweb -fsched-spec-insn-heuristic -fbranch-target-load-optimize2 -fdevirtualize-speculatively -fmerge-all-constants -freschedule-modulo-scheduled-loops -fsched-stalled-insns-dep -fpeel-loops": [
+        14288.6,
+        118.5488928670361,
+        14261.0,
+        425.0,
+        14204,
+        14629
+    ],
+    "-O3 -fivopts -fsched-pressure -fselective-scheduling -fkeep-static-functions -flto -fgcse-sm -fmerge-all-constants -fweb -floop-interchange -fvpt -ftree-loop-ivcanon -fstdarg-opt -fgcse-las -fsection-anchors -fisolate-erroneous-paths-attribute -fprefetch-loop-arrays -floop-nest-optimize -fsched-last-insn-heuristic -fno-defer-pop -fsched-spec-insn-heuristic -fsched-dep-count-heuristic -fsched-spec-load-dangerous -fpeel-loops -fno-zero-initialized-in-bss -fsched-stalled-insns-dep -fconserve-stack -freschedule-modulo-scheduled-loops -ftree-vectorize -flive-range-shrinkage -fsched-rank-heuristic -fcx-limited-range -fkeep-inline-functions -fsched-spec-load -fgcse-after-reload -frename-registers -fmodulo-sched -fipa-pta -fbranch-probabilities -fsplit-loops": [
+        14182.454545454546,
+        163.60893709550425,
+        14146.0,
+        134.0,
+        14091,
+        14225
+    ],
+    "-O3 -fcx-limited-range -fno-ira-share-save-slots -frename-registers -flto -fvpt -fdevirtualize-speculatively -fipa-pta -fno-function-cse -floop-nest-optimize -fno-predictive-commoning -fstdarg-opt -fkeep-static-functions -floop-interchange -fsplit-loops -fivopts -flimit-function-alignment -flive-range-shrinkage -fgcse-las -fselective-scheduling -fbranch-target-load-optimize -fprefetch-loop-arrays -fno-ira-share-spill-slots -floop-parallelize-all -ftree-loop-im -fsched-spec-insn-heuristic -floop-unroll-and-jam -fgcse-sm -fsched-stalled-insns-dep -fbtr-bb-exclusive -fprofile-correction -fsched2-use-superblocks -fno-ipa-cp-clone -fsched-spec-load-dangerous -fprofile-use -fsection-anchors -fconserve-stack -fsched-rank-heuristic -freschedule-modulo-scheduled-loops -fno-defer-pop -fsched-pressure -fvariable-expansion-in-unroller": [
+        14607.4,
+        49.84014446206993,
+        14621.0,
+        118.0,
+        14562,
+        14680
+    ],
+    "-O3 -fsched-rank-heuristic -fisolate-erroneous-paths-attribute -fconserve-stack -floop-nest-optimize -floop-parallelize-all -fsched-dep-count-heuristic -fgcse-sm -fvariable-expansion-in-unroller -fno-zero-initialized-in-bss -flto -fbranch-target-load-optimize2 -fbranch-probabilities -fsplit-loops -fno-ira-share-spill-slots -fbranch-target-load-optimize -fsched-critical-path-heuristic -fno-ira-share-save-slots -fno-defer-pop -fsched-stalled-insns -fprofile-correction -fno-function-cse -fsection-anchors -flive-range-shrinkage -fsched-spec-load-dangerous -fsched-stalled-insns-dep -fipa-pta -fno-predictive-commoning -fsched-pressure -ftree-loop-im -fprefetch-loop-arrays -ftree-vectorize -fsched2-use-superblocks": [
+        14258.0,
+        48.58188962977871,
+        14252.0,
+        135.0,
+        14197,
+        14332
+    ],
+    "-O3 -fsched-critical-path-heuristic -fipa-pta -fselective-scheduling -freschedule-modulo-scheduled-loops -fprefetch-loop-arrays -fsection-anchors -floop-unroll-and-jam -floop-nest-optimize -fno-ipa-cp-clone -fsched-dep-count-heuristic -fpeel-loops -fvariable-expansion-in-unroller -fmodulo-sched -fprofile-correction -floop-parallelize-all -fcx-limited-range -floop-interchange -fsched-spec-load -fbranch-target-load-optimize2 -flto -fno-predictive-commoning -ftree-loop-ivcanon -fstdarg-opt -fno-defer-pop -fsched-pressure -ftree-vectorize -fweb -frename-registers": [
+        14419.5,
+        38.3490547471512,
+        14421.0,
+        90.0,
+        14383,
+        14473
+    ],
+    "-O3 -fno-ipa-cp-clone -fprefetch-loop-arrays -fpeel-loops -flive-range-shrinkage -freschedule-modulo-scheduled-loops -fgcse-sm -fdevirtualize-speculatively -fprofile-use -fsched2-use-superblocks -fgcse-las -fsplit-loops -fipa-pta -fsched-rank-heuristic -fsched-spec-insn-heuristic -fsched-pressure -fsched-critical-path-heuristic -fsched-spec-load-dangerous -funroll-all-loops -fbtr-bb-exclusive -fmerge-all-constants -fno-ira-share-save-slots -fno-predictive-commoning -floop-parallelize-all -floop-unroll-and-jam -floop-interchange -fsched-dep-count-heuristic -fprofile-correction -fsched-last-insn-heuristic -fsched-stalled-insns -fmodulo-sched -ftree-loop-ivcanon -fno-defer-pop -fisolate-erroneous-paths-attribute -flimit-function-alignment -fno-ira-share-spill-slots -flto -fconserve-stack -fsched-spec-load -fkeep-static-functions -fselective-scheduling -fsection-anchors -ftree-loop-im": [
+        14672.7,
+        53.42480697204249,
+        14682.5,
+        147.0,
+        14591,
+        14738
+    ],
+    "-O3 -fno-ira-share-save-slots -fpeel-loops -fsched-critical-path-heuristic -fsched-rank-heuristic -ftree-loop-im -fmodulo-sched -fno-defer-pop -fkeep-static-functions -fstdarg-opt -fisolate-erroneous-paths-attribute -funroll-all-loops -fvpt -freschedule-modulo-scheduled-loops -flto": [
+        14720.4,
+        34.18830209296741,
+        14716.0,
+        110.0,
+        14676,
+        14786
+    ],
+    "-O3 -fno-ira-share-spill-slots -fno-zero-initialized-in-bss -fmodulo-sched -fkeep-static-functions -fsched-critical-path-heuristic -fivopts -fipa-pta -fstdarg-opt -frename-registers -fprofile-use -fconserve-stack -funswitch-loops -fsched-stalled-insns -fbranch-probabilities -fprefetch-loop-arrays -fno-predictive-commoning -flive-range-shrinkage -fsection-anchors -flto -funroll-loops -fsched-spec-load-dangerous -fgcse-las -fprofile-correction -fno-defer-pop -fvpt -fsched-stalled-insns-dep -ftree-loop-im -ftree-loop-ivcanon -fno-inline-functions -fsched2-use-superblocks -freschedule-modulo-scheduled-loops -fgcse-sm -fisolate-erroneous-paths-attribute -funroll-all-loops -fsched-spec-load": [
+        14684.5,
+        43.5826800460917,
+        14679.0,
+        130.0,
+        14643,
+        14773
+    ],
+    "-O3 -fsched-last-insn-heuristic -fsched-dep-count-heuristic -floop-interchange -fno-ira-share-save-slots -fgcse-las -fsplit-loops -flimit-function-alignment -fstdarg-opt -freschedule-modulo-scheduled-loops -ftree-loop-ivcanon -fipa-pta -fgcse-after-reload -fvariable-expansion-in-unroller -fno-ipa-cp-clone -fno-zero-initialized-in-bss -fsched2-use-superblocks -ftree-vectorize -fdevirtualize-speculatively -fprofile-correction -fsched-spec-load -fsection-anchors -fno-ira-share-spill-slots -fcx-limited-range -fgcse-sm -fpeel-loops -flive-range-shrinkage -fsched-stalled-insns -fmerge-all-constants -fno-defer-pop -fvpt -floop-parallelize-all -fsched-stalled-insns-dep -fsched-critical-path-heuristic -fselective-scheduling -fmodulo-sched -fbranch-probabilities -fbtr-bb-exclusive": [
+        14378.7,
+        38.06586397285631,
+        14380.5,
+        98.0,
+        14339,
+        14437
+    ],
+    "-O3 -fsched-stalled-insns-dep -fisolate-erroneous-paths-attribute -fgcse-after-reload -floop-nest-optimize -fvariable-expansion-in-unroller -floop-parallelize-all -fsched-last-insn-heuristic -fpeel-loops -fprefetch-loop-arrays -fmerge-all-constants -fsched2-use-superblocks -ftree-vectorize -fsched-critical-path-heuristic -fsplit-loops -fgcse-las -fvpt -fgcse-sm -fsection-anchors -fbranch-target-load-optimize2 -fipa-pta -flto -fno-ira-share-spill-slots -fprofile-use -flive-range-shrinkage -flimit-function-alignment -fsched-spec-load -fselective-scheduling -fweb -fsched-spec-load-dangerous -fsched-dep-count-heuristic -floop-interchange -floop-unroll-and-jam -fbtr-bb-exclusive": [
+        14495.7,
+        48.1187073808098,
+        14484.5,
+        127.0,
+        14450,
+        14577
+    ],
+    "-O3 -fgcse-las -fbranch-probabilities": [
+        14318.3,
+        43.3729178174584,
+        14316.5,
+        134.0,
+        14260,
+        14394
+    ],
+    "-O3 -fgcse-after-reload -floop-unroll-and-jam -fkeep-inline-functions -fbtr-bb-exclusive -fbranch-target-load-optimize -fivopts -fsched-spec-load-dangerous -funroll-all-loops -fpeel-loops -fsched2-use-superblocks -fprefetch-loop-arrays -flto -fweb -fselective-scheduling -fmerge-all-constants -fipa-pta -fno-ira-share-spill-slots -flimit-function-alignment -fno-function-cse -fgcse-sm -fsched-critical-path-heuristic -floop-nest-optimize -frename-registers -fbranch-probabilities -fsched-pressure -fcx-limited-range -fsched-spec-load -fsched-spec-insn-heuristic -ftree-loop-ivcanon -funroll-loops -fno-zero-initialized-in-bss -ftree-vectorize -fgcse-las": [
+        14632.6,
+        38.021572823858826,
+        14624.0,
+        96.0,
+        14603,
+        14699
+    ],
+    "-O3 -fselective-scheduling2 -fsection-anchors -ftree-loop-ivcanon -fprofile-correction -fcx-limited-range -ftree-loop-im -freschedule-modulo-scheduled-loops -fsched2-use-superblocks -fweb -fno-ipa-cp-clone -fsched-stalled-insns-dep -floop-nest-optimize": [
+        14459.6,
+        75.56612997897935,
+        14453.5,
+        243.0,
+        14381,
+        14624
+    ],
+    "-O3 -floop-parallelize-all -fno-ipa-cp-clone -fsection-anchors -fselective-scheduling2 -fsched-spec-load-dangerous -funswitch-loops -fgcse-sm -fno-ira-share-spill-slots -flto -fsched-rank-heuristic -fisolate-erroneous-paths-attribute -flive-range-shrinkage -fbtr-bb-exclusive -fconserve-stack -fno-defer-pop": [
+        14539.1,
+        90.0416014961973,
+        14500.5,
+        227.0,
+        14440,
+        14667
+    ],
+    "-O3 -fsched-stalled-insns-dep -fisolate-erroneous-paths-attribute -fgcse-after-reload -floop-parallelize-all -fpeel-loops -fprofile-use -ftree-loop-ivcanon -fno-predictive-commoning -fsplit-loops -fgcse-sm -fkeep-inline-functions -flto -fno-ira-share-spill-slots -flimit-function-alignment -fweb -fprefetch-loop-arrays -fvpt -floop-nest-optimize -fcx-limited-range -fsched-rank-heuristic -floop-unroll-and-jam": [
+        14487.6,
+        34.6704485116648,
+        14479.0,
+        73.0,
+        14456,
+        14529
+    ],
+    "-O3 -fisolate-erroneous-paths-attribute -fdevirtualize-speculatively -floop-unroll-and-jam -flto -fweb -fsched-stalled-insns -fno-zero-initialized-in-bss -ftree-loop-ivcanon -flimit-function-alignment -fno-ira-share-spill-slots -fsched-critical-path-heuristic -fsched-pressure -fsplit-loops -fno-ipa-cp-clone -fstdarg-opt -fbranch-probabilities -frename-registers -fsched-stalled-insns-dep -fconserve-stack -fno-predictive-commoning -fvariable-expansion-in-unroller -funroll-loops -fno-function-cse -fgcse-after-reload -fprofile-use -floop-interchange -fbtr-bb-exclusive": [
+        14470.09090909091,
+        170.06172919130626,
+        14435.0,
+        64.0,
+        14397,
+        14461
+    ],
+    "-O3 -fvpt -floop-parallelize-all -fno-ira-share-save-slots -fbranch-probabilities -ftree-loop-ivcanon -fsched-spec-insn-heuristic -fsched-spec-load-dangerous -flive-range-shrinkage -fbtr-bb-exclusive -fpeel-loops -fprofile-use -fsched-pressure": [
+        14655.7,
+        43.46274266541401,
+        14654.5,
+        136.0,
+        14603,
+        14739
+    ],
+    "-O3 -fsched-spec-insn-heuristic -fsched-stalled-insns-dep -fgcse-sm -fstdarg-opt -fbtr-bb-exclusive -funswitch-loops -fgcse-after-reload -fsplit-loops -fsched-spec-load-dangerous -fisolate-erroneous-paths-attribute -flto -floop-nest-optimize -fpeel-loops -fno-ira-share-save-slots -frename-registers -fkeep-inline-functions -fvpt -fconserve-stack -fprofile-correction -freschedule-modulo-scheduled-loops -ftree-loop-ivcanon -fprofile-use -fbranch-target-load-optimize2 -fsched-critical-path-heuristic -fselective-scheduling -fno-function-cse -floop-unroll-and-jam -fsched2-use-superblocks -fsched-group-heuristic -funroll-all-loops -ftree-vectorize -fbranch-probabilities -fmerge-all-constants -floop-parallelize-all -fipa-pta -fvariable-expansion-in-unroller -fbranch-target-load-optimize -fweb -fno-defer-pop -fno-predictive-commoning -fsched-dep-count-heuristic -fsched-pressure": [
+        14767.1,
+        46.69143390387577,
+        14772.5,
+        131.0,
+        14705,
+        14836
+    ],
+    "-O3 -floop-parallelize-all -fivopts -ftree-loop-ivcanon -fsched-stalled-insns-dep -flto -freschedule-modulo-scheduled-loops -fsplit-loops -fvpt -fpeel-loops -floop-interchange -fdevirtualize-speculatively -funroll-loops -fweb -fsched-last-insn-heuristic -fselective-scheduling -fsched-spec-load-dangerous -fsched2-use-superblocks -fno-predictive-commoning -fsched-critical-path-heuristic -flive-range-shrinkage -fsched-pressure -fno-zero-initialized-in-bss -floop-nest-optimize -fbranch-target-load-optimize -fisolate-erroneous-paths-attribute -fmodulo-sched -fno-ira-share-spill-slots -fno-ira-share-save-slots -fsched-rank-heuristic -fgcse-after-reload -fipa-pta -ftree-loop-im -fbranch-probabilities -fconserve-stack -fno-defer-pop -flimit-function-alignment -fsched-spec-insn-heuristic -fsection-anchors -funswitch-loops -fno-function-cse -fstdarg-opt -fgcse-las -fgcse-sm -fbtr-bb-exclusive -frename-registers": [
+        14762.2,
+        47.38522976624678,
+        14747.5,
+        125.0,
+        14720,
+        14845
+    ],
+    "-O3 -floop-nest-optimize -fno-predictive-commoning -fbranch-probabilities -fmodulo-sched -floop-interchange -fweb -fprofile-correction -flive-range-shrinkage -flto -fprofile-use -fstdarg-opt -fno-defer-pop -frename-registers -fsection-anchors -freschedule-modulo-scheduled-loops -fsched-pressure -fsched-stalled-insns-dep -fipa-pta -floop-parallelize-all -fpeel-loops -fisolate-erroneous-paths-attribute -fsched-last-insn-heuristic -fsplit-loops -fgcse-after-reload -fprefetch-loop-arrays -floop-unroll-and-jam -fsched-dep-count-heuristic -fsched-critical-path-heuristic -fselective-scheduling -fdevirtualize-speculatively -fconserve-stack -fbranch-target-load-optimize2 -fselective-scheduling2 -fno-ira-share-spill-slots -fno-function-cse -fsched-stalled-insns -fbtr-bb-exclusive -fkeep-static-functions -fsched2-use-superblocks": [
+        14371.4,
+        37.49453293481598,
+        14371.5,
+        103.0,
+        14340,
+        14443
+    ],
+    "-O3 -floop-parallelize-all -fbranch-probabilities -fmerge-all-constants -frename-registers -fsched-last-insn-heuristic -ftree-loop-ivcanon -fno-predictive-commoning -fweb -fsched-group-heuristic -fno-function-cse -fselective-scheduling -ftree-vectorize -fno-defer-pop -floop-nest-optimize -fsched-critical-path-heuristic -fsched-dep-count-heuristic -ftree-loop-im -fdevirtualize-speculatively -fipa-pta -fsched-spec-insn-heuristic -flimit-function-alignment -flto -fvariable-expansion-in-unroller -fsched-spec-load-dangerous -fpeel-loops -fbranch-target-load-optimize2 -fno-ira-share-spill-slots -fsched2-use-superblocks -fgcse-las -fsched-stalled-insns -fbranch-target-load-optimize -fsched-stalled-insns-dep -fsched-pressure -fcx-limited-range -fvpt -fstdarg-opt -fconserve-stack -fprofile-correction -fisolate-erroneous-paths-attribute -fprofile-use": [
+        14512.2,
+        42.96463662129589,
+        14504.5,
+        124.0,
+        14474,
+        14598
+    ],
+    "-O3 -fsched-last-insn-heuristic -floop-interchange -floop-unroll-and-jam -flto -fsection-anchors -fsplit-loops -flimit-function-alignment -fno-ira-share-save-slots -fno-defer-pop -fselective-scheduling -fno-predictive-commoning -fkeep-inline-functions -fisolate-erroneous-paths-attribute -fsched-spec-load-dangerous -fgcse-after-reload -fgcse-sm -fsched-stalled-insns -fno-zero-initialized-in-bss -fsched-rank-heuristic -fmerge-all-constants -fsched-dep-count-heuristic -frename-registers -fcx-limited-range -fivopts -fsched-critical-path-heuristic": [
+        14248.1,
+        28.02659451306919,
+        14247.5,
+        76.0,
+        14211,
+        14287
+    ],
+    "-O3 -fivopts": [
+        14400.2,
+        47.073984322553365,
+        14390.0,
+        125.0,
+        14352,
+        14477
+    ],
+    "-O3 -fsched-spec-insn-heuristic -fsection-anchors -fbranch-probabilities -fbranch-target-load-optimize2 -ftree-loop-ivcanon -fvariable-expansion-in-unroller": [
+        14325.6,
+        58.08648724100985,
+        14351.0,
+        161.0,
+        14245,
+        14406
+    ],
+    "-O3 -fselective-scheduling2 -fsched-stalled-insns-dep -fcx-limited-range -flimit-function-alignment -fkeep-static-functions -fweb -ftree-loop-im -fbranch-probabilities -fsched-spec-load -floop-interchange -fsched-dep-count-heuristic -fprofile-correction -fdevirtualize-speculatively -fvariable-expansion-in-unroller -flive-range-shrinkage -frename-registers -fmerge-all-constants -fsched-last-insn-heuristic -fprefetch-loop-arrays -fsched-spec-load-dangerous -fgcse-las -fprofile-use -freschedule-modulo-scheduled-loops -fipa-pta -fgcse-after-reload -fno-ira-share-save-slots -fsection-anchors -ftree-vectorize": [
+        14487.3,
+        39.63849139409824,
+        14474.0,
+        120.0,
+        14450,
+        14570
+    ],
+    "-O3 -fselective-scheduling -fno-ira-share-save-slots -flto -flive-range-shrinkage -fsched-stalled-insns -fsched-last-insn-heuristic -fweb -fdevirtualize-speculatively -fvpt -fgcse-sm -fno-function-cse -floop-parallelize-all -fprofile-use -fgcse-after-reload -fivopts -fstdarg-opt -flimit-function-alignment -fno-ipa-cp-clone -fprefetch-loop-arrays -funroll-all-loops -fconserve-stack -fkeep-inline-functions -fsched2-use-superblocks -freschedule-modulo-scheduled-loops -fsched-spec-insn-heuristic -fkeep-static-functions -fvariable-expansion-in-unroller -fsched-pressure -fno-zero-initialized-in-bss -fsched-spec-load": [
+        14540.2,
+        81.64043116005696,
+        14521.0,
+        258.0,
+        14467,
+        14725
+    ],
+    "-O3 -fgcse-after-reload -fprefetch-loop-arrays -fweb -ftree-loop-im -fkeep-static-functions -fbranch-target-load-optimize -flto -fno-predictive-commoning -fsched-spec-load -fdevirtualize-speculatively -fbtr-bb-exclusive -fipa-pta -fsplit-loops -fbranch-target-load-optimize2 -fsched-rank-heuristic -flive-range-shrinkage -ftree-loop-ivcanon -funroll-all-loops -fselective-scheduling2 -fno-inline-functions -floop-nest-optimize -fsched-last-insn-heuristic -fconserve-stack -fsched-pressure -fsched-stalled-insns-dep -fno-defer-pop -fgcse-sm -fbranch-probabilities -fmodulo-sched -fno-ira-share-save-slots -fsched-spec-load-dangerous -fpeel-loops -funswitch-loops -fgcse-las -fsched-stalled-insns -fstdarg-opt -frename-registers -fsched-spec-insn-heuristic -ftree-vectorize -fvariable-expansion-in-unroller -fmerge-all-constants -fsection-anchors -flimit-function-alignment -fselective-scheduling -fprofile-correction -fno-ipa-cp-clone -funroll-loops -floop-interchange": [
+        14715.9,
+        44.95431013818364,
+        14702.0,
+        122.0,
+        14689,
+        14811
+    ],
+    "-O3 -ftree-loop-ivcanon -fivopts -floop-parallelize-all -fbtr-bb-exclusive -fsched-pressure -fvariable-expansion-in-unroller -fgcse-after-reload -fsched-group-heuristic": [
+        14316.0,
+        121.23365869262545,
+        14278.0,
+        420.0,
+        14252,
+        14672
+    ],
+    "-O3 -floop-unroll-and-jam -frename-registers -fsched-dep-count-heuristic -fno-zero-initialized-in-bss -fsched-rank-heuristic -fsched-spec-load-dangerous -ftree-vectorize -ftree-loop-im -fsched-last-insn-heuristic -fno-ira-share-spill-slots": [
+        14422.0,
+        28.98965332666122,
+        14424.5,
+        70.0,
+        14395,
+        14465
+    ],
+    "-O3 -fsched-spec-insn-heuristic -fno-predictive-commoning -fpeel-loops -fno-zero-initialized-in-bss -fipa-pta -ftree-vectorize -fsched-stalled-insns-dep -fno-function-cse -fsplit-loops": [
+        14396.4,
+        55.04398241406594,
+        14385.0,
+        172.0,
+        14343,
+        14515
+    ],
+    "-O3 -fsched-stalled-insns -fno-predictive-commoning -fsched-rank-heuristic -fsplit-loops -fsched-last-insn-heuristic -fsched-stalled-insns-dep -fgcse-las -flto -fselective-scheduling -fisolate-erroneous-paths-attribute -fkeep-inline-functions -ftree-loop-ivcanon -fbtr-bb-exclusive -frename-registers -fsched-group-heuristic -fstdarg-opt -fcx-limited-range -fconserve-stack -fipa-pta -fvpt -fdevirtualize-speculatively -flimit-function-alignment -flive-range-shrinkage -floop-parallelize-all -fsched-spec-load-dangerous -fsched-spec-insn-heuristic -fno-ira-share-save-slots -funroll-loops -fprofile-use -fsection-anchors -ftree-loop-im -fweb -fsched-spec-load -fgcse-after-reload -fmerge-all-constants": [
+        14645.5,
+        55.61339766638971,
+        14661.5,
+        126.0,
+        14594,
+        14720
+    ],
+    "-O3 -fsched-stalled-insns-dep -fweb -flimit-function-alignment -fsplit-loops -fpeel-loops -fsched-spec-load-dangerous -ftree-loop-im -floop-nest-optimize -fstdarg-opt -floop-interchange -fkeep-static-functions -fbranch-target-load-optimize2 -fbranch-probabilities -fno-ira-share-spill-slots -fsched-critical-path-heuristic -fprefetch-loop-arrays -fvariable-expansion-in-unroller -fsection-anchors -fno-predictive-commoning -fdevirtualize-speculatively -fgcse-after-reload -fbtr-bb-exclusive -ftree-loop-ivcanon -fivopts -fno-defer-pop -freschedule-modulo-scheduled-loops -fconserve-stack -fvpt -frename-registers -fcx-limited-range -floop-parallelize-all -fno-ipa-cp-clone -fsched-last-insn-heuristic -fsched-stalled-insns -fipa-pta -fgcse-sm -fsched-rank-heuristic -fprofile-correction -funroll-all-loops -flto -fno-ira-share-save-slots -fsched-spec-load -fsched-dep-count-heuristic -fgcse-las -fmodulo-sched -fprofile-use": [
+        14538.1,
+        62.02007739434062,
+        14529.5,
+        184.0,
+        14473,
+        14657
+    ],
+    "-O3 -fvariable-expansion-in-unroller -fbranch-target-load-optimize -fsched-rank-heuristic -fsched-pressure -fsched-critical-path-heuristic -fpeel-loops -fconserve-stack -fno-ipa-cp-clone -fivopts -fsched-stalled-insns -frename-registers -fvpt -fno-function-cse -fsplit-loops -fgcse-after-reload": [
+        14319.7,
+        53.74392988980244,
+        14329.5,
+        134.0,
+        14265,
+        14399
+    ],
+    "-O3 -flto -fgcse-after-reload -fconserve-stack -fipa-pta -frename-registers -fmodulo-sched -floop-unroll-and-jam -fvpt -fno-function-cse -fgcse-las -fisolate-erroneous-paths-attribute -fsched-rank-heuristic -fsched-spec-load -fdevirtualize-speculatively -ftree-loop-im -fcx-limited-range -flive-range-shrinkage -floop-nest-optimize -fprofile-use -fsplit-loops -fprofile-correction -fprefetch-loop-arrays -fstdarg-opt -fpeel-loops -fno-predictive-commoning -floop-interchange -fno-defer-pop -floop-parallelize-all -fno-ira-share-save-slots -fsection-anchors -fsched-stalled-insns-dep -fbranch-probabilities -fbranch-target-load-optimize2 -fweb": [
+        14513.2,
+        41.88746829303485,
+        14519.5,
+        100.0,
+        14465,
+        14565
+    ],
+    "-O3 -flive-range-shrinkage -fno-predictive-commoning -fmodulo-sched -floop-unroll-and-jam -fsched-spec-load-dangerous -fisolate-erroneous-paths-attribute -flto -fipa-pta -fdevirtualize-speculatively -fbranch-probabilities -fbranch-target-load-optimize -fprofile-correction -fvpt -fsched2-use-superblocks -fsched-pressure -floop-interchange -flimit-function-alignment": [
+        14144.9,
+        51.62063540872003,
+        14144.0,
+        108.0,
+        14108,
+        14216
+    ]
+}

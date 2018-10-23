@@ -1,0 +1,470 @@
+{
+    "-faggressive-loop-optimizations": [
+        2197
+    ],
+    "-fno-align-functions": [
+        3186
+    ],
+    "-falign-jumps": [
+        7159
+    ],
+    "-falign-labels": [
+        5938
+    ],
+    "-falign-loops": [
+        8498
+    ],
+    "-fassociative-math": [
+        8178
+    ],
+    "-fauto-inc-dec": [
+        11554
+    ],
+    "-fbranch-target-load-optimize2": [
+        16593
+    ],
+    "-fbtr-bb-exclusive": [
+        8614
+    ],
+    "-fcaller-saves": [
+        10067
+    ],
+    "-fcheck-data-deps": [
+        8347
+    ],
+    "-fcombine-stack-adjustments": [
+        9264
+    ],
+    "-fcompare-elim": [
+        13463
+    ],
+    "-fconserve-stack": [
+        11798
+    ],
+    "-fcprop-registers": [
+        12110
+    ],
+    "-fcrossjumping": [
+        6136
+    ],
+    "-fcse-follow-jumps": [
+        7581
+    ],
+    "-fcse-skip-blocks": [
+        3531
+    ],
+    "-fcx-fortran-rules": [
+        9991
+    ],
+    "-fcx-limited-range": [
+        5200
+    ],
+    "-fdata-sections": [
+        6603
+    ],
+    "-fdce": [
+        6590
+    ],
+    "-fdelayed-branch": [
+        8768
+    ],
+    "-fdelete-null-pointer-checks": [
+        5325
+    ],
+    "-fdevirtualize": [
+        6093
+    ],
+    "-fearly-inlining": [
+        6196
+    ],
+    "-ffast-math": [
+        15179
+    ],
+    "-ffinite-math-only": [
+        13935
+    ],
+    "-fforward-propagate": [
+        5445
+    ],
+    "-ffunction-sections": [
+        16159
+    ],
+    "-fgcse": [
+        9437
+    ],
+    "-fno-gcse-after-reload": [
+        15262
+    ],
+    "-fgcse-lm": [
+        11545
+    ],
+    "-fgcse-sm": [
+        9554
+    ],
+    "-fgraphite-identity": [
+        12656
+    ],
+    "-fhoist-adjacent-loads": [
+        15421
+    ],
+    "-fif-conversion": [
+        9000
+    ],
+    "-fif-conversion2": [
+        11327
+    ],
+    "-fno-inline-functions": [
+        8006
+    ],
+    "-finline-functions-called-once": [
+        6660
+    ],
+    "-finline-small-functions": [
+        3956
+    ],
+    "-fno-ipa-cp-clone": [
+        8040
+    ],
+    "-fipa-profile": [
+        4710
+    ],
+    "-fipa-pta": [
+        5361
+    ],
+    "-fipa-pure-const": [
+        8109
+    ],
+    "-fipa-reference": [
+        12699
+    ],
+    "-fira-hoist-pressure": [
+        12490
+    ],
+    "-fira-loop-pressure": [
+        9893
+    ],
+    "-fivopts": [
+        13534
+    ],
+    "-fkeep-static-consts": [
+        13883
+    ],
+    "-floop-block": [
+        9073
+    ],
+    "-fno-loop-interchange": [
+        5950
+    ],
+    "-floop-nest-optimize": [
+        7506
+    ],
+    "-floop-strip-mine": [
+        11744
+    ],
+    "-flto": [
+        52811
+    ],
+    "-flto-report": [
+        11033
+    ],
+    "-fmerge-all-constants": [
+        8113
+    ],
+    "-fmerge-constants": [
+        2809
+    ],
+    "-fmove-loop-invariants": [
+        4788
+    ],
+    "-fmudflapth": [
+        15160
+    ],
+    "-fno-branch-count-reg": [
+        10239
+    ],
+    "-fno-default-inline": [
+        13169
+    ],
+    "-fno-defer-pop": [
+        14907
+    ],
+    "-fno-function-cse": [
+        8010
+    ],
+    "-fno-inline": [
+        -982
+    ],
+    "-fno-ira-share-spill-slots": [
+        11361
+    ],
+    "-fno-math-errno": [
+        9435
+    ],
+    "-fno-peephole": [
+        14361
+    ],
+    "-fno-peephole2": [
+        9130
+    ],
+    "-fno-sched-spec": [
+        10461
+    ],
+    "-fno-toplevel-reorder": [
+        5472
+    ],
+    "-fno-trapping-math": [
+        9753
+    ],
+    "-fomit-frame-pointer": [
+        7548
+    ],
+    "-foptimize-register-move": [
+        949
+    ],
+    "-foptimize-sibling-calls": [
+        16315
+    ],
+    "-fpeel-loops": [
+        24176
+    ],
+    "-fno-predictive-commoning": [
+        12222
+    ],
+    "-fprefetch-loop-arrays": [
+        15308
+    ],
+    "-fprofile-values ": [
+        4259
+    ],
+    "-freciprocal-math": [
+        10799
+    ],
+    "-free": [
+        16518
+    ],
+    "-fregmove": [
+        13692
+    ],
+    "-frename-registers": [
+        -182
+    ],
+    "-freorder-blocks": [
+        7945
+    ],
+    "-freorder-blocks-and-partition": [
+        9887
+    ],
+    "-freorder-functions": [
+        1331
+    ],
+    "-frerun-cse-after-loop": [
+        508
+    ],
+    "-freschedule-modulo-scheduled-loops": [
+        2963
+    ],
+    "-frounding-math": [
+        9329
+    ],
+    "-fsched-critical-path-heuristic": [
+        -403
+    ],
+    "-fsched-dep-count-heuristic": [
+        7911
+    ],
+    "-fsched-group-heuristic": [
+        7315
+    ],
+    "-fsched-last-insn-heuristic": [
+        9732
+    ],
+    "-fsched-pressure": [
+        10965
+    ],
+    "-fsched-rank-heuristic": [
+        12209
+    ],
+    "-fsched-spec-insn-heuristic": [
+        8240
+    ],
+    "-fsched-spec-load": [
+        1979
+    ],
+    "-fsched-spec-load-dangerous": [
+        4067
+    ],
+    "-fsched-stalled-insns": [
+        13642
+    ],
+    "-fsched-stalled-insns-dep": [
+        12010
+    ],
+    "-fsched2-use-superblocks": [
+        13604
+    ],
+    "-fschedule-insns2": [
+        1335
+    ],
+    "-fsection-anchors": [
+        7227
+    ],
+    "-fsel-sched-pipelining": [
+        5803
+    ],
+    "-fsel-sched-pipelining-outer-loops": [
+        11248
+    ],
+    "-fselective-scheduling": [
+        7721
+    ],
+    "-fselective-scheduling2": [
+        715
+    ],
+    "-fshrink-wrap": [
+        11921
+    ],
+    "-fsplit-wide-types": [
+        4257
+    ],
+    "-fstack-protector": [
+        5254
+    ],
+    "-fstack-protector-all": [
+        -995
+    ],
+    "-fstrict-aliasing": [
+        3379
+    ],
+    "-fstrict-overflow": [
+        6340
+    ],
+    "-fno-thread-jumps": [
+        8775
+    ],
+    "-ftracer": [
+        1953
+    ],
+    "-ftree-bit-ccp": [
+        5474
+    ],
+    "-ftree-builtin-call-dce": [
+        8482
+    ],
+    "-ftree-ccp": [
+        17725
+    ],
+    "-ftree-ch": [
+        7424
+    ],
+    "-ftree-coalesce-vars": [
+        10295
+    ],
+    "-ftree-copy-prop": [
+        6171
+    ],
+    "-ftree-copyrename": [
+        14501
+    ],
+    "-ftree-dce": [
+        8102
+    ],
+    "-ftree-dominator-opts": [
+        11554
+    ],
+    "-ftree-dse ": [
+        11814
+    ],
+    "-ftree-forwprop": [
+        5403
+    ],
+    "-ftree-fre": [
+        5523
+    ],
+    "-fno-tree-loop-distribute-patterns": [
+        7813
+    ],
+    "-fno-tree-loop-distribution": [
+        9959
+    ],
+    "-ftree-loop-if-convert": [
+        6643
+    ],
+    "-ftree-loop-ivcanon": [
+        14281
+    ],
+    "-ftree-loop-linear": [
+        15690
+    ],
+    "-ftree-loop-optimize": [
+        15545
+    ],
+    "-fno-tree-partial-pre": [
+        13649
+    ],
+    "-ftree-phiprop": [
+        8031
+    ],
+    "-ftree-pre": [
+        7486
+    ],
+    "-ftree-pta": [
+        10756
+    ],
+    "-ftree-reassoc": [
+        3590
+    ],
+    "-ftree-sink": [
+        9947
+    ],
+    "-ftree-slsr": [
+        5029
+    ],
+    "-ftree-sra": [
+        9539
+    ],
+    "-ftree-switch-conversion": [
+        17351
+    ],
+    "-ftree-tail-merge": [
+        9527
+    ],
+    "-ftree-ter": [
+        9178
+    ],
+    "-ftree-vectorize": [
+        1615
+    ],
+    "-ftree-vrp": [
+        12961
+    ],
+    "-funit-at-a-time": [
+        8443
+    ],
+    "-funroll-all-loops": [
+        7141
+    ],
+    "-funroll-loops": [
+        2348
+    ],
+    "-funsafe-loop-optimizations": [
+        10684
+    ],
+    "-funsafe-math-optimizations": [
+        14379
+    ],
+    "-fno-unswitch-loops": [
+        11681
+    ],
+    "-fvariable-expansion-in-unroller": [
+        14119
+    ],
+    "-fno-vect-cost-model": [
+        1689
+    ],
+    "-fvpt": [
+        11392
+    ],
+    "-fweb": [
+        6270
+    ]
+}

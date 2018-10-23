@@ -1,0 +1,3230 @@
+The results from the large genetic tests
+Target (-O3) is 56400
+
+56802	['-fno-sched-spec' '-floop-nest-optimize' '-fmove-loop-invariants'
+ '-funit-at-a-time' '-ftree-loop-if-convert']
+ 
+ 57390	['-ftree-loop-optimize' '-fvariable-expansion-in-unroller'
+ '-floop-nest-optimize' '-fno-toplevel-reorder'
+ '-freorder-blocks-and-partition' '-freschedule-modulo-scheduled-loops'
+ '-fsched-dep-count-heuristic' '-fgcse-lm' '-ffast-math' '-fcaller-saves'
+ '-fno-defer-pop' '-fmudflapth' '-fassociative-math'
+ '-faggressive-loop-optimizations' '-fstack-protector' '-fipa-pure-const'
+ '-fno-peephole' '-fipa-profile' '-ftree-fre' '-fno-math-errno'
+ '-fschedule-insns2' '-ftree-loop-distribution' '-ffunction-sections'
+ '-fomit-frame-pointer' '-funsafe-loop-optimizations' '-fcse-skip-blocks'
+ '-finline-functions-called-once' '-fipa-pta' '-ftree-vectorize'
+ '-fipa-cp-clone' '-fira-hoist-pressure' '-ftree-ch' '-falign-jumps'
+ '-fthread-jumps' '-ftree-builtin-call-dce' '-ftree-slsr'
+ '-fsel-sched-pipelining' '-free' '-ftree-partial-pre'
+ '-fmove-loop-invariants' '-frerun-cse-after-loop' '-funroll-all-loops'
+ '-fmerge-constants' '-fbranch-target-load-optimize2' '-fvect-cost-model'
+ '-ftree-loop-ivcanon' '-fgraphite-identity' '-ftree-bit-ccp']
+ 
+ 57213	['-ftree-ter' '-ftracer' '-fomit-frame-pointer' '-fcrossjumping'
+ '-fsched-spec-load' '-fgcse-sm' '-fdata-sections' '-funroll-all-loops'
+ '-fcse-follow-jumps' '-floop-interchange'
+ '-finline-functions-called-once' '-fno-function-cse' '-ftree-reassoc'
+ '-fmerge-constants' '-fno-default-inline' '-fno-sched-spec'
+ '-fdelete-null-pointer-checks' '-fpeel-loops' '-fgcse-lm' '-fdce'
+ '-fstrict-overflow' '-fno-toplevel-reorder' '-falign-functions'
+ '-fhoist-adjacent-loads' '-fgcse' '-falign-labels']
+ 
+ 55393	['-fif-conversion2' '-fsel-sched-pipelining-outer-loops' '-fcompare-elim'
+ '-fforward-propagate' '-funroll-loops' '-fira-hoist-pressure'
+ '-fcombine-stack-adjustments' '-ftree-phiprop' '-ftree-ch' '-fivopts'
+ '-fsched-spec-load-dangerous' '-fipa-cp-clone'
+ '-faggressive-loop-optimizations' '-fmove-loop-invariants'
+ '-falign-jumps' '-ffinite-math-only' '-ftree-pta'
+ '-fselective-scheduling' '-fassociative-math' '-fsched-group-heuristic'
+ '-fno-function-cse' '-floop-interchange' '-ftree-copyrename'
+ '-freciprocal-math' '-fsched-spec-insn-heuristic' '-floop-block'
+ '-ftree-copy-prop' '-fmudflapth' '-funsafe-math-optimizations'
+ '-ftree-coalesce-vars' '-funsafe-loop-optimizations' '-fcse-skip-blocks'
+ '-fauto-inc-dec' '-funswitch-loops' '-ftree-ccp' '-fgcse-lm'
+ '-fstrict-overflow' '-fno-trapping-math' '-flto' '-fipa-reference'
+ '-fsched-pressure' '-ffast-math' '-fgraphite-identity']
+ 
+ 57444	['-fdce' '-ftree-pta' '-ffinite-math-only' '-fsched-spec-load-dangerous'
+ '-fassociative-math' '-ftree-builtin-call-dce' '-fselective-scheduling2'
+ '-fpredictive-commoning' '-fsched-dep-count-heuristic'
+ '-ftree-loop-if-convert' '-ftracer' '-falign-functions'
+ '-fira-hoist-pressure' '-fprofile-values '
+ '-faggressive-loop-optimizations' '-fcse-skip-blocks' '-fipa-pure-const'
+ '-fsel-sched-pipelining-outer-loops' '-ftree-ter']
+ 
+ 57940	['-fmerge-constants' '-ftree-forwprop' '-fsched-spec-load-dangerous'
+ '-fsched-critical-path-heuristic' '-fsched-dep-count-heuristic'
+ '-fipa-profile' '-ffunction-sections' '-fweb' '-ftree-bit-ccp'
+ '-fshrink-wrap' '-fira-loop-pressure' '-ftree-dce' '-fipa-cp-clone'
+ '-frename-registers' '-fsched-spec-insn-heuristic' '-freciprocal-math'
+ '-foptimize-register-move' '-fvpt' '-ftree-dominator-opts'
+ '-fdevirtualize' '-freorder-blocks-and-partition' '-fif-conversion2'
+ '-fvect-cost-model' '-fpredictive-commoning' '-fomit-frame-pointer'
+ '-fhoist-adjacent-loads' '-fstack-protector' '-fno-trapping-math'
+ '-fno-inline' '-fprofile-values ' '-fsched-pressure' '-fivopts'
+ '-fno-function-cse']
+ 
+ 55232	['-ftree-loop-if-convert' '-fif-conversion' '-fforward-propagate'
+ '-fmove-loop-invariants' '-fcprop-registers' '-fprefetch-loop-arrays'
+ '-fearly-inlining' '-fno-peephole' '-fomit-frame-pointer'
+ '-fcompare-elim' '-fno-sched-spec' '-fregmove' '-fsel-sched-pipelining'
+ '-fcrossjumping' '-ftree-dominator-opts' '-fsched-stalled-insns-dep'
+ '-finline-small-functions' '-fpeel-loops' '-ftree-loop-optimize'
+ '-fsched-pressure' '-fno-default-inline' '-fshrink-wrap'
+ '-fira-hoist-pressure' '-fno-defer-pop' '-fhoist-adjacent-loads'
+ '-fthread-jumps' '-fif-conversion2' '-ftree-loop-ivcanon'
+ '-floop-strip-mine' '-fsched-rank-heuristic' '-fdce' '-fipa-reference'
+ '-fdelayed-branch' '-falign-labels' '-fweb' '-fgcse-lm' '-ftree-forwprop'
+ '-flto' '-fno-peephole2' '-fstrict-overflow' '-ftree-sra'
+ '-ftree-coalesce-vars' '-freorder-blocks' '-finline-functions'
+ '-flto-report']
+ 
+ 55639	['-fipa-cp-clone' '-flto' '-ftree-loop-ivcanon'
+ '-fsched-last-insn-heuristic' '-foptimize-register-move' '-fgcse-sm'
+ '-ftree-dominator-opts' '-fshrink-wrap' '-fif-conversion2' '-fgcse'
+ '-fsched2-use-superblocks' '-falign-loops' '-fno-sched-spec' '-ftree-ch'
+ '-ftree-switch-conversion' '-fcheck-data-deps' '-ftree-pta' '-ftree-sink'
+ '-fno-default-inline' '-fcse-follow-jumps' '-ftree-loop-distribution'
+ '-funroll-all-loops' '-fsched-rank-heuristic' '-floop-interchange'
+ '-fsched-stalled-insns-dep' '-ftree-loop-optimize' '-fsched-pressure'
+ '-fgcse-after-reload']
+ 
+ 56778	['-fcx-limited-range' '-ftree-phiprop' '-ftree-copy-prop' '-fgcse-sm'
+ '-ftracer' '-fregmove' '-fthread-jumps' '-ftree-loop-distribute-patterns'
+ '-fgcse' '-ftree-coalesce-vars' '-floop-interchange'
+ '-fsched-stalled-insns-dep' '-fipa-reference'
+ '-funsafe-math-optimizations' '-fmerge-constants']
+ 
+ 56906	['-fdata-sections' '-fcaller-saves' '-fgcse-lm' '-fsched2-use-superblocks'
+ '-ftree-reassoc' '-freorder-blocks' '-fprefetch-loop-arrays'
+ '-fcheck-data-deps' '-finline-small-functions' '-flto'
+ '-fschedule-insns2' '-ftree-forwprop' '-fgcse-sm'
+ '-fsel-sched-pipelining' '-fsplit-wide-types' '-ftree-builtin-call-dce'
+ '-fprofile-values ' '-ftree-dse ' '-ffast-math' '-fif-conversion'
+ '-fselective-scheduling' '-ftree-copyrename' '-fsched-pressure'
+ '-fno-peephole2' '-fno-sched-spec' '-fno-inline' '-fipa-reference'
+ '-fdelete-null-pointer-checks' '-fcompare-elim' '-fstrict-overflow'
+ '-fauto-inc-dec' '-ftree-switch-conversion' '-ftree-loop-if-convert']
+ 
+ 56786	['-ftree-loop-distribute-patterns' '-funroll-loops' '-fpeel-loops'
+ '-fvect-cost-model' '-fmerge-constants' '-fgcse-sm' '-freorder-blocks'
+ '-fcprop-registers' '-fshrink-wrap' '-floop-block' '-fgcse-lm' '-fgcse'
+ '-fprofile-values ' '-fbranch-target-load-optimize2' '-ftree-sink'
+ '-fsched-last-insn-heuristic']
+ 
+ 55167	['-fdata-sections' '-fbranch-target-load-optimize2'
+ '-foptimize-sibling-calls' '-fipa-reference' '-funswitch-loops'
+ '-fmudflapth' '-fgcse' '-fdelete-null-pointer-checks' '-fthread-jumps'
+ '-fdevirtualize' '-fsched-pressure' '-fvpt' '-ftree-loop-optimize'
+ '-ffast-math' '-ftree-pta' '-fstrict-overflow'
+ '-funsafe-loop-optimizations' '-fsched2-use-superblocks' '-flto'
+ '-fforward-propagate' '-funit-at-a-time' '-ftree-switch-conversion'
+ '-ftree-copyrename']
+ 
+ 57017	['-fno-peephole' '-fno-peephole2' '-fno-defer-pop' '-fgcse' '-ftree-ccp'
+ '-fsel-sched-pipelining' '-fsched-dep-count-heuristic' '-fipa-cp-clone'
+ '-fforward-propagate' '-fdevirtualize' '-fdelete-null-pointer-checks'
+ '-fgcse-lm' '-fbtr-bb-exclusive' '-fconserve-stack' '-ftree-pre'
+ '-fmove-loop-invariants' '-fcaller-saves']
+ 
+ 55059	['-ftree-loop-optimize' '-fno-peephole' '-fhoist-adjacent-loads'
+ '-fconserve-stack' '-fregmove' '-flto' '-funsafe-loop-optimizations'
+ '-falign-labels' '-fcaller-saves' '-fsched-stalled-insns'
+ '-fno-toplevel-reorder' '-free' '-ftree-ccp'
+ '-fdelete-null-pointer-checks' '-floop-block'
+ '-fbranch-target-load-optimize2' '-ffast-math' '-fgcse-lm'
+ '-fprefetch-loop-arrays' '-fno-defer-pop' '-fgcse' '-fivopts'
+ '-fthread-jumps' '-fsched2-use-superblocks']
+ 
+ 56943	['-ftree-sink' '-fno-branch-count-reg' '-fgcse' '-fcse-follow-jumps'
+ '-ftree-loop-optimize' '-fdelayed-branch' '-fselective-scheduling'
+ '-fsched-spec-insn-heuristic' '-floop-interchange' '-fno-default-inline']
+ 
+ 55587	['-fno-peephole' '-fsched2-use-superblocks' '-fhoist-adjacent-loads'
+ '-fkeep-static-consts' '-fif-conversion' '-fno-branch-count-reg'
+ '-fcse-skip-blocks' '-fsection-anchors' '-funroll-all-loops'
+ '-fstack-protector' '-floop-block' '-ftree-dce' '-fipa-reference'
+ '-ftree-tail-merge' '-ftree-sink' '-fipa-pure-const' '-ffinite-math-only'
+ '-fsched-spec-insn-heuristic' '-falign-functions' '-ftree-dominator-opts'
+ '-ftree-ccp' '-ftree-copy-prop' '-fmudflapth' '-fpredictive-commoning'
+ '-ftree-bit-ccp' '-fno-ira-share-spill-slots' '-fselective-scheduling'
+ '-fregmove' '-fsched-rank-heuristic' '-fgcse-after-reload'
+ '-fsched-stalled-insns' '-floop-interchange' '-funroll-loops' '-flto'
+ '-finline-functions' '-fipa-cp-clone' '-fcprop-registers'
+ '-foptimize-sibling-calls' '-fcaller-saves' '-ftree-pta' '-fno-peephole2'
+ '-ftree-loop-if-convert' '-fstrict-aliasing' '-flto-report' '-ftree-slsr'
+ '-fsched-group-heuristic' '-fsched-spec-load-dangerous' '-fauto-inc-dec'
+ '-fpeel-loops']
+ 
+ 57070	['-fshrink-wrap' '-funroll-all-loops' '-ffunction-sections'
+ '-falign-loops' '-fipa-reference' '-flto-report' '-ftree-loop-if-convert'
+ '-fsched-last-insn-heuristic' '-funsafe-loop-optimizations'
+ '-ftree-loop-ivcanon' '-ftree-loop-linear' '-fcprop-registers'
+ '-fsel-sched-pipelining-outer-loops' '-fif-conversion' '-ftree-bit-ccp'
+ '-fweb' '-fno-peephole2' '-falign-functions' '-ftree-switch-conversion'
+ '-fsched-dep-count-heuristic' '-ftree-ch' '-fkeep-static-consts'
+ '-ffinite-math-only' '-fauto-inc-dec' '-fipa-cp-clone'
+ '-freorder-blocks-and-partition' '-ftracer']
+ 
+ 55491	['-fipa-cp-clone' '-fcrossjumping' '-frounding-math' '-fivopts'
+ '-ftree-vrp' '-fsched-rank-heuristic' '-fsched-dep-count-heuristic'
+ '-flto' '-ftree-partial-pre' '-fgcse-sm' '-fno-branch-count-reg'
+ '-fsel-sched-pipelining' '-fthread-jumps' '-funit-at-a-time'
+ '-ftree-loop-if-convert' '-finline-functions' '-floop-strip-mine'
+ '-fomit-frame-pointer' '-ftree-loop-optimize' '-ftree-sra'
+ '-freorder-functions' '-fno-default-inline' '-fno-toplevel-reorder']
+ 
+ 55166	['-ftree-dce' '-fipa-reference' '-freciprocal-math' '-ftree-ccp'
+ '-fno-sched-spec' '-finline-small-functions' '-fpeel-loops'
+ '-floop-block' '-ftree-tail-merge' '-fvect-cost-model'
+ '-fsel-sched-pipelining' '-fomit-frame-pointer'
+ '-ftree-loop-distribute-patterns' '-fstrict-overflow' '-fif-conversion2'
+ '-fsched-last-insn-heuristic' '-fivopts' '-ftree-dominator-opts'
+ '-ftree-ter' '-ffunction-sections' '-fno-default-inline' '-fregmove'
+ '-fbranch-target-load-optimize2' '-ffast-math' '-ftree-partial-pre'
+ '-fkeep-static-consts' '-flto-report' '-fshrink-wrap'
+ '-fgraphite-identity' '-ftree-pta' '-fdata-sections' '-fstack-protector'
+ '-fcse-follow-jumps' '-funsafe-loop-optimizations' '-fno-math-errno'
+ '-fmudflapth' '-ffinite-math-only' '-fsched-pressure'
+ '-foptimize-sibling-calls' '-ftree-phiprop' '-fira-hoist-pressure'
+ '-fgcse-lm' '-fsched-stalled-insns-dep' '-fgcse-sm'
+ '-freorder-blocks-and-partition' '-fvariable-expansion-in-unroller'
+ '-ftree-loop-optimize' '-fcompare-elim' '-flto' '-fno-peephole2']
+ 
+ 55401	['-fno-default-inline' '-fearly-inlining' '-funroll-loops'
+ '-ftree-switch-conversion' '-fsel-sched-pipelining' '-ftree-pre'
+ '-ftree-vectorize' '-fsplit-wide-types' '-fsched-stalled-insns-dep'
+ '-fbranch-target-load-optimize2' '-ftree-loop-optimize' '-ftree-ccp'
+ '-ftree-slsr' '-fmerge-all-constants' '-ftree-coalesce-vars'
+ '-ffast-math' '-funit-at-a-time' '-fif-conversion2' '-flto'
+ '-fmerge-constants' '-fno-defer-pop' '-fno-sched-spec'
+ '-freorder-blocks-and-partition' '-free' '-ftree-loop-distribution'
+ '-finline-functions-called-once' '-fcx-fortran-rules' '-fcprop-registers'
+ '-fshrink-wrap' '-funsafe-math-optimizations'
+ '-fvariable-expansion-in-unroller' '-falign-functions' '-ftree-sink'
+ '-ftree-loop-ivcanon' '-falign-jumps'
+ '-fsel-sched-pipelining-outer-loops' '-foptimize-sibling-calls'
+ '-ftree-vrp' '-fno-peephole' '-ftree-copy-prop' '-fipa-pta']
+ 
+ 56463	['-ftree-loop-if-convert' '-fforward-propagate' '-fshrink-wrap' '-fdce'
+ '-ftree-pta' '-floop-block' '-fno-math-errno'
+ '-funsafe-loop-optimizations' '-floop-interchange' '-ffast-math'
+ '-fgraphite-identity' '-ftree-slsr' '-fira-hoist-pressure'
+ '-fcaller-saves' '-fivopts' '-fdata-sections' '-ftree-loop-linear'
+ '-fregmove' '-ftree-fre' '-ftree-dominator-opts' '-falign-functions'
+ '-fno-trapping-math']
+ 
+ 55224	['-funsafe-math-optimizations' '-fif-conversion2'
+ '-foptimize-sibling-calls' '-ftree-ccp' '-fcse-skip-blocks'
+ '-ftree-vectorize' '-fauto-inc-dec' '-fthread-jumps' '-fprofile-values '
+ '-free' '-ftree-switch-conversion' '-ftree-tail-merge' '-ftree-forwprop'
+ '-ffunction-sections' '-floop-strip-mine'
+ '-fbranch-target-load-optimize2' '-flto' '-frounding-math'
+ '-fcaller-saves' '-fsched-stalled-insns-dep' '-floop-block'
+ '-fgcse-after-reload' '-fgcse-lm' '-finline-small-functions']
+ 
+ 56873	['-funroll-loops' '-fipa-reference' '-ftree-forwprop'
+ '-ftree-loop-distribute-patterns' '-fif-conversion2' '-fstrict-overflow'
+ '-fgcse-lm' '-fforward-propagate' '-fprefetch-loop-arrays'
+ '-ftree-builtin-call-dce' '-fkeep-static-consts' '-floop-nest-optimize'
+ '-ftree-loop-optimize' '-funsafe-loop-optimizations' '-fassociative-math'
+ '-fsplit-wide-types' '-fomit-frame-pointer' '-fshrink-wrap'
+ '-freorder-blocks' '-ftree-copy-prop' '-ftree-loop-linear']
+ 
+ 56856	['-floop-interchange' '-fsched-dep-count-heuristic'
+ '-ftree-loop-if-convert' '-ftree-slsr' '-ftree-coalesce-vars'
+ '-ftree-pre' '-ftree-pta' '-ftree-dominator-opts' '-falign-jumps'
+ '-floop-block' '-fweb' '-fsched2-use-superblocks' '-fearly-inlining'
+ '-ftree-loop-distribute-patterns' '-fno-ira-share-spill-slots'
+ '-fbranch-target-load-optimize2' '-fcaller-saves' '-fregmove'
+ '-ftree-fre' '-frounding-math' '-fno-toplevel-reorder']
+ 
+ 55484	['-flto' '-ftree-loop-linear' '-frerun-cse-after-loop'
+ '-fsched-stalled-insns-dep' '-ffast-math'
+ '-ftree-loop-distribute-patterns' '-fpeel-loops' '-fkeep-static-consts'
+ '-ftree-pre' '-fauto-inc-dec' '-frounding-math' '-fassociative-math'
+ '-fipa-reference' '-fno-branch-count-reg'
+ '-fvariable-expansion-in-unroller' '-freorder-blocks'
+ '-fsel-sched-pipelining' '-ftree-dominator-opts' '-fno-peephole2'
+ '-fsched-stalled-insns' '-finline-small-functions' '-ftree-fre'
+ '-fno-defer-pop' '-fsched-pressure' '-ftree-tail-merge'
+ '-fhoist-adjacent-loads' '-fno-trapping-math' '-fno-default-inline'
+ '-fgcse-after-reload' '-flto-report']
+ 
+ 56717	['-fno-trapping-math' '-ftree-loop-distribution' '-fsplit-wide-types'
+ '-ftree-builtin-call-dce' '-fsched-spec-load-dangerous'
+ '-fsection-anchors' '-ftree-pta' '-fipa-reference'
+ '-ftree-loop-distribute-patterns' '-fsched-spec-insn-heuristic'
+ '-fno-default-inline' '-fcx-limited-range' '-ftree-loop-optimize'
+ '-fipa-pta' '-ftree-switch-conversion' '-falign-functions' '-ftree-vrp'
+ '-ffinite-math-only' '-ftree-ccp' '-floop-block']
+ 
+ 55730	['-fshrink-wrap' '-ffinite-math-only' '-fgcse-lm' '-fcx-fortran-rules'
+ '-fweb' '-fpredictive-commoning' '-fhoist-adjacent-loads'
+ '-ftree-dominator-opts' '-ffunction-sections' '-fsched2-use-superblocks'
+ '-fif-conversion2' '-fsched-stalled-insns-dep'
+ '-fbranch-target-load-optimize2' '-fsched-rank-heuristic'
+ '-floop-interchange' '-fcse-follow-jumps' '-fcombine-stack-adjustments'
+ '-free' '-flto' '-fno-peephole2' '-ftree-tail-merge'
+ '-ftree-loop-optimize']
+ 
+ 55582	['-fsched-pressure' '-foptimize-sibling-calls' '-fconserve-stack'
+ '-ftree-vectorize' '-fno-sched-spec' '-funswitch-loops'
+ '-fgcse-after-reload' '-ftree-dse ' '-fsplit-wide-types' '-fcompare-elim'
+ '-fipa-cp-clone' '-fschedule-insns2' '-fgcse-sm' '-ftree-sra'
+ '-ftree-tail-merge' '-fthread-jumps' '-fno-peephole2' '-fpeel-loops'
+ '-fsched2-use-superblocks' '-funroll-all-loops' '-fno-default-inline'
+ '-fipa-reference' '-flto' '-ftree-phiprop' '-fdelete-null-pointer-checks'
+ '-fno-defer-pop' '-ftree-ccp' '-fdelayed-branch' '-fgcse'
+ '-funsafe-loop-optimizations' '-fsel-sched-pipelining' '-freorder-blocks'
+ '-ftree-pre' '-falign-functions' '-freorder-blocks-and-partition'
+ '-fkeep-static-consts' '-fif-conversion' '-fsched-last-insn-heuristic'
+ '-ftree-builtin-call-dce' '-fvpt' '-fno-math-errno'
+ '-ftree-switch-conversion' '-ftree-ch' '-ftree-reassoc'
+ '-fcheck-data-deps' '-fweb']
+ 
+ 56750	['-ftree-tail-merge' '-fbranch-target-load-optimize2' '-fthread-jumps'
+ '-fipa-cp-clone' '-finline-small-functions' '-ftree-sra'
+ '-ftree-copy-prop' '-fprefetch-loop-arrays' '-ftree-loop-distribution'
+ '-fno-branch-count-reg' '-fmudflapth' '-ffinite-math-only'
+ '-funit-at-a-time' '-fcompare-elim' '-ftree-forwprop'
+ '-fsched-stalled-insns' '-fno-math-errno' '-fsel-sched-pipelining'
+ '-fcrossjumping' '-fno-trapping-math' '-fipa-reference' '-fcaller-saves'
+ '-ffunction-sections' '-fipa-pta' '-ftree-dse ' '-fira-hoist-pressure'
+ '-fhoist-adjacent-loads' '-fno-default-inline' '-fgcse-sm'
+ '-fkeep-static-consts' '-ftree-builtin-call-dce'
+ '-fsched-stalled-insns-dep' '-floop-block' '-ftree-dominator-opts'
+ '-fivopts' '-fweb' '-fstrict-overflow' '-ftree-pta'
+ '-fno-ira-share-spill-slots' '-fvpt' '-frounding-math' '-ffast-math'
+ '-fassociative-math' '-foptimize-register-move']
+ 
+ 55179	['-fsched-stalled-insns-dep' '-ftree-ccp' '-fgcse-sm' '-fconserve-stack'
+ '-fsched-last-insn-heuristic' '-ffast-math' '-free' '-freciprocal-math'
+ '-ftree-sink' '-flto-report' '-ftree-copyrename' '-floop-interchange'
+ '-fno-ira-share-spill-slots' '-floop-strip-mine' '-fcprop-registers'
+ '-fpeel-loops' '-fassociative-math' '-fsched2-use-superblocks' '-flto'
+ '-falign-functions' '-falign-jumps' '-ftree-vrp' '-fsplit-wide-types']
+ 
+ 57216	['-ftree-loop-optimize' '-fipa-cp-clone' '-ftree-loop-if-convert'
+ '-fregmove' '-fkeep-static-consts' '-fira-hoist-pressure'
+ '-fselective-scheduling2' '-foptimize-sibling-calls']
+ 
+ 55579	['-fsched-rank-heuristic' '-foptimize-sibling-calls'
+ '-ftree-switch-conversion' '-fif-conversion' '-fstrict-overflow'
+ '-fno-default-inline' '-fbranch-target-load-optimize2' '-funit-at-a-time'
+ '-fno-defer-pop' '-falign-labels' '-fno-function-cse' '-flto'
+ '-ftree-pta' '-fsched-pressure' '-funswitch-loops' '-ftree-forwprop'
+ '-ftree-fre' '-ftree-vrp' '-fno-math-errno' '-fbtr-bb-exclusive'
+ '-floop-interchange' '-fira-loop-pressure' '-fdelete-null-pointer-checks'
+ '-ftree-tail-merge' '-ftree-loop-optimize'
+ '-ftree-loop-distribute-patterns' '-fgcse-after-reload'
+ '-ftree-copyrename' '-ffast-math' '-fcheck-data-deps'
+ '-finline-functions-called-once' '-fpeel-loops'
+ '-fsched2-use-superblocks' '-freorder-blocks' '-fmudflapth'
+ '-freciprocal-math']
+ 
+ 56808	['-fkeep-static-consts' '-foptimize-register-move']
+ 
+ 56888	['-fthread-jumps' '-fcaller-saves' '-ftree-fre' '-fno-peephole2'
+ '-floop-strip-mine' '-fmerge-constants' '-fno-defer-pop'
+ '-floop-interchange' '-fif-conversion' '-fshrink-wrap'
+ '-funroll-all-loops' '-fipa-pure-const' '-fipa-profile'
+ '-fbranch-target-load-optimize2' '-ftree-ccp'
+ '-funsafe-loop-optimizations' '-fsplit-wide-types'
+ '-ftree-dominator-opts' '-fno-default-inline' '-fira-loop-pressure'
+ '-fsched-spec-load-dangerous' '-fhoist-adjacent-loads'
+ '-freorder-blocks-and-partition' '-fschedule-insns2'
+ '-fprefetch-loop-arrays' '-ftree-ch' '-fcse-skip-blocks'
+ '-fmove-loop-invariants' '-ftree-pta' '-ftree-copyrename'
+ '-fno-sched-spec' '-frerun-cse-after-loop' '-ftree-loop-optimize'
+ '-fgcse-lm' '-fweb' '-falign-loops' '-fkeep-static-consts'
+ '-ftree-tail-merge' '-ftree-coalesce-vars' '-fsched-pressure'
+ '-ftree-loop-linear' '-ftree-switch-conversion' '-fsched-spec-load'
+ '-finline-functions-called-once' '-ftree-vectorize' '-fgcse-after-reload'
+ '-fpeel-loops']
+ 
+ 57429	['-fcheck-data-deps' '-ftree-fre' '-fselective-scheduling'
+ '-falign-labels' '-fmerge-constants' '-fno-inline' '-floop-block'
+ '-ftree-copy-prop' '-ftree-vectorize' '-fipa-cp-clone' '-fdata-sections'
+ '-fcprop-registers' '-ftree-loop-if-convert'
+ '-finline-functions-called-once' '-fmove-loop-invariants'
+ '-fno-function-cse' '-fearly-inlining' '-fvariable-expansion-in-unroller'
+ '-fvect-cost-model' '-fstrict-overflow' '-floop-interchange'
+ '-frerun-cse-after-loop' '-fdelayed-branch' '-fgcse-after-reload'
+ '-fif-conversion2' '-freorder-functions' '-freciprocal-math'
+ '-funsafe-loop-optimizations' '-ftree-loop-distribute-patterns'
+ '-fif-conversion' '-fcaller-saves' '-ftree-builtin-call-dce'
+ '-fno-sched-spec' '-fomit-frame-pointer' '-fsched-spec-load-dangerous'
+ '-ftree-loop-ivcanon' '-flto-report' '-freorder-blocks']
+ 
+ 55230	['-ftree-slsr' '-fsched-stalled-insns-dep' '-fcompare-elim' '-flto'
+ '-fbranch-target-load-optimize2' '-fvpt' '-fipa-reference'
+ '-frounding-math' '-fpredictive-commoning' '-free' '-fweb'
+ '-fipa-cp-clone' '-fcombine-stack-adjustments' '-ftree-partial-pre'
+ '-fsched2-use-superblocks' '-fno-default-inline'
+ '-fsel-sched-pipelining-outer-loops' '-fkeep-static-consts'
+ '-foptimize-sibling-calls' '-fpeel-loops' '-fsched-rank-heuristic'
+ '-ftree-sra' '-fno-branch-count-reg' '-freciprocal-math'
+ '-ftree-coalesce-vars' '-fconserve-stack' '-fomit-frame-pointer'
+ '-falign-functions' '-fno-peephole2' '-falign-labels' '-ftree-ter'
+ '-fauto-inc-dec' '-ftree-ccp' '-fprefetch-loop-arrays' '-ffast-math']
+ 
+ 57021	['-fconserve-stack' '-fno-math-errno' '-fcse-skip-blocks' '-ftree-ccp'
+ '-ftree-loop-if-convert' '-floop-block' '-fsched2-use-superblocks'
+ '-fcombine-stack-adjustments' '-fmudflapth' '-fvpt' '-ftree-ter'
+ '-fno-peephole2' '-funsafe-loop-optimizations' '-ftree-reassoc']
+ 
+ 55233	['-ftree-loop-optimize' '-ffunction-sections' '-finline-small-functions'
+ '-ftree-ter' '-fno-math-errno' '-fsched-stalled-insns-dep'
+ '-ftree-loop-linear' '-fselective-scheduling' '-ffinite-math-only'
+ '-fmerge-constants' '-fearly-inlining' '-fomit-frame-pointer' '-flto'
+ '-ftree-reassoc' '-ftree-phiprop']
+ 
+ 57085	['-floop-interchange' '-fno-peephole' '-ftree-coalesce-vars'
+ '-ftree-vectorize' '-fbranch-target-load-optimize2'
+ '-ftree-loop-optimize' '-fipa-reference' '-fno-defer-pop'
+ '-fdelayed-branch' '-freschedule-modulo-scheduled-loops' '-ftree-slsr'
+ '-fmerge-constants' '-ffast-math' '-funroll-loops' '-funswitch-loops'
+ '-fno-sched-spec' '-fsched2-use-superblocks' '-fsel-sched-pipelining'
+ '-fira-hoist-pressure' '-fsched-pressure' '-fcombine-stack-adjustments'
+ '-fforward-propagate' '-fearly-inlining' '-fsched-rank-heuristic'
+ '-ftree-ccp' '-ftree-phiprop' '-floop-block' '-fno-peephole2'
+ '-foptimize-sibling-calls' '-fno-ira-share-spill-slots' '-ftree-reassoc'
+ '-fgcse-after-reload' '-fivopts' '-fregmove' '-floop-strip-mine'
+ '-fipa-cp-clone' '-faggressive-loop-optimizations'
+ '-fno-branch-count-reg' '-ftree-copyrename' '-fgcse-lm'
+ '-funsafe-loop-optimizations' '-fcse-follow-jumps' '-ftree-sink'
+ '-freciprocal-math']
+ 
+ 55331	['-fgcse-after-reload' '-fvect-cost-model' '-falign-labels'
+ '-fipa-cp-clone' '-fgcse' '-ffast-math' '-fgcse-lm' '-fshrink-wrap'
+ '-free' '-ftree-vrp' '-falign-loops' '-funswitch-loops'
+ '-fcombine-stack-adjustments' '-fcse-follow-jumps'
+ '-fpredictive-commoning' '-fno-trapping-math' '-ftree-loop-linear'
+ '-fcaller-saves' '-fdce' '-fregmove' '-fauto-inc-dec' '-funit-at-a-time'
+ '-flto' '-fsel-sched-pipelining-outer-loops' '-fno-defer-pop' '-ftree-ch'
+ '-fsplit-wide-types' '-fgraphite-identity'
+ '-fbranch-target-load-optimize2' '-ftree-dse ' '-floop-interchange'
+ '-freorder-blocks' '-floop-nest-optimize' '-fno-branch-count-reg'
+ '-fdata-sections' '-fno-ira-share-spill-slots' '-fpeel-loops'
+ '-frounding-math' '-fcheck-data-deps' '-freorder-blocks-and-partition'
+ '-ftree-coalesce-vars' '-fipa-profile' '-fsched-stalled-insns-dep'
+ '-fno-peephole' '-fcx-fortran-rules' '-ffunction-sections']
+ 
+ 55100	['-ftree-reassoc' '-flto' '-fvariable-expansion-in-unroller'
+ '-fno-math-errno' '-ffast-math' '-ftree-forwprop'
+ '-fsched-stalled-insns-dep' '-ftree-ccp' '-finline-functions-called-once'
+ '-fira-hoist-pressure' '-fno-trapping-math' '-ftree-partial-pre'
+ '-falign-labels' '-freciprocal-math' '-fipa-cp-clone'
+ '-fsched-group-heuristic' '-frounding-math' '-ftree-sra' '-ftree-ch'
+ '-fif-conversion2' '-fvpt' '-fhoist-adjacent-loads' '-ftree-tail-merge'
+ '-fpeel-loops' '-ftree-loop-ivcanon' '-fweb']
+ 
+ 56592	['-flto-report' '-fomit-frame-pointer' '-funswitch-loops'
+ '-fsection-anchors' '-fno-function-cse' '-fauto-inc-dec'
+ '-fvect-cost-model' '-fpeel-loops' '-ftree-loop-optimize'
+ '-fno-defer-pop' '-funsafe-math-optimizations' '-fdelayed-branch'
+ '-fno-branch-count-reg' '-funsafe-loop-optimizations' '-ftree-dse '
+ '-fno-math-errno' '-ftree-vectorize' '-ftree-partial-pre'
+ '-foptimize-sibling-calls' '-fgcse-sm' '-fkeep-static-consts'
+ '-fgraphite-identity']
+ 
+ 57199	['-fprefetch-loop-arrays' '-ftree-vrp' '-fipa-pure-const' '-ftree-ccp'
+ '-foptimize-sibling-calls' '-fdelayed-branch' '-fsched-stalled-insns-dep'
+ '-fgcse-sm' '-fno-defer-pop' '-fmerge-all-constants' '-fcx-fortran-rules'
+ '-fstrict-overflow' '-fdata-sections' '-fmerge-constants'
+ '-fcompare-elim' '-fsched2-use-superblocks' '-falign-jumps'
+ '-ftree-loop-optimize' '-fsched-rank-heuristic' '-fpredictive-commoning'
+ '-fno-default-inline' '-ftree-dce' '-fno-peephole2' '-freorder-functions']
+ 
+ 55548	['-frounding-math' '-fthread-jumps' '-floop-nest-optimize' '-flto'
+ '-ftree-ter' '-free']
+ 
+ 57057	['-freorder-functions' '-ftree-loop-linear' '-fcse-follow-jumps' '-fvpt'
+ '-funroll-all-loops' '-fbranch-target-load-optimize2'
+ '-fsched-stalled-insns-dep' '-fno-default-inline'
+ '-ftree-loop-distribute-patterns' '-fgcse-sm' '-floop-block'
+ '-falign-functions' '-fthread-jumps' '-fira-hoist-pressure' '-ftree-ter'
+ '-fforward-propagate' '-foptimize-register-move' '-freciprocal-math']
+ 
+ 56865	['-ftree-ccp' '-fno-peephole2' '-fsched-stalled-insns-dep'
+ '-fcheck-data-deps' '-fsplit-wide-types' '-fconserve-stack'
+ '-ftree-tail-merge' '-ftree-loop-if-convert' '-ftree-loop-linear'
+ '-ftree-loop-optimize' '-fbranch-target-load-optimize2'
+ '-funsafe-math-optimizations' '-fgraphite-identity' '-ftree-reassoc'
+ '-ftree-copyrename' '-ftree-ter' '-fif-conversion2'
+ '-ftree-loop-distribution' '-finline-functions'
+ '-fsched2-use-superblocks' '-fassociative-math'
+ '-ftree-switch-conversion' '-freorder-blocks' '-fmudflapth'
+ '-fpeel-loops' '-fipa-profile' '-fstack-protector' '-ftree-partial-pre'
+ '-fif-conversion']
+ 
+ 55201	['-ffast-math' '-fmerge-constants' '-freorder-blocks'
+ '-foptimize-sibling-calls' '-falign-loops' '-fcprop-registers'
+ '-fno-peephole2' '-flto' '-ftracer' '-fira-hoist-pressure'
+ '-funroll-all-loops' '-fprofile-values ' '-ftree-ccp'
+ '-fbtr-bb-exclusive' '-ftree-loop-linear' '-funsafe-math-optimizations'
+ '-ftree-ter' '-floop-nest-optimize' '-fsel-sched-pipelining-outer-loops'
+ '-ftree-loop-distribute-patterns' '-fsched-stalled-insns-dep'
+ '-fcompare-elim' '-fcrossjumping' '-fconserve-stack' '-fshrink-wrap'
+ '-ftree-forwprop' '-fprefetch-loop-arrays' '-fsched2-use-superblocks'
+ '-fauto-inc-dec' '-funsafe-loop-optimizations' '-floop-block'
+ '-fgcse-after-reload' '-fkeep-static-consts' '-fira-loop-pressure'
+ '-fmudflapth' '-fsched-stalled-insns' '-fcheck-data-deps'
+ '-fforward-propagate' '-fgcse-lm' '-fno-math-errno' '-fregmove'
+ '-finline-functions-called-once' '-fsched-group-heuristic']
+ 
+ 56823	['-ftree-tail-merge' '-fstrict-overflow' '-fno-branch-count-reg'
+ '-fipa-cp-clone' '-fipa-pta' '-fgcse-sm' '-ffunction-sections'
+ '-frounding-math' '-fearly-inlining' '-funsafe-loop-optimizations'
+ '-ftree-loop-distribution' '-fipa-pure-const' '-fthread-jumps'
+ '-fsel-sched-pipelining' '-ftree-dse ' '-fdata-sections' '-fgcse'
+ '-ftree-copy-prop' '-ftree-ccp' '-fpredictive-commoning']
+ 
+ 55554	['-fcombine-stack-adjustments' '-fsched-stalled-insns-dep'
+ '-fpredictive-commoning' '-ftree-partial-pre' '-ffast-math'
+ '-flto-report' '-floop-interchange' '-fno-defer-pop' '-ftree-dse '
+ '-funit-at-a-time' '-fhoist-adjacent-loads' '-fstrict-overflow'
+ '-fcheck-data-deps' '-fbranch-target-load-optimize2'
+ '-fmerge-all-constants' '-freorder-blocks-and-partition' '-falign-loops'
+ '-fipa-pure-const' '-fomit-frame-pointer' '-fforward-propagate' '-flto'
+ '-fauto-inc-dec' '-frounding-math' '-fsel-sched-pipelining'
+ '-funswitch-loops' '-fno-peephole' '-ftree-loop-optimize'
+ '-fno-default-inline' '-fregmove' '-fipa-reference' '-fivopts'
+ '-ftree-pta' '-finline-functions-called-once' '-fsched-stalled-insns'
+ '-fno-ira-share-spill-slots' '-ftree-sra' '-fsched2-use-superblocks'
+ '-ftree-builtin-call-dce' '-fmudflapth' '-ftree-sink' '-ftree-pre'
+ '-fsplit-wide-types' '-ftree-tail-merge' '-fweb' '-fno-math-errno'
+ '-fno-sched-spec' '-fcx-fortran-rules' '-freorder-blocks'
+ '-fassociative-math']
+ 
+ 56879	['-fno-trapping-math' '-fif-conversion' '-fthread-jumps'
+ '-fstrict-aliasing' '-fdelete-null-pointer-checks' '-fno-math-errno'
+ '-ftree-reassoc' '-ftree-loop-linear' '-fno-default-inline'
+ '-ftree-loop-ivcanon' '-ftree-fre' '-foptimize-register-move'
+ '-fvect-cost-model' '-floop-interchange' '-fif-conversion2'
+ '-finline-small-functions' '-ftree-loop-distribution'
+ '-fgraphite-identity' '-ffast-math' '-fcompare-elim'
+ '-fpredictive-commoning' '-fira-loop-pressure' '-fkeep-static-consts'
+ '-ftree-ter' '-ftree-dse ' '-freciprocal-math' '-fweb' '-ftree-slsr'
+ '-fmudflapth' '-fsched-dep-count-heuristic' '-ftree-forwprop'
+ '-fconserve-stack' '-funsafe-math-optimizations'
+ '-fno-ira-share-spill-slots' '-floop-block' '-fgcse-lm' '-flto-report'
+ '-fpeel-loops' '-fno-function-cse' '-ftree-sra' '-ftree-pta'
+ '-fstrict-overflow' '-foptimize-sibling-calls' '-fomit-frame-pointer'
+ '-fmerge-all-constants']
+
+55926	['-fsched-last-insn-heuristic' '-flto' '-fstack-protector' '-fregmove'
+ '-ftree-ccp' '-fearly-inlining' '-ftree-ter' '-fgcse-lm'
+ '-freciprocal-math' '-fno-default-inline' '-fsched-stalled-insns-dep'
+ '-fsched-stalled-insns' '-fno-peephole2' '-floop-strip-mine'
+ '-ftree-coalesce-vars']
+
+56968	['-fsplit-wide-types' '-fno-peephole2' '-fprefetch-loop-arrays'
+ '-floop-interchange' '-fprofile-values ' '-foptimize-register-move'
+ '-fcompare-elim' '-falign-functions' '-free' '-fcx-fortran-rules'
+ '-fomit-frame-pointer' '-fpeel-loops']
+
+55614	['-falign-functions' '-fstrict-overflow' '-fdelayed-branch'
+ '-fira-loop-pressure' '-fshrink-wrap' '-fbranch-target-load-optimize2'
+ '-ftree-ccp' '-fivopts' '-floop-block' '-fno-peephole2'
+ '-ftree-switch-conversion' '-flto' '-freorder-blocks-and-partition'
+ '-fsel-sched-pipelining-outer-loops' '-fkeep-static-consts'
+ '-finline-small-functions' '-fno-branch-count-reg'
+ '-ftree-builtin-call-dce' '-fgraphite-identity' '-fno-sched-spec'
+ '-ftree-dominator-opts' '-fsched-stalled-insns' '-fif-conversion2'
+ '-fcrossjumping' '-fcheck-data-deps' '-fassociative-math'
+ '-fno-ira-share-spill-slots' '-floop-nest-optimize'
+ '-fmove-loop-invariants' '-ftree-coalesce-vars' '-ftree-copyrename'
+ '-fcse-follow-jumps' '-ftree-dce' '-fgcse' '-ftree-sra' '-fvpt'
+ '-fsched-stalled-insns-dep' '-fdata-sections' '-fdevirtualize'
+ '-fsched-spec-load-dangerous' '-fipa-reference' '-ftree-pre'
+ '-fvariable-expansion-in-unroller' '-fsched2-use-superblocks' '-fregmove'
+ '-fcombine-stack-adjustments' '-ftree-dse ' '-fgcse-lm'
+ '-fno-toplevel-reorder']
+
+54589	['-freciprocal-math' '-fthread-jumps' '-fsel-sched-pipelining-outer-loops'
+ '-ftree-copyrename' '-fcaller-saves' '-fpeel-loops'
+ '-fsched-last-insn-heuristic' '-fgcse-lm' '-fassociative-math'
+ '-ftree-bit-ccp' '-ffast-math' '-fsched2-use-superblocks' '-fdce'
+ '-fira-hoist-pressure' '-ftree-loop-optimize' '-fno-function-cse'
+ '-floop-strip-mine' '-flto' '-fira-loop-pressure']
+
+55114	['-floop-strip-mine' '-fcprop-registers' '-ftree-switch-conversion'
+ '-ftree-partial-pre' '-fira-loop-pressure' '-fsched-stalled-insns'
+ '-fno-branch-count-reg' '-fcaller-saves' '-fgcse-lm'
+ '-foptimize-sibling-calls' '-fsched2-use-superblocks' '-ftree-sra'
+ '-freorder-blocks-and-partition' '-fgcse' '-ftree-vectorize' '-ftree-ccp'
+ '-fregmove' '-funsafe-loop-optimizations' '-ftree-copy-prop'
+ '-fno-ira-share-spill-slots' '-fno-sched-spec' '-flto' '-fif-conversion2'
+ '-ftree-vrp' '-fsched-last-insn-heuristic' '-fstrict-overflow'
+ '-fschedule-insns2' '-fmerge-all-constants' '-ftree-pre' '-ftree-ch'
+ '-fkeep-static-consts' '-ftree-phiprop' '-fivopts']
+
+56198	['-fipa-reference' '-ftree-switch-conversion' '-fshrink-wrap'
+ '-fcprop-registers' '-fgcse-lm' '-fsched2-use-superblocks'
+ '-fno-math-errno' '-freciprocal-math']
+
+56107	['-fauto-inc-dec' '-fno-peephole2' '-fsched2-use-superblocks'
+ '-falign-jumps' '-ftree-ch' '-fregmove' '-fno-peephole'
+ '-freorder-functions' '-fcx-fortran-rules' '-fassociative-math'
+ '-ftree-loop-distribute-patterns' '-fthread-jumps' '-fgcse'
+ '-funit-at-a-time' '-fdelayed-branch' '-ftree-copyrename' '-ftree-sra'
+ '-freorder-blocks' '-fforward-propagate' '-ftree-partial-pre' '-ftracer'
+ '-fprefetch-loop-arrays' '-foptimize-sibling-calls' '-falign-labels'
+ '-fipa-pure-const' '-fgcse-sm' '-fmudflapth' '-fcheck-data-deps'
+ '-freorder-blocks-and-partition' '-fcaller-saves'
+ '-ftree-loop-distribution' '-fira-hoist-pressure']
+
+55051	['-fconserve-stack' '-fsched-pressure' '-ftree-loop-distribute-patterns'
+ '-ftree-ch' '-fdata-sections' '-ffast-math' '-fcprop-registers'
+ '-falign-jumps' '-fno-peephole' '-fregmove' '-funswitch-loops' '-flto'
+ '-fno-peephole2' '-freorder-blocks' '-falign-labels' '-ftree-sra'
+ '-fkeep-static-consts' '-fira-hoist-pressure' '-fmudflapth'
+ '-fgraphite-identity' '-floop-strip-mine' '-fno-function-cse' '-fdce'
+ '-fdelete-null-pointer-checks' '-fsel-sched-pipelining'
+ '-fif-conversion2' '-fcompare-elim' '-fipa-cp-clone' '-ftree-dce'
+ '-fsched-rank-heuristic' '-fdelayed-branch' '-ftree-copy-prop'
+ '-fhoist-adjacent-loads' '-fearly-inlining' '-fpeel-loops'
+ '-fpredictive-commoning' '-fgcse' '-fno-defer-pop' '-fgcse-lm'
+ '-fvariable-expansion-in-unroller' '-floop-block'
+ '-fsched-last-insn-heuristic' '-ffunction-sections']
+
+56220	['-fno-default-inline' '-fdelayed-branch' '-ftree-copy-prop'
+ '-fcaller-saves' '-ftree-ch' '-frounding-math' '-fcse-skip-blocks'
+ '-fcheck-data-deps' '-fgcse-after-reload' '-ftree-bit-ccp' '-ftree-dce'
+ '-fbranch-target-load-optimize2' '-fsched-stalled-insns-dep'
+ '-ftree-loop-linear' '-fno-branch-count-reg' '-ftree-dominator-opts'
+ '-fif-conversion' '-ftree-sra' '-ftree-coalesce-vars' '-fgcse'
+ '-fstrict-aliasing' '-fmove-loop-invariants' '-fno-defer-pop'
+ '-fsched-pressure' '-finline-small-functions' '-fassociative-math'
+ '-faggressive-loop-optimizations' '-funsafe-math-optimizations'
+ '-fno-peephole' '-funsafe-loop-optimizations' '-ftree-phiprop'
+ '-fconserve-stack' '-fpredictive-commoning' '-fcombine-stack-adjustments'
+ '-fgcse-lm' '-fno-toplevel-reorder' '-falign-labels'
+ '-fsel-sched-pipelining' '-ftree-sink' '-ftree-ter'
+ '-fdelete-null-pointer-checks']
+
+54737	['-fno-defer-pop' '-ftree-ccp' '-fhoist-adjacent-loads' '-fconserve-stack'
+ '-fgcse-sm' '-ftree-dominator-opts' '-fno-trapping-math'
+ '-fira-hoist-pressure' '-fsched-pressure' '-flto' '-ftracer'
+ '-ftree-dse ' '-fcse-follow-jumps' '-flto-report' '-ffunction-sections'
+ '-freschedule-modulo-scheduled-loops'
+ '-fsel-sched-pipelining-outer-loops' '-fif-conversion'
+ '-fsched-group-heuristic' '-fvariable-expansion-in-unroller'
+ '-fcompare-elim' '-fno-math-errno' '-fdata-sections' '-fipa-reference'
+ '-fstrict-overflow' '-finline-functions' '-fgcse-lm' '-free' '-fdce'
+ '-ftree-loop-ivcanon' '-fregmove' '-ftree-loop-linear'
+ '-fira-loop-pressure' '-fbtr-bb-exclusive' '-fmudflapth'
+ '-fgraphite-identity' '-ftree-bit-ccp' '-ftree-builtin-call-dce'
+ '-ftree-copyrename' '-fpeel-loops' '-fshrink-wrap' '-frounding-math'
+ '-fsel-sched-pipelining' '-ftree-loop-distribution' '-fstrict-aliasing']
+
+56257	['-fsched-stalled-insns-dep' '-ftree-ch' '-fif-conversion']
+
+54491	['-fivopts' '-fcse-follow-jumps' '-fipa-reference'
+ '-fvariable-expansion-in-unroller' '-ftree-loop-linear'
+ '-fhoist-adjacent-loads' '-fsched2-use-superblocks'
+ '-ftree-dominator-opts' '-fno-default-inline' '-falign-labels'
+ '-fsel-sched-pipelining-outer-loops' '-fcompare-elim' '-fconserve-stack'
+ '-fkeep-static-consts' '-floop-strip-mine' '-free'
+ '-fprefetch-loop-arrays' '-ftree-dce' '-fno-sched-spec'
+ '-freciprocal-math' '-fpeel-loops' '-ffunction-sections' '-ftree-reassoc'
+ '-fcaller-saves' '-falign-jumps' '-ftree-ccp' '-fipa-pta' '-fmudflapth'
+ '-fcx-limited-range' '-fregmove' '-fauto-inc-dec' '-freorder-blocks'
+ '-fcprop-registers' '-ftree-sra' '-fipa-pure-const' '-fstrict-overflow'
+ '-fipa-profile' '-fbranch-target-load-optimize2'
+ '-fsched-spec-insn-heuristic' '-falign-loops' '-foptimize-sibling-calls'
+ '-ftree-vrp' '-ftree-vectorize' '-fira-hoist-pressure'
+ '-fcx-fortran-rules' '-flto' '-floop-nest-optimize'
+ '-fno-branch-count-reg']
+
+56297	['-fgcse' '-fsched-stalled-insns' '-fvpt' '-fsched-group-heuristic'
+ '-falign-jumps' '-freorder-functions' '-fsection-anchors'
+ '-fcprop-registers' '-fno-math-errno' '-ftree-reassoc']
+
+54787	['-fbranch-target-load-optimize2' '-fno-default-inline' '-fdevirtualize'
+ '-ftree-copy-prop' '-ftree-builtin-call-dce' '-fif-conversion2'
+ '-fcx-limited-range' '-flto' '-fhoist-adjacent-loads'
+ '-fsched-rank-heuristic' '-ftree-ccp' '-fno-toplevel-reorder'
+ '-fpeel-loops' '-falign-loops' '-ftree-loop-linear' '-fgcse-after-reload']
+
+55708	['-fsel-sched-pipelining' '-fif-conversion'
+ '-fvariable-expansion-in-unroller' '-ftree-ccp' '-ftree-dce'
+ '-fdevirtualize' '-fcompare-elim' '-fpredictive-commoning'
+ '-faggressive-loop-optimizations' '-fno-sched-spec'
+ '-funsafe-math-optimizations' '-freorder-blocks' '-fvpt'
+ '-fmerge-all-constants']
+
+54869	['-ftree-ch' '-fcompare-elim' '-fira-hoist-pressure'
+ '-ftree-switch-conversion' '-flto' '-fno-sched-spec' '-fno-function-cse'
+ '-fbranch-target-load-optimize2' '-fsched-rank-heuristic' '-fgcse-lm'
+ '-fira-loop-pressure' '-funsafe-math-optimizations']
+
+56826	['-fassociative-math' '-fsched-rank-heuristic' '-fgcse-lm'
+ '-ftree-loop-ivcanon' '-ftree-vectorize' '-fsel-sched-pipelining'
+ '-freciprocal-math' '-falign-loops' '-fdevirtualize'
+ '-finline-functions-called-once' '-floop-strip-mine' '-ftree-reassoc'
+ '-fcheck-data-deps' '-fstrict-overflow' '-fno-branch-count-reg' '-fdce'
+ '-fipa-reference' '-fvariable-expansion-in-unroller' '-ftree-forwprop'
+ '-fsched-pressure' '-ftree-ch' '-ftree-dominator-opts']
+
+56670	['-foptimize-sibling-calls' '-fpredictive-commoning' '-floop-block'
+ '-fsel-sched-pipelining-outer-loops' '-fira-hoist-pressure'
+ '-fconserve-stack' '-ftree-partial-pre' '-fno-function-cse'
+ '-fno-peephole' '-fgcse-lm' '-ftree-ter' '-ftree-sra' '-fdevirtualize'
+ '-fsched-group-heuristic' '-fno-default-inline' '-fcaller-saves'
+ '-fcompare-elim' '-fprofile-values ' '-fira-loop-pressure' '-fvpt'
+ '-fdelete-null-pointer-checks' '-fno-sched-spec' '-fcprop-registers'
+ '-fif-conversion' '-fprefetch-loop-arrays' '-ftree-slsr'
+ '-ftree-switch-conversion' '-ffast-math' '-fcx-fortran-rules'
+ '-fsched2-use-superblocks' '-floop-nest-optimize']
+
+56397	['-fsel-sched-pipelining-outer-loops' '-fschedule-insns2'
+ '-ftree-loop-distribute-patterns' '-fno-trapping-math'
+ '-fbtr-bb-exclusive' '-fshrink-wrap' '-funit-at-a-time'
+ '-ftree-partial-pre' '-fpeel-loops' '-ftree-sra'
+ '-fsched-last-insn-heuristic' '-falign-functions'
+ '-fbranch-target-load-optimize2' '-fforward-propagate' '-fdevirtualize']
+
+54479	['-falign-functions' '-fbranch-target-load-optimize2'
+ '-fno-branch-count-reg' '-fno-default-inline' '-fsched-group-heuristic'
+ '-ftree-copyrename' '-flto' '-ftree-coalesce-vars' '-ftree-loop-linear'
+ '-fsched-pressure' '-freorder-blocks-and-partition' '-fgcse'
+ '-foptimize-sibling-calls' '-fauto-inc-dec' '-ftree-ter'
+ '-fgcse-after-reload' '-funit-at-a-time' '-ftree-loop-ivcanon'
+ '-fprefetch-loop-arrays' '-fsched-spec-insn-heuristic' '-fmudflapth'
+ '-fsched-rank-heuristic' '-finline-functions-called-once' '-ftree-vrp']
+
+55845	['-ftree-ccp' '-fgraphite-identity' '-freorder-blocks-and-partition'
+ '-fselective-scheduling' '-fno-sched-spec' '-fira-loop-pressure'
+ '-fvariable-expansion-in-unroller' '-ftree-ter' '-fdata-sections'
+ '-fif-conversion' '-funswitch-loops' '-fcrossjumping' '-flto'
+ '-ftree-loop-distribute-patterns' '-freciprocal-math'
+ '-ftree-partial-pre' '-ftree-loop-distribution' '-fcse-skip-blocks'
+ '-fmudflapth' '-floop-block' '-fbranch-target-load-optimize2'
+ '-finline-functions' '-fcse-follow-jumps' '-ftree-switch-conversion'
+ '-fno-defer-pop' '-ftree-bit-ccp' '-fpredictive-commoning' '-ftree-vrp'
+ '-fconserve-stack' '-fsched-rank-heuristic' '-fcompare-elim'
+ '-fno-peephole' '-ftree-loop-linear' '-fno-function-cse'
+ '-fif-conversion2' '-fsched-pressure' '-falign-labels'
+ '-fhoist-adjacent-loads' '-fshrink-wrap' '-fcprop-registers'
+ '-floop-nest-optimize' '-ftree-ch' '-frounding-math' '-fpeel-loops']
+
+55999	['-fassociative-math' '-fkeep-static-consts' '-fno-peephole2'
+ '-fsched-rank-heuristic' '-free' '-fivopts' '-funroll-all-loops'
+ '-fbranch-target-load-optimize2' '-fdelete-null-pointer-checks'
+ '-fcombine-stack-adjustments' '-fvariable-expansion-in-unroller'
+ '-fdata-sections' '-falign-labels' '-falign-functions' '-ftree-sink'
+ '-fweb' '-ftree-pre' '-fcaller-saves' '-fomit-frame-pointer'
+ '-ftree-loop-ivcanon' '-fsched2-use-superblocks' '-flto'
+ '-funsafe-loop-optimizations' '-ftree-dse ' '-fvpt' '-ftree-phiprop'
+ '-fno-branch-count-reg' '-floop-block' '-fipa-profile'
+ '-ftree-loop-distribution' '-ftree-dce']
+
+55864	['-fsched-pressure' '-fsplit-wide-types' '-fvpt' '-ftree-loop-linear'
+ '-fno-default-inline' '-ftree-dominator-opts' '-fcompare-elim'
+ '-ftree-slsr' '-fbranch-target-load-optimize2' '-fno-sched-spec' '-flto'
+ '-fdevirtualize' '-fsched-spec-insn-heuristic' '-fcaller-saves'
+ '-fvect-cost-model' '-foptimize-sibling-calls' '-free'
+ '-fsel-sched-pipelining' '-fno-peephole2' '-ffunction-sections'
+ '-ftree-builtin-call-dce' '-fselective-scheduling2']
+
+55687	['-flto' '-funit-at-a-time' '-ftree-fre' '-fstrict-overflow'
+ '-fif-conversion' '-fsched2-use-superblocks'
+ '-fcombine-stack-adjustments' '-fno-math-errno'
+ '-funsafe-loop-optimizations' '-fbranch-target-load-optimize2'
+ '-fsched-stalled-insns-dep' '-ftree-vrp' '-fgcse-after-reload'
+ '-fthread-jumps' '-fcaller-saves' '-fcx-fortran-rules'
+ '-ftree-loop-linear' '-ftree-loop-if-convert' '-falign-jumps'
+ '-fvect-cost-model' '-ftree-pre']
+
+56942	['-fmudflapth' '-fno-peephole' '-foptimize-sibling-calls'
+ '-finline-functions-called-once' '-fpeel-loops' '-fvect-cost-model'
+ '-fif-conversion2' '-fgcse' '-fvpt' '-fno-ira-share-spill-slots'
+ '-fpredictive-commoning' '-fsched-pressure' '-fif-conversion'
+ '-fconserve-stack' '-freschedule-modulo-scheduled-loops'
+ '-fsched-spec-insn-heuristic' '-fbtr-bb-exclusive' '-ftree-forwprop'
+ '-fomit-frame-pointer' '-ftree-tail-merge' '-ftree-vectorize'
+ '-ftree-dominator-opts' '-fno-defer-pop' '-floop-strip-mine'
+ '-fcse-follow-jumps' '-ftree-copyrename' '-fno-function-cse'
+ '-falign-jumps' '-floop-interchange' '-ftree-loop-linear' '-floop-block'
+ '-fstrict-overflow' '-fcprop-registers' '-ftree-pre' '-funswitch-loops'
+ '-ffast-math' '-ftree-sink' '-funit-at-a-time' '-free'
+ '-fdelete-null-pointer-checks' '-fthread-jumps'
+ '-fvariable-expansion-in-unroller']
+
+55554	['-fgcse-lm' '-floop-interchange' '-fno-toplevel-reorder'
+ '-fira-loop-pressure' '-fweb' '-ffinite-math-only'
+ '-fsched2-use-superblocks' '-fipa-reference' '-flto' '-frounding-math'
+ '-freorder-blocks' '-fipa-pta' '-ftree-partial-pre' '-ftree-copyrename'
+ '-funroll-all-loops' '-ftree-phiprop' '-ffast-math'
+ '-ftree-loop-if-convert' '-fprefetch-loop-arrays' '-ftree-dse '
+ '-fcse-follow-jumps' '-fno-defer-pop' '-fassociative-math'
+ '-fsched-last-insn-heuristic' '-freciprocal-math' '-ftree-loop-linear'
+ '-fhoist-adjacent-loads' '-fsched-group-heuristic'
+ '-ftree-switch-conversion' '-fipa-cp-clone' '-finline-functions'
+ '-fsched-rank-heuristic' '-ftree-coalesce-vars' '-ftree-ccp'
+ '-fpeel-loops' '-fsched-dep-count-heuristic' '-fregmove']
+
+55531	['-fipa-reference' '-fcheck-data-deps'
+ '-fsel-sched-pipelining-outer-loops' '-fbranch-target-load-optimize2'
+ '-ftree-loop-optimize' '-faggressive-loop-optimizations' '-ftree-sra'
+ '-fgcse-lm' '-fipa-cp-clone' '-ftree-loop-ivcanon' '-fno-math-errno'
+ '-fipa-pta' '-ftree-ch' '-ftree-sink' '-fcprop-registers'
+ '-fkeep-static-consts' '-fweb' '-ftree-coalesce-vars' '-fsched-pressure'
+ '-fearly-inlining' '-fcompare-elim' '-ftree-copyrename'
+ '-fcombine-stack-adjustments' '-fsched-spec-load-dangerous'
+ '-fno-peephole2' '-flto' '-fforward-propagate' '-fno-branch-count-reg'
+ '-fdelayed-branch' '-fvariable-expansion-in-unroller'
+ '-foptimize-sibling-calls' '-fbtr-bb-exclusive' '-fipa-profile'
+ '-frerun-cse-after-loop' '-fgcse' '-funroll-all-loops'
+ '-fsplit-wide-types' '-floop-nest-optimize']
+
+55406	['-fkeep-static-consts' '-fsched-stalled-insns-dep' '-ftree-partial-pre'
+ '-finline-functions-called-once' '-foptimize-sibling-calls'
+ '-fpeel-loops' '-fgcse-lm' '-fprefetch-loop-arrays' '-fcprop-registers'
+ '-fno-defer-pop' '-fipa-cp-clone' '-fira-loop-pressure'
+ '-finline-functions' '-falign-jumps' '-ftree-dse ' '-ftree-loop-ivcanon'
+ '-fcaller-saves' '-ftree-phiprop' '-flto' '-fthread-jumps'
+ '-frounding-math' '-fregmove' '-funsafe-math-optimizations'
+ '-fsched-spec-insn-heuristic' '-fpredictive-commoning'
+ '-fassociative-math' '-fsched2-use-superblocks' '-fno-peephole']
+
+55894	['-fcombine-stack-adjustments' '-fsel-sched-pipelining-outer-loops'
+ '-flto' '-ftree-tail-merge' '-ftree-forwprop' '-fsched-pressure'
+ '-funsafe-math-optimizations' '-fcompare-elim' '-fsched-group-heuristic'
+ '-fcprop-registers' '-fkeep-static-consts' '-floop-interchange'
+ '-fvariable-expansion-in-unroller' '-finline-functions' '-ftree-sra'
+ '-fselective-scheduling' '-ftree-loop-ivcanon' '-fdevirtualize'
+ '-ftree-dce' '-fgraphite-identity' '-fprofile-values ' '-fpeel-loops'
+ '-floop-block' '-fsched-rank-heuristic' '-fipa-reference'
+ '-freciprocal-math' '-fbtr-bb-exclusive' '-fmerge-all-constants'
+ '-ftree-coalesce-vars' '-fsched-spec-load' '-floop-strip-mine'
+ '-fsched2-use-superblocks' '-fgcse-lm' '-fregmove' '-ftree-ch'
+ '-fpredictive-commoning' '-ffunction-sections' '-funswitch-loops'
+ '-freorder-blocks' '-fsched-spec-insn-heuristic' '-fno-peephole'
+ '-freorder-blocks-and-partition']
+
+55749	['-fsched2-use-superblocks' '-fcrossjumping' '-fassociative-math'
+ '-fipa-cp-clone' '-ftree-dse ' '-fno-math-errno' '-fhoist-adjacent-loads'
+ '-fgraphite-identity' '-ffast-math' '-freciprocal-math'
+ '-fselective-scheduling' '-ffunction-sections' '-finline-small-functions'
+ '-ftree-loop-ivcanon' '-fmudflapth' '-fsched-stalled-insns'
+ '-funsafe-loop-optimizations' '-fregmove' '-fno-peephole'
+ '-fipa-reference' '-fif-conversion2' '-frounding-math' '-fivopts'
+ '-fgcse-lm' '-fsection-anchors' '-fif-conversion' '-ftree-sink'
+ '-fbtr-bb-exclusive' '-fcx-fortran-rules' '-floop-strip-mine'
+ '-fgcse-after-reload' '-flto' '-fno-peephole2' '-fconserve-stack'
+ '-fno-sched-spec' '-fsched-dep-count-heuristic']
+
+56791	['-finline-functions-called-once' '-ffast-math' '-funit-at-a-time'
+ '-foptimize-sibling-calls' '-falign-functions' '-ftree-forwprop'
+ '-ftree-loop-ivcanon' '-ftree-sra' '-fsched-group-heuristic'
+ '-fipa-pure-const' '-fno-sched-spec' '-fgraphite-identity' '-ftree-vrp']
+
+56944	['-funsafe-math-optimizations' '-fselective-scheduling' '-fivopts'
+ '-ftree-switch-conversion' '-fmudflapth' '-fauto-inc-dec'
+ '-ffunction-sections' '-fpeel-loops' '-fsched-last-insn-heuristic']
+
+57095	['-fconserve-stack' '-ftree-loop-ivcanon' '-fsched-group-heuristic']
+
+55030	['-fcaller-saves' '-fdevirtualize' '-funit-at-a-time'
+ '-fprefetch-loop-arrays' '-falign-loops' '-fsched-rank-heuristic'
+ '-fbtr-bb-exclusive' '-fipa-pure-const' '-freorder-functions'
+ '-ftree-dominator-opts' '-ffast-math' '-funsafe-math-optimizations'
+ '-fno-ira-share-spill-slots' '-fhoist-adjacent-loads' '-fsched-spec-load'
+ '-fno-peephole2' '-fgcse-sm' '-fgcse-after-reload' '-fif-conversion2'
+ '-fkeep-static-consts' '-fmerge-constants' '-ffinite-math-only'
+ '-ftree-ccp' '-ftree-builtin-call-dce' '-ftree-ter'
+ '-funsafe-loop-optimizations' '-fbranch-target-load-optimize2'
+ '-fno-branch-count-reg' '-fcombine-stack-adjustments' '-fgcse-lm'
+ '-fauto-inc-dec' '-fno-peephole' '-free' '-ftree-loop-distribution'
+ '-fthread-jumps' '-fcse-follow-jumps'
+ '-fsel-sched-pipelining-outer-loops' '-fno-defer-pop'
+ '-fno-default-inline' '-flto' '-fregmove' '-ftree-partial-pre'
+ '-ffunction-sections' '-ftree-vrp' '-ftree-pta' '-fivopts'
+ '-fconserve-stack']
+
+55826	['-fdelayed-branch' '-fsched-dep-count-heuristic'
+ '-fcombine-stack-adjustments' '-ftree-loop-distribute-patterns'
+ '-fno-ira-share-spill-slots' '-fsched-spec-load' '-flto' '-fivopts'
+ '-fearly-inlining' '-fsel-sched-pipelining-outer-loops' '-ftree-sra'
+ '-fno-math-errno' '-fassociative-math' '-ftree-coalesce-vars' '-fweb'
+ '-freorder-blocks-and-partition' '-fipa-cp-clone'
+ '-fsched-spec-insn-heuristic' '-fno-trapping-math' '-fcx-fortran-rules'
+ '-ftree-ccp' '-flto-report' '-ftree-switch-conversion']
+
+55734	['-flto' '-ftree-loop-ivcanon' '-fvariable-expansion-in-unroller'
+ '-fforward-propagate' '-fgcse' '-flto-report' '-ftree-sra'
+ '-fcompare-elim' '-ftree-loop-distribution'
+ '-fdelete-null-pointer-checks' '-fsection-anchors'
+ '-fsched-stalled-insns' '-fsplit-wide-types' '-ftree-copy-prop'
+ '-ftree-switch-conversion' '-fivopts' '-ftree-ccp' '-fregmove'
+ '-fgcse-after-reload' '-freorder-blocks-and-partition'
+ '-fcprop-registers' '-fhoist-adjacent-loads' '-foptimize-register-move'
+ '-ftree-vrp' '-funit-at-a-time' '-floop-strip-mine' '-fweb'
+ '-falign-functions' '-ftree-pta' '-floop-nest-optimize'
+ '-ftree-tail-merge' '-fselective-scheduling' '-fconserve-stack'
+ '-fcse-skip-blocks' '-fprefetch-loop-arrays' '-fsched2-use-superblocks'
+ '-fno-math-errno' '-ftree-vectorize' '-fmerge-constants' '-ftree-ch'
+ '-floop-interchange' '-ftree-forwprop']
+
+57058	['-foptimize-sibling-calls' '-fcse-follow-jumps' '-fhoist-adjacent-loads'
+ '-fcaller-saves' '-fcheck-data-deps' '-fgraphite-identity'
+ '-fdevirtualize' '-funit-at-a-time' '-fsched-last-insn-heuristic'
+ '-fif-conversion2' '-fmerge-constants' '-ftree-loop-distribution']
+
+57043	['-ftree-tail-merge' '-funsafe-math-optimizations' '-fira-loop-pressure'
+ '-floop-block' '-finline-functions' '-ffast-math' '-floop-strip-mine'
+ '-fsplit-wide-types' '-fstrict-overflow' '-funsafe-loop-optimizations'
+ '-fhoist-adjacent-loads' '-falign-loops' '-freciprocal-math'
+ '-fcombine-stack-adjustments' '-fdata-sections']
+
+56147	['-fcx-limited-range' '-fsel-sched-pipelining-outer-loops' '-fregmove'
+ '-fno-branch-count-reg' '-ftree-dominator-opts' '-fivopts' '-flto-report'
+ '-flto' '-fno-default-inline']
+
+55193	['-ftree-copyrename' '-ftree-loop-ivcanon' '-fsel-sched-pipelining'
+ '-fno-default-inline' '-fira-hoist-pressure'
+ '-fsel-sched-pipelining-outer-loops' '-fno-branch-count-reg'
+ '-fno-math-errno' '-ftree-ch' '-freorder-blocks' '-ftree-bit-ccp'
+ '-ftree-sra' '-fcprop-registers' '-ftree-partial-pre'
+ '-fsched-stalled-insns' '-flto' '-ftree-pta' '-ftree-vrp' '-fregmove'
+ '-fprefetch-loop-arrays' '-ffinite-math-only' '-ftree-dse '
+ '-fcompare-elim' '-fsched-last-insn-heuristic' '-fstack-protector'
+ '-fgraphite-identity' '-fgcse-lm' '-fdata-sections' '-ffunction-sections'
+ '-funit-at-a-time' '-ftree-pre' '-fkeep-static-consts'
+ '-fno-ira-share-spill-slots' '-fcx-fortran-rules' '-fassociative-math'
+ '-fno-toplevel-reorder' '-ftree-loop-distribution' '-fdevirtualize'
+ '-floop-strip-mine' '-fno-function-cse' '-fpeel-loops'
+ '-fgcse-after-reload' '-fcheck-data-deps' '-ftree-dominator-opts'
+ '-falign-loops' '-fvariable-expansion-in-unroller' '-ftree-loop-linear']
+
+56090	['-fgraphite-identity' '-ftree-switch-conversion' '-fsched-stalled-insns'
+ '-funit-at-a-time' '-freciprocal-math' '-fno-ira-share-spill-slots'
+ '-free' '-floop-strip-mine' '-fshrink-wrap' '-fsched-rank-heuristic'
+ '-falign-labels' '-fira-loop-pressure' '-fdelete-null-pointer-checks'
+ '-ftree-bit-ccp' '-ftree-coalesce-vars' '-fdata-sections'
+ '-fif-conversion' '-ftree-partial-pre' '-fkeep-static-consts'
+ '-ftree-loop-distribution' '-ftree-copy-prop' '-fregmove'
+ '-fcx-fortran-rules' '-fno-default-inline' '-fauto-inc-dec'
+ '-funsafe-loop-optimizations' '-fcompare-elim' '-frounding-math']
+
+54209	['-ftree-loop-linear' '-fvpt' '-fpeel-loops' '-funsafe-math-optimizations'
+ '-fif-conversion' '-fgcse-lm' '-foptimize-sibling-calls'
+ '-ftree-switch-conversion' '-flto' '-fsched-dep-count-heuristic'
+ '-fno-default-inline' '-fcse-follow-jumps' '-fipa-pure-const'
+ '-fsched-group-heuristic' '-fcombine-stack-adjustments' '-free'
+ '-falign-loops' '-fvariable-expansion-in-unroller' '-fshrink-wrap'
+ '-ftree-loop-ivcanon' '-fcprop-registers' '-fno-defer-pop'
+ '-fno-sched-spec' '-fpredictive-commoning' '-fsection-anchors'
+ '-fhoist-adjacent-loads' '-fira-hoist-pressure' '-fno-peephole'
+ '-fdelete-null-pointer-checks' '-fsel-sched-pipelining' '-fcaller-saves'
+ '-ftree-ccp' '-ftree-ter' '-fauto-inc-dec' '-ffast-math'
+ '-fprefetch-loop-arrays' '-fgcse-after-reload' '-fkeep-static-consts'
+ '-ftree-partial-pre' '-fgraphite-identity' '-fdce'
+ '-foptimize-register-move' '-fivopts' '-ftree-dse ' '-fmudflapth']
+
+54849	['-fno-peephole' '-ftree-copyrename' '-ftree-sink' '-fdata-sections'
+ '-fcse-follow-jumps' '-fno-math-errno' '-frounding-math'
+ '-freciprocal-math' '-ftree-forwprop' '-fsched-pressure'
+ '-fipa-reference' '-fdelete-null-pointer-checks' '-ftree-sra' '-fgcse-sm'
+ '-fpredictive-commoning' '-ftree-builtin-call-dce'
+ '-freorder-blocks-and-partition' '-finline-functions'
+ '-fgraphite-identity' '-falign-loops'
+ '-fsel-sched-pipelining-outer-loops' '-fmove-loop-invariants'
+ '-ftree-loop-optimize' '-fregmove' '-ffast-math' '-fselective-scheduling'
+ '-flto' '-fcompare-elim' '-fgcse-after-reload'
+ '-finline-functions-called-once' '-funswitch-loops' '-fira-loop-pressure'
+ '-ftree-tail-merge' '-fsched2-use-superblocks' '-ftree-bit-ccp'
+ '-fno-function-cse' '-fselective-scheduling2' '-ftree-ccp'
+ '-fira-hoist-pressure' '-fcrossjumping' '-fno-defer-pop'
+ '-fsection-anchors' '-fsched-last-insn-heuristic' '-ffinite-math-only'
+ '-fsched-group-heuristic' '-funsafe-loop-optimizations'
+ '-ftree-switch-conversion' '-fpeel-loops' '-fshrink-wrap']
+
+54702	['-ftree-builtin-call-dce' '-funit-at-a-time' '-fcprop-registers'
+ '-ftree-pta' '-fcompare-elim' '-fipa-cp-clone' '-fgcse-lm'
+ '-fauto-inc-dec' '-fif-conversion' '-fsection-anchors' '-fno-defer-pop'
+ '-fvpt' '-fivopts' '-faggressive-loop-optimizations' '-ftree-ch'
+ '-ftree-ter' '-fvariable-expansion-in-unroller' '-ftree-dse '
+ '-ftree-switch-conversion' '-fsched-pressure' '-fno-function-cse'
+ '-fselective-scheduling' '-ftree-loop-optimize' '-fstrict-overflow'
+ '-foptimize-sibling-calls' '-fno-peephole2' '-fstrict-aliasing'
+ '-fsched-group-heuristic' '-fshrink-wrap' '-fsched-dep-count-heuristic'
+ '-fsched2-use-superblocks' '-fmudflapth' '-fipa-reference'
+ '-fbranch-target-load-optimize2' '-fno-peephole' '-fprofile-values '
+ '-fregmove' '-ffunction-sections' '-ftree-dce' '-fconserve-stack' '-flto'
+ '-ftree-ccp' '-fgraphite-identity' '-ftree-dominator-opts' '-ftree-sra'
+ '-ftree-partial-pre' '-floop-strip-mine' '-fassociative-math']
+
+55038	['-floop-interchange' '-ftree-tail-merge' '-ftree-sra'
+ '-fno-branch-count-reg' '-funit-at-a-time' '-fhoist-adjacent-loads'
+ '-ftree-partial-pre' '-fipa-profile' '-fcompare-elim' '-fpeel-loops'
+ '-fsched-pressure' '-ftree-pre' '-ftree-loop-optimize' '-flto'
+ '-ffast-math' '-fno-function-cse' '-fsched2-use-superblocks'
+ '-fif-conversion2' '-freciprocal-math' '-fno-toplevel-reorder'
+ '-ftree-forwprop' '-fdelayed-branch' '-fthread-jumps'
+ '-ftree-switch-conversion' '-fivopts' '-fira-loop-pressure'
+ '-fsched-spec-load-dangerous' '-fselective-scheduling' '-ftree-vrp'
+ '-fregmove' '-fsched-group-heuristic' '-fbranch-target-load-optimize2'
+ '-ftree-copy-prop' '-funroll-all-loops' '-fassociative-math'
+ '-foptimize-sibling-calls' '-fcx-limited-range' '-fno-peephole'
+ '-freorder-blocks' '-fipa-cp-clone' '-fno-defer-pop']
+
+56149	['-fdce' '-ftree-pta' '-ffast-math' '-ftree-ccp' '-floop-nest-optimize'
+ '-fno-sched-spec' '-fno-toplevel-reorder' '-foptimize-sibling-calls'
+ '-fthread-jumps' '-fauto-inc-dec' '-ftree-dce' '-fno-trapping-math'
+ '-fmudflapth' '-fgcse-lm' '-fira-hoist-pressure' '-fgcse-after-reload'
+ '-fivopts' '-fcaller-saves' '-fcompare-elim' '-fvpt' '-fno-math-errno'
+ '-fgraphite-identity' '-floop-strip-mine' '-ftree-copy-prop'
+ '-falign-labels' '-ftree-vectorize' '-fira-loop-pressure'
+ '-fselective-scheduling' '-funsafe-loop-optimizations'
+ '-fsel-sched-pipelining-outer-loops' '-funswitch-loops' '-free'
+ '-ftree-copyrename' '-fearly-inlining' '-fbranch-target-load-optimize2'
+ '-fregmove' '-ftree-fre' '-ftree-dse ' '-faggressive-loop-optimizations'
+ '-fpredictive-commoning' '-fsched-critical-path-heuristic'
+ '-freciprocal-math' '-freorder-functions' '-fforward-propagate'
+ '-fsched2-use-superblocks' '-ftree-phiprop']
+
+56427	['-fsched2-use-superblocks' '-floop-interchange' '-fprefetch-loop-arrays'
+ '-falign-loops' '-fdelete-null-pointer-checks' '-fno-branch-count-reg'
+ '-fvariable-expansion-in-unroller' '-fsched-dep-count-heuristic'
+ '-funswitch-loops' '-fbtr-bb-exclusive' '-ftree-loop-optimize'
+ '-fhoist-adjacent-loads' '-ffunction-sections' '-foptimize-register-move'
+ '-fvpt' '-fgcse-sm' '-ftree-coalesce-vars' '-ftree-loop-ivcanon'
+ '-fipa-cp-clone' '-fsplit-wide-types' '-fcse-follow-jumps'
+ '-fno-function-cse' '-ftree-builtin-call-dce' '-ftree-forwprop'
+ '-fearly-inlining' '-fcse-skip-blocks' '-fdevirtualize'
+ '-fmerge-all-constants' '-ftree-loop-linear' '-fsched-group-heuristic'
+ '-fsched-rank-heuristic' '-ffinite-math-only' '-fsched-stalled-insns-dep'
+ '-fif-conversion2' '-fforward-propagate' '-fpeel-loops' '-fif-conversion'
+ '-fgraphite-identity' '-fsched-pressure' '-funit-at-a-time'
+ '-ftree-loop-distribute-patterns' '-fno-default-inline'
+ '-fsel-sched-pipelining-outer-loops' '-fipa-reference' '-ftree-pre']
+
+54643	['-fsched-stalled-insns-dep' '-ftree-copy-prop' '-fno-peephole2'
+ '-finline-small-functions' '-ftree-partial-pre' '-fconserve-stack'
+ '-ftree-dominator-opts' '-ffunction-sections' '-funit-at-a-time'
+ '-funsafe-math-optimizations' '-funsafe-loop-optimizations'
+ '-fpeel-loops' '-fcprop-registers' '-ftree-pta' '-ftree-slsr'
+ '-ftree-coalesce-vars' '-ftree-loop-ivcanon' '-fgcse-sm' '-fmudflapth'
+ '-fselective-scheduling' '-fvariable-expansion-in-unroller' '-ftree-ch'
+ '-fivopts' '-fauto-inc-dec' '-fsel-sched-pipelining' '-fdce'
+ '-fsched-rank-heuristic' '-fsched2-use-superblocks' '-ffast-math'
+ '-fgcse-after-reload' '-fif-conversion2' '-ftree-sink'
+ '-floop-strip-mine' '-fipa-pure-const' '-ftree-loop-linear'
+ '-fkeep-static-consts' '-fvpt' '-fcompare-elim' '-flto'
+ '-ftree-switch-conversion' '-funswitch-loops' '-fcx-limited-range'
+ '-fsched-stalled-insns' '-finline-functions' '-fno-peephole' '-fgcse']
+
+56169	['-fsched-rank-heuristic' '-fgcse' '-fvariable-expansion-in-unroller'
+ '-fno-branch-count-reg' '-fkeep-static-consts' '-fmudflapth'
+ '-fipa-pure-const' '-ftree-coalesce-vars' '-fhoist-adjacent-loads'
+ '-fauto-inc-dec' '-fno-math-errno' '-fsel-sched-pipelining'
+ '-floop-strip-mine' '-fprefetch-loop-arrays' '-flto-report'
+ '-ffunction-sections' '-fstrict-aliasing' '-fsched-stalled-insns'
+ '-ftree-partial-pre' '-fgraphite-identity' '-ftree-loop-ivcanon'
+ '-fbranch-target-load-optimize2' '-ftree-copyrename' '-fearly-inlining']
+
+56820	['-funsafe-loop-optimizations' '-fsched-group-heuristic'
+ '-fipa-pure-const' '-foptimize-sibling-calls' '-fshrink-wrap'
+ '-ffast-math' '-falign-labels' '-fthread-jumps' '-floop-nest-optimize'
+ '-fkeep-static-consts' '-fpredictive-commoning' '-fcompare-elim'
+ '-fipa-reference' '-fselective-scheduling']
+
+54616	['-ftree-builtin-call-dce' '-fno-default-inline' '-fif-conversion' '-free'
+ '-fpeel-loops' '-fipa-reference' '-ftree-bit-ccp' '-ffinite-math-only'
+ '-fira-loop-pressure' '-fhoist-adjacent-loads' '-fcaller-saves'
+ '-ftree-switch-conversion' '-flto' '-ftree-pta' '-ftree-copyrename'
+ '-fno-math-errno' '-ftree-tail-merge' '-floop-interchange'
+ '-fno-peephole' '-fprefetch-loop-arrays' '-fconserve-stack'
+ '-fsched-last-insn-heuristic' '-fweb' '-fif-conversion2'
+ '-ftree-loop-optimize' '-fgcse-sm' '-ftree-ter' '-fsched-spec-load'
+ '-fgcse-after-reload' '-ftree-loop-distribute-patterns'
+ '-fcombine-stack-adjustments' '-fvpt' '-fivopts' '-freorder-blocks'
+ '-fshrink-wrap' '-fno-branch-count-reg' '-foptimize-sibling-calls'
+ '-funroll-all-loops' '-ftree-ccp' '-fvariable-expansion-in-unroller']
+
+55727	['-ftree-loop-if-convert' '-fcrossjumping' '-ftree-partial-pre'
+ '-fearly-inlining' '-ftree-sra' '-fhoist-adjacent-loads'
+ '-fif-conversion2' '-fsel-sched-pipelining' '-funsafe-loop-optimizations'
+ '-fcombine-stack-adjustments' '-fsched-last-insn-heuristic'
+ '-ftree-copyrename' '-funswitch-loops' '-ftree-vrp' '-ftree-vectorize'
+ '-ftree-slsr' '-finline-functions' '-fno-sched-spec' '-fivopts'
+ '-fvect-cost-model' '-fipa-cp-clone' '-ftree-ch' '-funit-at-a-time'
+ '-fsched-pressure']
+
+55589	['-fstrict-aliasing' '-flto' '-fdce' '-ftree-sink' '-ftree-ccp' '-fivopts'
+ '-floop-block' '-fno-peephole' '-ftree-loop-if-convert' '-fif-conversion'
+ '-fhoist-adjacent-loads' '-fsched-rank-heuristic' '-ftree-tail-merge'
+ '-fno-defer-pop' '-finline-functions' '-fipa-reference'
+ '-ftree-partial-pre' '-floop-strip-mine' '-fsched-stalled-insns'
+ '-fconserve-stack' '-funswitch-loops' '-fgcse-after-reload'
+ '-fthread-jumps' '-ftree-fre' '-ffunction-sections' '-fno-sched-spec']
+
+54977	['-ftree-loop-optimize' '-fcse-follow-jumps' '-fipa-pure-const' '-flto'
+ '-fthread-jumps' '-ffinite-math-only'
+ '-fsel-sched-pipelining-outer-loops' '-fomit-frame-pointer'
+ '-fshrink-wrap' '-fmudflapth' '-fhoist-adjacent-loads' '-fno-peephole'
+ '-fgraphite-identity' '-fregmove' '-fno-ira-share-spill-slots'
+ '-fcx-limited-range' '-ftree-bit-ccp' '-ffunction-sections'
+ '-floop-strip-mine' '-freciprocal-math' '-fsection-anchors'
+ '-funroll-all-loops' '-fbtr-bb-exclusive' '-freorder-functions'
+ '-funswitch-loops' '-finline-functions-called-once' '-fgcse-lm'
+ '-fgcse-after-reload' '-ftree-builtin-call-dce'
+ '-fcombine-stack-adjustments' '-fconserve-stack'
+ '-freschedule-modulo-scheduled-loops' '-funsafe-loop-optimizations'
+ '-fipa-reference' '-fno-defer-pop' '-fselective-scheduling'
+ '-ftree-loop-distribution']
+
+56736	['-fno-default-inline' '-fira-loop-pressure' '-fauto-inc-dec' '-fdce'
+ '-ftree-copyrename' '-ftree-copy-prop' '-fselective-scheduling'
+ '-ftree-sra' '-fkeep-static-consts' '-free' '-fsched-pressure'
+ '-fhoist-adjacent-loads' '-fdelayed-branch' '-ftree-coalesce-vars'
+ '-fvariable-expansion-in-unroller' '-fif-conversion'
+ '-fmerge-all-constants' '-foptimize-sibling-calls'
+ '-fsel-sched-pipelining' '-funroll-loops' '-fgcse-after-reload'
+ '-fcse-follow-jumps' '-fno-function-cse' '-fpeel-loops'
+ '-ftree-switch-conversion' '-ftree-loop-optimize' '-ftree-loop-ivcanon'
+ '-fmudflapth' '-freorder-blocks' '-fsched-rank-heuristic'
+ '-floop-strip-mine' '-ftree-vrp' '-floop-interchange' '-ftree-ter'
+ '-fcaller-saves' '-falign-labels' '-ftree-ccp' '-fno-defer-pop'
+ '-fforward-propagate' '-ftree-pre' '-fcprop-registers' '-ftree-vectorize'
+ '-ftree-sink' '-fthread-jumps' '-fcompare-elim' '-fno-trapping-math'
+ '-fbranch-target-load-optimize2' '-fsched-spec-load-dangerous'
+ '-flto-report' '-fsection-anchors']
+
+55515	['-flto' '-fselective-scheduling' '-fpredictive-commoning'
+ '-fgraphite-identity' '-fno-function-cse' '-ftree-reassoc'
+ '-freschedule-modulo-scheduled-loops' '-fconserve-stack' '-ftree-sra'
+ '-ftree-loop-distribution' '-fsched2-use-superblocks' '-ftree-ter'
+ '-ftree-dse ' '-falign-functions' '-fno-defer-pop'
+ '-funsafe-math-optimizations']
+
+56399	['-fif-conversion' '-fregmove' '-fmove-loop-invariants' '-fdelayed-branch'
+ '-fauto-inc-dec' '-fbranch-target-load-optimize2'
+ '-fhoist-adjacent-loads' '-falign-functions'
+ '-freschedule-modulo-scheduled-loops' '-finline-small-functions'
+ '-fsched-stalled-insns-dep' '-ftree-ccp' '-foptimize-sibling-calls'
+ '-fselective-scheduling' '-ftree-loop-linear' '-ftree-sink'
+ '-ftree-copy-prop' '-fsel-sched-pipelining-outer-loops' '-ftree-sra'
+ '-ffast-math' '-fsplit-wide-types' '-fno-toplevel-reorder'
+ '-fcx-limited-range' '-fno-sched-spec' '-fprofile-values '
+ '-freorder-blocks-and-partition' '-ftree-phiprop' '-freorder-blocks'
+ '-ftree-tail-merge' '-ftree-dominator-opts' '-fassociative-math'
+ '-fpredictive-commoning' '-floop-interchange' '-fno-default-inline'
+ '-fsched-rank-heuristic' '-funsafe-math-optimizations']
+
+55210	['-fvariable-expansion-in-unroller' '-fmudflapth' '-fno-trapping-math'
+ '-fkeep-static-consts' '-fgraphite-identity'
+ '-funsafe-loop-optimizations' '-ftree-coalesce-vars' '-fno-math-errno'
+ '-falign-loops' '-ftree-builtin-call-dce' '-fomit-frame-pointer'
+ '-ftree-loop-optimize' '-freciprocal-math' '-ftree-switch-conversion'
+ '-flto' '-ftree-tail-merge' '-fcheck-data-deps' '-finline-functions'
+ '-fira-loop-pressure' '-fsched-pressure' '-fmove-loop-invariants'
+ '-ftree-pre' '-falign-labels']
+
+54737	['-floop-block' '-ftree-slsr' '-ftree-sra' '-flto' '-fassociative-math'
+ '-falign-loops' '-fno-peephole2' '-fforward-propagate'
+ '-fsched-spec-insn-heuristic' '-ftree-phiprop' '-fearly-inlining'
+ '-fipa-cp-clone' '-ftree-loop-optimize' '-ftree-dse ' '-fno-function-cse'
+ '-ftree-loop-ivcanon' '-fsched-last-insn-heuristic' '-fno-defer-pop'
+ '-ffast-math' '-floop-strip-mine' '-ffinite-math-only' '-freorder-blocks'
+ '-fdata-sections' '-fcombine-stack-adjustments' '-ftree-pre'
+ '-fpredictive-commoning' '-fprefetch-loop-arrays' '-fipa-pure-const']
+
+55184	['-flto' '-fgcse-after-reload' '-fsched-rank-heuristic'
+ '-fsched-spec-load' '-finline-functions-called-once'
+ '-fmove-loop-invariants' '-fno-function-cse' '-ftree-reassoc'
+ '-fcrossjumping' '-ftree-ter' '-fipa-cp-clone' '-ftree-loop-linear'
+ '-fconserve-stack' '-ftree-coalesce-vars' '-ftree-vrp'
+ '-ftree-loop-ivcanon' '-fno-peephole2' '-fsched-last-insn-heuristic'
+ '-fkeep-static-consts' '-floop-nest-optimize'
+ '-fno-ira-share-spill-slots' '-fpeel-loops' '-ftree-partial-pre'
+ '-ftree-loop-optimize' '-fsched-dep-count-heuristic' '-fif-conversion2'
+ '-fno-branch-count-reg' '-fdevirtualize' '-funsafe-loop-optimizations'
+ '-fcombine-stack-adjustments' '-fsched-stalled-insns-dep'
+ '-fcheck-data-deps' '-funsafe-math-optimizations']
+
+54980	['-fprefetch-loop-arrays' '-fira-loop-pressure' '-floop-block'
+ '-frounding-math' '-ffast-math' '-funsafe-math-optimizations'
+ '-fcx-limited-range' '-fsel-sched-pipelining'
+ '-ftree-loop-distribute-patterns' '-fhoist-adjacent-loads'
+ '-floop-strip-mine' '-fno-peephole2' '-fgcse-after-reload'
+ '-fipa-cp-clone' '-fdelayed-branch' '-ftree-loop-linear'
+ '-fipa-reference' '-ftree-pre' '-fassociative-math' '-ftree-bit-ccp'
+ '-fgcse-sm' '-flto' '-funroll-all-loops'
+ '-fsel-sched-pipelining-outer-loops' '-ftree-ccp' '-ftree-ch'
+ '-ftree-loop-optimize' '-ftree-copyrename' '-fsched-stalled-insns'
+ '-finline-small-functions' '-floop-nest-optimize' '-ftree-dominator-opts'
+ '-fgcse-lm' '-fno-peephole' '-ftree-vrp' '-fmerge-all-constants'
+ '-fno-branch-count-reg']
+
+55468	['-fsched-stalled-insns-dep' '-flto' '-ftree-ch'
+ '-freschedule-modulo-scheduled-loops']
+
+55070	['-fgraphite-identity' '-fconserve-stack' '-ftree-pre' '-ftree-vrp'
+ '-fkeep-static-consts' '-fpeel-loops' '-fcprop-registers'
+ '-freorder-blocks-and-partition' '-fno-peephole' '-flto'
+ '-fsched-stalled-insns' '-funsafe-loop-optimizations' '-fno-math-errno'
+ '-ftree-partial-pre' '-ftree-loop-ivcanon' '-fomit-frame-pointer'
+ '-fno-defer-pop' '-ftree-loop-optimize']
+
+54728	['-ftree-copyrename' '-fsched-pressure' '-fivopts'
+ '-foptimize-sibling-calls' '-fsched-rank-heuristic' '-fno-default-inline'
+ '-ftree-coalesce-vars' '-flto-report' '-fipa-reference' '-fno-sched-spec'
+ '-fpeel-loops' '-fearly-inlining' '-flto' '-fauto-inc-dec'
+ '-fcaller-saves' '-floop-strip-mine' '-fprefetch-loop-arrays'
+ '-fno-trapping-math' '-ffast-math' '-fsel-sched-pipelining-outer-loops'
+ '-fmove-loop-invariants']
+
+55137	['-funsafe-loop-optimizations' '-fcombine-stack-adjustments'
+ '-ftree-loop-ivcanon' '-freciprocal-math' '-ftree-vrp'
+ '-fpredictive-commoning' '-fweb' '-fthread-jumps'
+ '-fhoist-adjacent-loads' '-free' '-fno-math-errno' '-floop-nest-optimize'
+ '-funswitch-loops' '-flto' '-fif-conversion' '-finline-small-functions'
+ '-fcse-skip-blocks' '-fbranch-target-load-optimize2'
+ '-ftree-builtin-call-dce' '-ffast-math' '-frounding-math'
+ '-fsched-last-insn-heuristic' '-ftree-switch-conversion'
+ '-ftree-loop-distribution' '-floop-interchange'
+ '-fsched2-use-superblocks' '-funsafe-math-optimizations']
+
+56761	['-fearly-inlining' '-fbranch-target-load-optimize2'
+ '-fsched-stalled-insns' '-fno-default-inline' '-ftree-ch'
+ '-fcx-limited-range' '-fhoist-adjacent-loads' '-fstrict-aliasing'
+ '-fschedule-insns2' '-fdce' '-ftree-tail-merge'
+ '-ftree-loop-distribution']
+
+55107	['-fvpt' '-ftree-slsr' '-funsafe-math-optimizations' '-fgcse'
+ '-fsched2-use-superblocks' '-fcx-limited-range' '-falign-loops'
+ '-ffinite-math-only' '-ftree-tail-merge' '-fgcse-after-reload'
+ '-fcse-follow-jumps' '-ftree-pre' '-fcaller-saves'
+ '-fno-ira-share-spill-slots' '-fno-peephole' '-fmerge-all-constants'
+ '-flto' '-ftree-loop-ivcanon' '-fdata-sections' '-fdelayed-branch'
+ '-ftree-loop-distribution' '-ftree-dse ' '-ftree-sra'
+ '-ftree-loop-linear' '-fno-toplevel-reorder' '-ftree-switch-conversion'
+ '-fdce' '-ftree-coalesce-vars' '-fbranch-target-load-optimize2'
+ '-fregmove' '-fgcse-sm' '-ftree-pta' '-freciprocal-math']
+
+55063	['-fsched-stalled-insns' '-ffinite-math-only' '-fgcse-after-reload'
+ '-fno-ira-share-spill-slots' '-ffast-math' '-fprofile-values '
+ '-foptimize-sibling-calls' '-fvariable-expansion-in-unroller'
+ '-fsched-spec-insn-heuristic' '-ftree-copyrename' '-floop-nest-optimize'
+ '-flto' '-finline-functions' '-freorder-functions' '-fshrink-wrap'
+ '-floop-strip-mine' '-fassociative-math' '-fpeel-loops' '-fmudflapth'
+ '-fipa-profile' '-funsafe-math-optimizations' '-ftree-pta'
+ '-fsched-pressure' '-fcx-fortran-rules' '-ftree-dse '
+ '-floop-interchange' '-ftree-partial-pre']
+
+55161	['-fsched-last-insn-heuristic' '-fmudflapth' '-ftree-copyrename'
+ '-ftree-ccp' '-fsched-rank-heuristic' '-ftree-vrp' '-flto'
+ '-fipa-reference' '-fipa-pta' '-fno-peephole2' '-finline-functions'
+ '-floop-block' '-fshrink-wrap' '-fcx-limited-range'
+ '-ftree-builtin-call-dce' '-fsel-sched-pipelining' '-ftree-bit-ccp'
+ '-fgcse' '-funsafe-loop-optimizations' '-fkeep-static-consts'
+ '-ftree-switch-conversion' '-fno-default-inline' '-frounding-math'
+ '-fvect-cost-model' '-freorder-blocks-and-partition' '-freorder-blocks']
+
+56680	['-fno-defer-pop' '-fsched-last-insn-heuristic'
+ '-fno-ira-share-spill-slots' '-fivopts' '-finline-small-functions'
+ '-finline-functions' '-fshrink-wrap' '-floop-nest-optimize'
+ '-fira-hoist-pressure' '-ftree-copyrename' '-fif-conversion'
+ '-fconserve-stack' '-ftree-vrp' '-foptimize-register-move' '-ftree-pre'
+ '-frounding-math' '-fif-conversion2' '-fgcse-after-reload' '-ftree-ch'
+ '-fauto-inc-dec' '-fregmove' '-falign-loops' '-fsched-rank-heuristic'
+ '-fgcse']
+
+55947	['-fdce' '-fdata-sections' '-funit-at-a-time' '-fsection-anchors' '-flto'
+ '-ftree-pta' '-ftree-vrp' '-fsched-rank-heuristic' '-fshrink-wrap'
+ '-fthread-jumps' '-fsched-dep-count-heuristic'
+ '-freorder-blocks-and-partition' '-fno-branch-count-reg' '-ftree-dse '
+ '-finline-functions-called-once' '-fmerge-constants' '-fcompare-elim'
+ '-ftree-loop-optimize' '-ftree-coalesce-vars' '-fmerge-all-constants'
+ '-fno-sched-spec' '-fstrict-aliasing' '-ftree-forwprop' '-fno-math-errno'
+ '-fselective-scheduling2' '-floop-block' '-fmudflapth'
+ '-funsafe-loop-optimizations' '-free' '-fcse-follow-jumps'
+ '-fgraphite-identity' '-fcheck-data-deps' '-fregmove' '-fvpt'
+ '-ftree-loop-linear' '-fsched-pressure' '-fcaller-saves'
+ '-fipa-reference' '-fif-conversion2' '-fipa-pta' '-fno-function-cse'
+ '-fsched-stalled-insns-dep' '-ffunction-sections' '-fgcse'
+ '-floop-nest-optimize' '-ftree-builtin-call-dce']
+
+57749	['-fshrink-wrap' '-fstrict-aliasing' '-fvariable-expansion-in-unroller'
+ '-ftree-ter' '-fassociative-math' '-ftree-bit-ccp' '-frounding-math'
+ '-ftree-coalesce-vars' '-fgcse-after-reload' '-fno-trapping-math'
+ '-ftree-sra' '-ftree-vrp' '-ftree-pre' '-fvpt' '-floop-interchange'
+ '-finline-functions' '-fmove-loop-invariants' '-fno-peephole2'
+ '-ftree-ccp' '-fvect-cost-model' '-fcse-skip-blocks' '-ftree-sink'
+ '-fhoist-adjacent-loads' '-fcx-fortran-rules' '-freciprocal-math'
+ '-fipa-cp-clone' '-ftree-dce' '-funit-at-a-time'
+ '-fsched2-use-superblocks' '-ftree-copyrename' '-fkeep-static-consts'
+ '-ffast-math' '-funsafe-loop-optimizations' '-fsched-pressure'
+ '-fira-loop-pressure' '-fdce' '-fira-hoist-pressure' '-fcheck-data-deps'
+ '-freschedule-modulo-scheduled-loops']
+
+56836	['-fpeel-loops' '-ftree-copy-prop' '-fno-peephole2' '-fstrict-overflow'
+ '-ffunction-sections' '-finline-functions-called-once'
+ '-fmerge-all-constants' '-ftree-dse ' '-freorder-blocks-and-partition'
+ '-fcombine-stack-adjustments' '-ffinite-math-only' '-fbtr-bb-exclusive'
+ '-fsection-anchors' '-funsafe-loop-optimizations'
+ '-foptimize-sibling-calls' '-fif-conversion2' '-free' '-fcompare-elim']
+
+57046	['-fbranch-target-load-optimize2' '-fsched-rank-heuristic'
+ '-ftree-coalesce-vars' '-fkeep-static-consts' '-fno-defer-pop'
+ '-fshrink-wrap' '-ftree-loop-distribution' '-fgcse-after-reload'
+ '-falign-labels' '-fsched-last-insn-heuristic' '-falign-loops'
+ '-ftree-vectorize' '-fprofile-values ' '-foptimize-sibling-calls'
+ '-fsched-spec-load-dangerous' '-funit-at-a-time' '-fhoist-adjacent-loads'
+ '-fno-sched-spec' '-fipa-reference' '-fcaller-saves' '-floop-block'
+ '-funsafe-math-optimizations' '-fsel-sched-pipelining-outer-loops'
+ '-fira-loop-pressure' '-fif-conversion2' '-fsched-pressure'
+ '-fsched2-use-superblocks' '-falign-functions' '-fselective-scheduling'
+ '-ftree-copy-prop' '-ftree-builtin-call-dce' '-freciprocal-math'
+ '-fcompare-elim' '-ftree-tail-merge' '-fcx-fortran-rules' '-ftree-ccp'
+ '-fdevirtualize' '-fgcse-lm' '-fsched-dep-count-heuristic' '-flto-report'
+ '-fivopts' '-ftree-bit-ccp' '-frounding-math'
+ '-finline-functions-called-once' '-ftree-sra' '-fgcse'
+ '-fcombine-stack-adjustments' '-free']
+
+55681	['-fipa-cp-clone' '-fno-function-cse' '-flto' '-ftree-pre'
+ '-fdevirtualize' '-fsched-spec-load' '-ftree-switch-conversion'
+ '-fregmove']
+
+56983	['-fdata-sections' '-finline-small-functions' '-fgraphite-identity'
+ '-fregmove' '-funroll-all-loops' '-fno-toplevel-reorder' '-fno-peephole'
+ '-funit-at-a-time' '-fsched-pressure' '-falign-functions'
+ '-floop-strip-mine' '-ftree-sra' '-fsel-sched-pipelining'
+ '-fcse-follow-jumps' '-freorder-blocks' '-ftree-loop-optimize'
+ '-funsafe-loop-optimizations' '-fprefetch-loop-arrays' '-frounding-math'
+ '-fselective-scheduling' '-fif-conversion' '-falign-loops'
+ '-fipa-profile' '-fno-ira-share-spill-slots' '-funroll-loops'
+ '-ffinite-math-only' '-foptimize-sibling-calls' '-fgcse-after-reload'
+ '-fdevirtualize' '-fcx-fortran-rules' '-fmove-loop-invariants'
+ '-finline-functions' '-fno-math-errno' '-fcx-limited-range'
+ '-fipa-pure-const' '-fauto-inc-dec' '-fmerge-all-constants'
+ '-fcprop-registers' '-fgcse-lm' '-fschedule-insns2']
+
+56644	['-fsel-sched-pipelining' '-frounding-math' '-ftree-copyrename'
+ '-fgraphite-identity' '-funroll-loops' '-fno-default-inline'
+ '-fno-ira-share-spill-slots' '-funsafe-loop-optimizations'
+ '-fno-defer-pop' '-ffunction-sections' '-freciprocal-math'
+ '-fprefetch-loop-arrays' '-ftree-pta' '-ffast-math'
+ '-finline-small-functions' '-fcaller-saves' '-ftree-ccp'
+ '-ftree-switch-conversion' '-ftree-pre' '-fpredictive-commoning'
+ '-fif-conversion' '-ftree-builtin-call-dce' '-fcprop-registers'
+ '-ftree-coalesce-vars' '-ftree-phiprop' '-fsched-stalled-insns-dep'
+ '-ftree-loop-optimize' '-ftree-loop-distribute-patterns' '-falign-labels'
+ '-funsafe-math-optimizations' '-free' '-ftree-loop-ivcanon' '-fregmove'
+ '-fkeep-static-consts' '-fcheck-data-deps' '-fno-trapping-math'
+ '-fcombine-stack-adjustments' '-floop-block' '-fipa-profile'
+ '-floop-nest-optimize' '-fstrict-aliasing' '-ftree-copy-prop'
+ '-fvariable-expansion-in-unroller']
+
+56825	['-fdce' '-freciprocal-math' '-floop-block' '-fno-branch-count-reg'
+ '-fsplit-wide-types' '-flto-report' '-ftree-loop-ivcanon'
+ '-fconserve-stack' '-fomit-frame-pointer' '-floop-nest-optimize'
+ '-fno-peephole' '-fsched-dep-count-heuristic' '-fcompare-elim'
+ '-fmudflapth' '-fcombine-stack-adjustments' '-fcprop-registers'
+ '-fbranch-target-load-optimize2' '-floop-strip-mine' '-ftree-pta'
+ '-ftree-switch-conversion' '-ftree-coalesce-vars' '-ftree-bit-ccp'
+ '-fregmove' '-fsched-spec-load' '-ftree-ch'
+ '-fdelete-null-pointer-checks']
+
+57055	['-fsched-stalled-insns' '-fno-branch-count-reg'
+ '-freschedule-modulo-scheduled-loops' '-fdelete-null-pointer-checks'
+ '-fno-peephole' '-fno-math-errno' '-ftree-coalesce-vars'
+ '-fhoist-adjacent-loads' '-ftree-loop-linear' '-fno-default-inline'
+ '-ftree-builtin-call-dce' '-funsafe-math-optimizations'
+ '-fstack-protector' '-fipa-pta' '-fearly-inlining' '-ftree-sra'
+ '-fmudflapth' '-fconserve-stack' '-floop-nest-optimize'
+ '-fsched-stalled-insns-dep' '-fprefetch-loop-arrays' '-fgcse-lm'
+ '-frerun-cse-after-loop' '-ftree-phiprop' '-fshrink-wrap' '-ftree-ccp'
+ '-fno-defer-pop' '-ftracer' '-fsched-dep-count-heuristic'
+ '-fcx-limited-range' '-fipa-reference' '-funroll-all-loops'
+ '-fcombine-stack-adjustments' '-freorder-blocks' '-freorder-functions'
+ '-ftree-vrp' '-finline-small-functions' '-ftree-loop-distribution'
+ '-fweb' '-ftree-dse ' '-fira-loop-pressure'
+ '-fvariable-expansion-in-unroller' '-fipa-pure-const'
+ '-fomit-frame-pointer' '-fcx-fortran-rules']
+
+56860	['-foptimize-register-move' '-floop-block' '-fdelete-null-pointer-checks'
+ '-flto' '-ftree-loop-ivcanon' '-fkeep-static-consts' '-fno-peephole2'
+ '-fno-default-inline' '-fmudflapth' '-fsched-group-heuristic'
+ '-fipa-cp-clone' '-fselective-scheduling' '-ftree-copyrename'
+ '-frounding-math' '-funsafe-loop-optimizations' '-fselective-scheduling2'
+ '-fgraphite-identity' '-fivopts' '-fno-sched-spec' '-fassociative-math'
+ '-falign-labels' '-fsched-pressure' '-ftree-partial-pre'
+ '-fvariable-expansion-in-unroller' '-fsel-sched-pipelining'
+ '-freorder-blocks' '-fdevirtualize' '-fipa-reference'
+ '-ftree-loop-optimize' '-fhoist-adjacent-loads' '-funit-at-a-time'
+ '-fsched-dep-count-heuristic' '-ftree-ch' '-fno-ira-share-spill-slots'
+ '-fcheck-data-deps' '-ftracer' '-ftree-ter' '-fmove-loop-invariants'
+ '-fdelayed-branch' '-ftree-dce' '-ftree-dse ' '-fif-conversion2'
+ '-ftree-loop-linear' '-fgcse' '-fcombine-stack-adjustments'
+ '-fpeel-loops' '-fbranch-target-load-optimize2' '-ftree-builtin-call-dce']
+
+56228	['-fsel-sched-pipelining' '-funit-at-a-time'
+ '-fsel-sched-pipelining-outer-loops' '-fcheck-data-deps' '-fipa-pta'
+ '-fprefetch-loop-arrays' '-floop-nest-optimize' '-fira-loop-pressure'
+ '-ffinite-math-only']
+
+56096	['-fcprop-registers' '-ftree-dominator-opts' '-fgcse-after-reload'
+ '-fearly-inlining' '-falign-functions' '-fno-default-inline'
+ '-fstrict-overflow' '-ftree-ccp' '-falign-jumps' '-fassociative-math'
+ '-fgcse-lm' '-fkeep-static-consts' '-floop-nest-optimize'
+ '-fsched-last-insn-heuristic' '-fauto-inc-dec' '-fsched-rank-heuristic'
+ '-frerun-cse-after-loop' '-ffast-math' '-fif-conversion'
+ '-fselective-scheduling' '-ftree-phiprop' '-fsched2-use-superblocks'
+ '-fcse-follow-jumps' '-floop-strip-mine' '-fweb'
+ '-fvariable-expansion-in-unroller' '-falign-labels' '-falign-loops'
+ '-fshrink-wrap' '-fsched-stalled-insns' '-fsel-sched-pipelining'
+ '-fsel-sched-pipelining-outer-loops' '-fprefetch-loop-arrays'
+ '-ftree-switch-conversion' '-ftree-loop-distribute-patterns'
+ '-fipa-reference' '-ftree-loop-optimize' '-ftree-loop-distribution'
+ '-fgraphite-identity' '-fira-loop-pressure' '-fno-branch-count-reg'
+ '-ftree-coalesce-vars' '-fno-sched-spec' '-fforward-propagate'
+ '-fsection-anchors']
+
+57476	['-fsel-sched-pipelining-outer-loops' '-fstrict-overflow'
+ '-funsafe-loop-optimizations' '-fkeep-static-consts'
+ '-fira-loop-pressure' '-funroll-all-loops' '-fcaller-saves' '-fmudflapth'
+ '-fcombine-stack-adjustments' '-funit-at-a-time' '-funroll-loops'
+ '-fcx-fortran-rules' '-ftree-dse ' '-fearly-inlining' '-ftree-pta'
+ '-fsched-pressure' '-ftree-ch' '-ftree-vectorize' '-fivopts'
+ '-fpeel-loops' '-fno-peephole']
+
+56562	['-fipa-reference' '-fsel-sched-pipelining' '-funsafe-math-optimizations'
+ '-fauto-inc-dec' '-ftree-loop-ivcanon' '-fsched-rank-heuristic'
+ '-fprefetch-loop-arrays' '-ftree-pta' '-ftree-copy-prop' '-falign-labels'
+ '-ftree-coalesce-vars']
+
+56539	['-funsafe-math-optimizations' '-fgcse-lm'
+ '-freorder-blocks-and-partition' '-fforward-propagate'
+ '-fsection-anchors' '-ftree-sink' '-ftree-loop-ivcanon' '-ftree-forwprop'
+ '-fmudflapth' '-ftree-ter']
+
+55342	['-fdata-sections' '-fno-peephole2' '-fauto-inc-dec' '-flto'
+ '-funroll-all-loops' '-ftree-vrp' '-fpeel-loops' '-ftree-tail-merge']
+
+56993	['-ftree-reassoc' '-floop-interchange' '-fweb' '-fira-loop-pressure'
+ '-ftree-phiprop' '-fsched-group-heuristic' '-freorder-blocks']
+
+55403	['-ftree-dse ' '-ftree-loop-ivcanon' '-ftree-phiprop' '-fstack-protector'
+ '-funsafe-math-optimizations' '-fauto-inc-dec' '-fipa-pta'
+ '-fdata-sections' '-ftree-loop-distribution' '-fira-hoist-pressure'
+ '-ffunction-sections' '-fcheck-data-deps' '-fno-sched-spec' '-flto'
+ '-flto-report' '-fno-ira-share-spill-slots' '-funit-at-a-time'
+ '-floop-block' '-fno-toplevel-reorder' '-ftree-loop-optimize'
+ '-fno-defer-pop' '-foptimize-sibling-calls' '-ftree-vectorize'
+ '-fconserve-stack' '-fpeel-loops' '-fdce' '-fvpt' '-ftree-loop-linear'
+ '-free' '-ftree-vrp' '-fgraphite-identity' '-fregmove' '-ftree-reassoc'
+ '-fomit-frame-pointer' '-fif-conversion' '-fgcse-after-reload'
+ '-ftree-slsr' '-fgcse' '-fweb' '-fsched-stalled-insns-dep'
+ '-fcaller-saves' '-fvariable-expansion-in-unroller' '-fvect-cost-model'
+ '-finline-functions' '-fpredictive-commoning' '-falign-jumps'
+ '-funswitch-loops' '-fhoist-adjacent-loads' '-fthread-jumps'
+ '-fcompare-elim']
+
+56707	['-ftree-coalesce-vars' '-fdce' '-fgcse-sm' '-fsched2-use-superblocks'
+ '-ffunction-sections' '-fsched-stalled-insns-dep' '-ftree-ch'
+ '-falign-labels' '-fsel-sched-pipelining' '-finline-functions'
+ '-ftree-dse ' '-fipa-cp-clone' '-fauto-inc-dec' '-fbtr-bb-exclusive'
+ '-ftree-sra' '-frounding-math' '-fregmove' '-fno-defer-pop'
+ '-ftree-vectorize' '-fvariable-expansion-in-unroller'
+ '-fhoist-adjacent-loads' '-ffast-math' '-fcse-skip-blocks'
+ '-fpredictive-commoning' '-fgcse-lm' '-fgcse'
+ '-fsched-dep-count-heuristic' '-floop-block'
+ '-fcombine-stack-adjustments' '-fpeel-loops' '-fno-peephole']
+
+55333	['-fgraphite-identity' '-fivopts' '-fipa-profile' '-fif-conversion'
+ '-ftree-copyrename' '-fipa-cp-clone' '-fcx-fortran-rules'
+ '-ftree-loop-linear' '-ftree-loop-ivcanon' '-flto'
+ '-funsafe-math-optimizations' '-fbranch-target-load-optimize2'
+ '-fif-conversion2' '-fpeel-loops' '-ftree-pta']
+
+55454	['-fdata-sections' '-frounding-math' '-fkeep-static-consts'
+ '-fno-trapping-math' '-fsel-sched-pipelining-outer-loops' '-fpeel-loops'
+ '-fvariable-expansion-in-unroller' '-ffast-math' '-ftree-ccp'
+ '-fipa-profile' '-ftree-partial-pre' '-fcprop-registers' '-fshrink-wrap'
+ '-flto-report' '-fsched2-use-superblocks' '-ftree-reassoc'
+ '-fgcse-after-reload' '-floop-interchange'
+ '-finline-functions-called-once' '-falign-loops' '-fno-defer-pop'
+ '-floop-strip-mine' '-finline-functions' '-fpredictive-commoning'
+ '-fsched-pressure' '-fno-ira-share-spill-slots' '-funswitch-loops'
+ '-fdelayed-branch' '-flto' '-fipa-reference' '-ftree-ch' '-ftree-phiprop'
+ '-fprefetch-loop-arrays' '-fno-peephole' '-ftree-pta' '-fivopts'
+ '-fira-hoist-pressure' '-finline-small-functions' '-fno-function-cse'
+ '-fmudflapth' '-fno-toplevel-reorder' '-ftree-slsr']
+
+56971	['-ftree-reassoc' '-falign-labels' '-fcse-follow-jumps'
+ '-fvariable-expansion-in-unroller' '-fno-peephole' '-fcheck-data-deps'
+ '-fgraphite-identity' '-fgcse' '-fpeel-loops' '-fsched-stalled-insns-dep'
+ '-freorder-blocks-and-partition']
+
+56924	['-finline-functions' '-fgraphite-identity' '-flto-report'
+ '-fforward-propagate']
+
+55194	['-fpeel-loops' '-fmerge-all-constants' '-flto' '-fira-hoist-pressure'
+ '-ftree-partial-pre' '-fprefetch-loop-arrays' '-fassociative-math'
+ '-funit-at-a-time' '-ftree-vectorize' '-fcompare-elim'
+ '-fno-toplevel-reorder' '-fipa-pta' '-fvpt' '-ftree-phiprop' '-free'
+ '-fhoist-adjacent-loads' '-foptimize-sibling-calls'
+ '-ftree-switch-conversion']
+
+55352	['-fpeel-loops' '-fbranch-target-load-optimize2' '-ftree-ccp'
+ '-fno-function-cse' '-finline-small-functions' '-fcaller-saves'
+ '-fregmove' '-fsection-anchors' '-funroll-all-loops' '-fgcse-sm'
+ '-ftree-vrp' '-ffinite-math-only' '-ftree-bit-ccp' '-flto'
+ '-ftree-copyrename' '-fvpt' '-ftree-copy-prop' '-ftree-tail-merge'
+ '-fsched-stalled-insns' '-floop-strip-mine' '-freciprocal-math'
+ '-ftree-loop-ivcanon' '-ftree-dse ' '-fira-hoist-pressure' '-flto-report'
+ '-ftree-builtin-call-dce' '-ftree-loop-distribution' '-ftree-pta'
+ '-ftree-dce' '-finline-functions' '-fno-trapping-math']
+
+55444	['-flto' '-ftree-slsr' '-fvpt' '-ftree-partial-pre' '-freciprocal-math'
+ '-fcaller-saves' '-ftree-switch-conversion' '-fshrink-wrap']
+
+55251	['-floop-block' '-fprefetch-loop-arrays' '-fno-toplevel-reorder'
+ '-ftree-fre' '-ftree-dse ' '-fira-loop-pressure' '-fhoist-adjacent-loads'
+ '-flto' '-fmudflapth' '-fivopts' '-fpeel-loops' '-frounding-math'
+ '-fvect-cost-model' '-ftree-ccp' '-fif-conversion' '-ftree-loop-optimize'
+ '-funsafe-math-optimizations' '-fno-peephole' '-fgcse-sm'
+ '-ftree-switch-conversion' '-ftree-loop-ivcanon' '-ftree-loop-if-convert'
+ '-fno-defer-pop' '-fvariable-expansion-in-unroller' '-fdelayed-branch'
+ '-fmerge-all-constants' '-free' '-flto-report']
+
+56570	['-fpeel-loops' '-fno-branch-count-reg' '-fcprop-registers'
+ '-finline-functions' '-ftree-partial-pre' '-ffast-math' '-ftree-bit-ccp'
+ '-fconserve-stack' '-freorder-blocks-and-partition' '-ftree-forwprop'
+ '-fcaller-saves' '-fvpt' '-fthread-jumps' '-fgcse-lm' '-free'
+ '-fdelayed-branch']
+
+56893	['-fcrossjumping' '-floop-strip-mine' '-ftree-switch-conversion'
+ '-ftree-loop-distribution' '-fauto-inc-dec' '-ftree-ch'
+ '-ftree-coalesce-vars' '-fvect-cost-model' '-fsched-stalled-insns-dep'
+ '-fcprop-registers' '-fmudflapth' '-fcx-limited-range'
+ '-fgcse-after-reload' '-fif-conversion2' '-fforward-propagate'
+ '-fsel-sched-pipelining' '-ftracer' '-fno-sched-spec' '-fstrict-overflow'
+ '-fearly-inlining' '-fsched-stalled-insns']
+
+57165	['-fweb' '-fassociative-math' '-ftree-loop-linear' '-fdelayed-branch'
+ '-ftree-bit-ccp' '-fipa-cp-clone' '-freciprocal-math'
+ '-fno-default-inline' '-finline-small-functions' '-ftree-coalesce-vars'
+ '-floop-nest-optimize' '-fsel-sched-pipelining' '-fcompare-elim'
+ '-fivopts' '-ftree-pre' '-funroll-all-loops' '-fno-peephole2'
+ '-ftree-dse ' '-funsafe-loop-optimizations' '-fno-peephole'
+ '-ffinite-math-only' '-fdata-sections']
+
+55449	['-fno-branch-count-reg' '-ftree-dominator-opts' '-flto'
+ '-fmerge-all-constants' '-fsched2-use-superblocks' '-fipa-cp-clone'
+ '-funit-at-a-time' '-ffast-math' '-fsched-spec-load-dangerous'
+ '-falign-loops' '-fno-default-inline' '-fno-function-cse'
+ '-fno-peephole2' '-ftree-vrp' '-fcse-follow-jumps' '-fcheck-data-deps'
+ '-fira-hoist-pressure' '-ftree-switch-conversion' '-fcrossjumping'
+ '-funsafe-math-optimizations' '-ftree-coalesce-vars' '-ftree-ccp'
+ '-ftree-loop-linear' '-ffunction-sections' '-fno-defer-pop']
+
+55450	['-ftree-phiprop' '-fomit-frame-pointer' '-fhoist-adjacent-loads'
+ '-funsafe-math-optimizations' '-fsched-stalled-insns-dep'
+ '-fipa-cp-clone' '-fcse-follow-jumps' '-fkeep-static-consts'
+ '-fforward-propagate' '-ftree-pta' '-foptimize-register-move'
+ '-ftree-copyrename' '-foptimize-sibling-calls' '-funroll-loops'
+ '-ftree-copy-prop' '-fpeel-loops' '-fcaller-saves' '-fcx-fortran-rules'
+ '-flto' '-fira-hoist-pressure' '-fvpt' '-fweb']
+
+55944	['-fno-defer-pop' '-ftree-copyrename' '-ftree-sink'
+ '-fno-ira-share-spill-slots' '-fshrink-wrap' '-fdelayed-branch'
+ '-fcaller-saves' '-fdce' '-fregmove' '-ftree-loop-linear'
+ '-fipa-reference' '-fbranch-target-load-optimize2' '-flto'
+ '-funswitch-loops' '-ffunction-sections' '-floop-strip-mine'
+ '-flto-report' '-fpredictive-commoning' '-freorder-blocks-and-partition'
+ '-finline-functions-called-once' '-ftree-builtin-call-dce' '-ftree-ccp'
+ '-ftree-loop-distribution' '-fcx-fortran-rules' '-ftree-tail-merge'
+ '-fsched2-use-superblocks' '-funsafe-loop-optimizations']
+
+55553	['-fdelayed-branch' '-ftree-tail-merge' '-fno-ira-share-spill-slots'
+ '-funsafe-loop-optimizations' '-fstack-protector'
+ '-fvariable-expansion-in-unroller' '-fno-peephole' '-falign-labels'
+ '-fno-sched-spec' '-fgcse-after-reload' '-ftree-copyrename' '-flto'
+ '-fbranch-target-load-optimize2' '-fgraphite-identity'
+ '-fsplit-wide-types' '-fif-conversion' '-funsafe-math-optimizations'
+ '-fsched-stalled-insns' '-fcx-fortran-rules' '-fcaller-saves'
+ '-fpredictive-commoning' '-fipa-profile' '-fsection-anchors'
+ '-floop-strip-mine' '-freorder-blocks-and-partition'
+ '-foptimize-sibling-calls' '-funswitch-loops' '-fsched-stalled-insns-dep'
+ '-ftree-loop-linear' '-fmudflapth' '-fsched-rank-heuristic'
+ '-fpeel-loops' '-ftree-fre' '-freorder-blocks' '-fdce'
+ '-fno-function-cse' '-ftree-ccp' '-fregmove' '-ftree-phiprop'
+ '-fno-branch-count-reg' '-fira-hoist-pressure' '-ftree-pre'
+ '-ftree-loop-distribute-patterns' '-ftree-partial-pre' '-fconserve-stack'
+ '-fcx-limited-range' '-fkeep-static-consts' '-ftree-dominator-opts'
+ '-fcombine-stack-adjustments']
+
+55701	['-fdelete-null-pointer-checks' '-fcaller-saves' '-floop-strip-mine'
+ '-fpeel-loops' '-fsel-sched-pipelining-outer-loops' '-fsched-pressure'
+ '-ftree-dominator-opts' '-fgcse-lm' '-funsafe-math-optimizations'
+ '-fpredictive-commoning' '-ftree-switch-conversion' '-flto'
+ '-fno-peephole' '-fkeep-static-consts' '-ftree-builtin-call-dce'
+ '-ftree-vrp' '-ftree-slsr' '-frounding-math']
+
+55620	['-floop-interchange' '-ftree-switch-conversion' '-fassociative-math'
+ '-ftree-loop-if-convert' '-ffinite-math-only' '-fdata-sections'
+ '-fcombine-stack-adjustments' '-fbtr-bb-exclusive'
+ '-fhoist-adjacent-loads' '-ftree-dce' '-ffast-math' '-fivopts'
+ '-fno-peephole2' '-fcse-follow-jumps' '-ftree-loop-ivcanon'
+ '-fcheck-data-deps' '-fearly-inlining' '-fdce' '-fno-defer-pop'
+ '-fforward-propagate' '-fif-conversion2' '-fmove-loop-invariants'
+ '-fipa-profile' '-fkeep-static-consts' '-fprofile-values ' '-flto'
+ '-fipa-cp-clone' '-ftree-copyrename' '-fno-math-errno'
+ '-fno-ira-share-spill-slots' '-fno-peephole']
+
+55469	['-fira-hoist-pressure' '-fif-conversion2' '-fsched-stalled-insns-dep'
+ '-ftree-pre' '-ftree-tail-merge' '-fsel-sched-pipelining-outer-loops'
+ '-fprefetch-loop-arrays' '-fivopts' '-fno-function-cse' '-flto'
+ '-ffinite-math-only' '-fno-sched-spec' '-finline-small-functions'
+ '-ftree-partial-pre' '-fcheck-data-deps' '-fno-peephole' '-fgcse-sm'
+ '-fbranch-target-load-optimize2' '-finline-functions'
+ '-fpredictive-commoning' '-ftree-sra' '-fcombine-stack-adjustments'
+ '-fkeep-static-consts' '-fcse-follow-jumps' '-fira-loop-pressure'
+ '-ftree-copyrename' '-funsafe-loop-optimizations' '-free' '-falign-jumps'
+ '-fstack-protector' '-ftree-vrp' '-funroll-all-loops' '-freorder-blocks'
+ '-floop-interchange' '-fsection-anchors' '-fpeel-loops'
+ '-ftree-switch-conversion' '-fsched-spec-load' '-freciprocal-math'
+ '-fsched-dep-count-heuristic' '-ftree-builtin-call-dce' '-fmudflapth'
+ '-fif-conversion' '-fselective-scheduling' '-fsplit-wide-types'
+ '-ftree-loop-linear' '-fsched2-use-superblocks' '-ftree-dominator-opts'
+ '-fipa-reference' '-ftree-phiprop']
+
+57023	['-ftree-switch-conversion' '-funsafe-loop-optimizations' '-fmudflapth'
+ '-fsched-group-heuristic' '-ftree-builtin-call-dce' '-fno-function-cse'
+ '-ftree-ch' '-freorder-blocks' '-fsched-stalled-insns'
+ '-fhoist-adjacent-loads' '-fno-math-errno' '-ffast-math'
+ '-fcprop-registers' '-fkeep-static-consts' '-fshrink-wrap'
+ '-funit-at-a-time']
+
+57316	['-fsched2-use-superblocks' '-fif-conversion2' '-fsched-rank-heuristic'
+ '-fvariable-expansion-in-unroller' '-fassociative-math' '-fcompare-elim'
+ '-fthread-jumps' '-fauto-inc-dec' '-ftree-dse ' '-ftree-dce'
+ '-fmove-loop-invariants' '-fconserve-stack' '-fgcse-sm' '-ftree-sra']
+
+56109	['-freorder-blocks' '-fgcse-after-reload' '-fno-function-cse'
+ '-ftree-coalesce-vars' '-fvpt' '-fthread-jumps' '-flto'
+ '-fdelayed-branch' '-fhoist-adjacent-loads' '-ftree-sink'
+ '-fearly-inlining' '-ftree-pta' '-fipa-pure-const' '-falign-labels'
+ '-ftree-loop-distribution' '-fdata-sections' '-fgcse'
+ '-fcombine-stack-adjustments' '-faggressive-loop-optimizations'
+ '-fno-sched-spec' '-fsched2-use-superblocks' '-frounding-math'
+ '-fkeep-static-consts' '-floop-strip-mine' '-flto-report'
+ '-fsched-spec-insn-heuristic' '-fno-peephole']
+
+55713	['-fif-conversion2' '-fmerge-all-constants' '-fbtr-bb-exclusive'
+ '-fvariable-expansion-in-unroller' '-fsched2-use-superblocks' '-flto'
+ '-fgcse-sm' '-funsafe-math-optimizations' '-ftree-ccp'
+ '-fsched-stalled-insns' '-ftree-switch-conversion' '-ffunction-sections'
+ '-ftree-ch' '-fgcse-after-reload' '-ftree-tail-merge' '-ftree-dse '
+ '-fconserve-stack' '-fpredictive-commoning' '-fno-peephole'
+ '-fsched-rank-heuristic']
+
+55764	['-fno-ira-share-spill-slots' '-fgraphite-identity' '-ftree-ch'
+ '-fstrict-overflow' '-fno-peephole' '-fsched-spec-insn-heuristic'
+ '-fmove-loop-invariants' '-ftree-switch-conversion' '-falign-labels'
+ '-fauto-inc-dec' '-fipa-reference' '-fno-default-inline' '-floop-block'
+ '-ftree-fre' '-fgcse-lm' '-fno-math-errno' '-fcprop-registers'
+ '-ftree-vrp' '-fmerge-all-constants' '-fdce' '-ftree-partial-pre'
+ '-freorder-blocks' '-funsafe-loop-optimizations' '-fdevirtualize'
+ '-ftree-dse ' '-free' '-fhoist-adjacent-loads'
+ '-fsched-stalled-insns-dep' '-fconserve-stack' '-flto' '-fcompare-elim'
+ '-fbranch-target-load-optimize2' '-ftree-coalesce-vars'
+ '-fpredictive-commoning' '-ftree-ccp' '-ffast-math' '-fmudflapth'
+ '-fno-function-cse' '-floop-interchange' '-fcse-follow-jumps'
+ '-fforward-propagate']
+
+55564	['-fno-peephole' '-ftree-fre' '-ftree-partial-pre' '-fgcse-lm'
+ '-fno-defer-pop' '-ffunction-sections' '-finline-functions'
+ '-freorder-blocks-and-partition' '-fipa-profile' '-fsched-rank-heuristic'
+ '-fmerge-constants' '-flto-report' '-ftree-loop-distribution' '-flto'
+ '-falign-labels' '-ftree-copyrename' '-fcse-skip-blocks'
+ '-ffinite-math-only' '-funsafe-math-optimizations' '-fcrossjumping'
+ '-fno-default-inline' '-fstrict-overflow' '-fsched-group-heuristic'
+ '-fhoist-adjacent-loads' '-fno-ira-share-spill-slots' '-ftree-pta'
+ '-fmudflapth' '-ftree-vrp' '-ftree-loop-optimize'
+ '-ftree-builtin-call-dce' '-falign-jumps' '-ftree-forwprop'
+ '-fsched-last-insn-heuristic' '-fforward-propagate' '-fif-conversion2'
+ '-ftree-phiprop' '-fdata-sections']
+
+55459	['-fno-trapping-math' '-ftree-coalesce-vars' '-fsched-rank-heuristic'
+ '-ftree-vrp' '-fno-function-cse' '-foptimize-sibling-calls' '-ftree-ter'
+ '-falign-functions' '-fvariable-expansion-in-unroller' '-ftree-ccp'
+ '-flto-report' '-ftree-sink' '-fipa-pure-const' '-frounding-math'
+ '-fira-loop-pressure' '-fsel-sched-pipelining' '-fcprop-registers'
+ '-fcompare-elim' '-floop-interchange' '-fipa-reference' '-fregmove'
+ '-fhoist-adjacent-loads' '-freorder-blocks-and-partition' '-ffast-math'
+ '-flto' '-ftree-copy-prop' '-free' '-fno-peephole' '-ftree-sra'
+ '-fthread-jumps' '-ftree-loop-distribute-patterns' '-fipa-profile']
+
+55513	['-fif-conversion' '-fsched-pressure' '-fno-defer-pop' '-fregmove'
+ '-fsched2-use-superblocks' '-ftree-dse ' '-funsafe-math-optimizations'
+ '-ftree-sink' '-free' '-falign-functions' '-fcrossjumping' '-ftree-pre'
+ '-fipa-reference' '-funsafe-loop-optimizations' '-fpredictive-commoning'
+ '-fipa-pta' '-funroll-all-loops' '-ftree-forwprop' '-fcompare-elim'
+ '-ftree-fre' '-ftree-dce' '-flto' '-ftree-switch-conversion']
+
+55699	['-fvariable-expansion-in-unroller' '-fira-loop-pressure'
+ '-fsched-group-heuristic' '-fbtr-bb-exclusive' '-fivopts'
+ '-fsched2-use-superblocks' '-fbranch-target-load-optimize2' '-ftree-vrp'
+ '-fsched-rank-heuristic' '-fsel-sched-pipelining-outer-loops' '-flto'
+ '-fsched-stalled-insns-dep' '-ftree-loop-distribute-patterns'
+ '-fcombine-stack-adjustments' '-ftree-fre' '-fshrink-wrap' '-ftree-dse '
+ '-fno-peephole' '-floop-block' '-fcx-fortran-rules' '-funroll-all-loops'
+ '-fno-trapping-math' '-fgcse' '-ftree-ter' '-ftree-pta'
+ '-ftree-builtin-call-dce' '-fcprop-registers' '-ftree-sra'
+ '-ftree-partial-pre' '-fno-sched-spec' '-fselective-scheduling'
+ '-fcrossjumping' '-fforward-propagate' '-fcompare-elim'
+ '-fconserve-stack' '-freorder-blocks-and-partition'
+ '-fsel-sched-pipelining' '-ftree-switch-conversion' '-fmerge-constants'
+ '-fsched-pressure' '-fkeep-static-consts' '-fsched-dep-count-heuristic'
+ '-fpredictive-commoning' '-fipa-profile' '-fipa-pure-const'
+ '-fsched-last-insn-heuristic']
+
+55366	['-ftree-forwprop' '-funsafe-loop-optimizations' '-flto' '-fgcse'
+ '-fprefetch-loop-arrays' '-ftree-dse ' '-fcprop-registers'
+ '-fno-trapping-math' '-ftree-switch-conversion' '-ftree-coalesce-vars'
+ '-fpeel-loops' '-fno-ira-share-spill-slots' '-fsched2-use-superblocks'
+ '-fconserve-stack' '-floop-strip-mine' '-fstack-protector'
+ '-fsched-stalled-insns-dep' '-fsched-last-insn-heuristic' '-ftree-dce'
+ '-fira-loop-pressure' '-fthread-jumps' '-ftree-fre' '-fno-defer-pop'
+ '-fivopts' '-faggressive-loop-optimizations' '-fsched-stalled-insns']
+
+56819	['-freciprocal-math' '-fforward-propagate' '-free' '-ftree-partial-pre'
+ '-ftree-loop-optimize' '-fipa-profile' '-fivopts' '-freorder-functions'
+ '-fselective-scheduling' '-falign-loops']
+
+55262	['-flto' '-fsched2-use-superblocks' '-fipa-cp-clone' '-fno-function-cse'
+ '-ffinite-math-only' '-fivopts' '-fbranch-target-load-optimize2'
+ '-fno-peephole' '-ffast-math' '-fcse-skip-blocks' '-fif-conversion2'
+ '-fno-branch-count-reg' '-fpeel-loops' '-fshrink-wrap']
+
+56757	['-fsection-anchors' '-fno-defer-pop' '-ftree-coalesce-vars'
+ '-foptimize-sibling-calls']
+
+55499	['-fivopts' '-funit-at-a-time' '-ffast-math' '-fno-sched-spec'
+ '-finline-functions' '-ftree-builtin-call-dce' '-flto' '-ftree-sink'
+ '-fcombine-stack-adjustments' '-fno-ira-share-spill-slots'
+ '-fcprop-registers' '-fno-peephole2' '-fno-peephole' '-ffinite-math-only'
+ '-ftree-loop-distribution' '-funsafe-loop-optimizations' '-ftracer'
+ '-fsched-dep-count-heuristic' '-fsched-group-heuristic'
+ '-fif-conversion2' '-ffunction-sections' '-fselective-scheduling'
+ '-fcompare-elim' '-fgraphite-identity' '-fpeel-loops' '-fregmove'
+ '-faggressive-loop-optimizations' '-ftree-loop-optimize' '-falign-labels'
+ '-fipa-profile' '-fipa-reference' '-fsel-sched-pipelining-outer-loops'
+ '-floop-strip-mine' '-ftree-switch-conversion' '-fthread-jumps'
+ '-foptimize-sibling-calls' '-ftree-partial-pre' '-fweb']
+
+56931	['-fcx-fortran-rules' '-fgcse-after-reload' '-ftree-pta'
+ '-ftree-loop-ivcanon' '-fsched-stalled-insns'
+ '-fcombine-stack-adjustments' '-fcrossjumping' '-fdata-sections'
+ '-fcaller-saves' '-ftree-sra' '-fmudflapth' '-ftree-forwprop'
+ '-ftree-ccp' '-fsel-sched-pipelining-outer-loops' '-fdce'
+ '-fno-branch-count-reg' '-fvariable-expansion-in-unroller'
+ '-fno-function-cse' '-fregmove']
+
+57003	['-fsel-sched-pipelining-outer-loops' '-fgcse-lm' '-floop-strip-mine'
+ '-ftree-vrp' '-fgcse-sm' '-fif-conversion' '-fsched2-use-superblocks'
+ '-finline-functions-called-once' '-falign-functions'
+ '-foptimize-sibling-calls' '-fcprop-registers'
+ '-fsched-last-insn-heuristic' '-fno-math-errno' '-ftree-dce'
+ '-finline-functions' '-faggressive-loop-optimizations'
+ '-fvect-cost-model' '-fregmove' '-fbranch-target-load-optimize2'
+ '-fsel-sched-pipelining' '-fgraphite-identity' '-fthread-jumps'
+ '-fno-peephole' '-fconserve-stack' '-frounding-math' '-funit-at-a-time'
+ '-fvpt']
+
+56898	['-ftree-tail-merge' '-freorder-blocks' '-ftree-coalesce-vars'
+ '-fprefetch-loop-arrays' '-ftree-vrp' '-fpeel-loops'
+ '-foptimize-sibling-calls' '-fpredictive-commoning'
+ '-fselective-scheduling' '-fgcse-after-reload']
+
+56828	['-fsched-dep-count-heuristic' '-fsection-anchors' '-fearly-inlining'
+ '-frounding-math' '-fsched-rank-heuristic' '-fno-peephole'
+ '-ftree-copyrename' '-fno-defer-pop' '-falign-jumps'
+ '-ffunction-sections' '-fhoist-adjacent-loads' '-fno-trapping-math'
+ '-fpeel-loops' '-fno-math-errno' '-ftree-ch' '-fthread-jumps'
+ '-fauto-inc-dec']
+
+55575	['-ftree-loop-distribute-patterns' '-fsched-spec-load'
+ '-foptimize-sibling-calls' '-ftree-pre' '-faggressive-loop-optimizations'
+ '-fno-defer-pop' '-flto' '-ftree-builtin-call-dce' '-fcx-fortran-rules'
+ '-fipa-cp-clone' '-fgcse-after-reload' '-freorder-blocks-and-partition'
+ '-fregmove' '-fpeel-loops' '-fforward-propagate' '-ffinite-math-only'
+ '-fmudflapth' '-ftree-loop-ivcanon' '-fno-function-cse'
+ '-fsched2-use-superblocks' '-fno-default-inline' '-fsection-anchors'
+ '-fhoist-adjacent-loads' '-floop-strip-mine' '-falign-functions'
+ '-freciprocal-math' '-fivopts' '-fipa-pta' '-fif-conversion'
+ '-fcx-limited-range']
+
+55412	['-flto' '-freorder-blocks-and-partition' '-fmudflapth'
+ '-fno-default-inline' '-ftree-sink' '-fsched-spec-insn-heuristic'
+ '-fif-conversion' '-floop-strip-mine' '-fmerge-all-constants'
+ '-fdelete-null-pointer-checks' '-free']
+
+56818	['-ftree-loop-optimize' '-flto']
+
+54991	['-ftree-coalesce-vars' '-freciprocal-math' '-fsched-group-heuristic'
+ '-fsched2-use-superblocks' '-floop-block' '-fauto-inc-dec' '-fmudflapth'
+ '-freorder-blocks' '-fcrossjumping' '-fsched-pressure' '-fipa-cp-clone'
+ '-fdce' '-fif-conversion2' '-fhoist-adjacent-loads' '-fprofile-values '
+ '-fsel-sched-pipelining-outer-loops' '-fno-defer-pop'
+ '-fno-ira-share-spill-slots' '-fprefetch-loop-arrays'
+ '-fsched-stalled-insns' '-fvariable-expansion-in-unroller' '-flto'
+ '-fira-hoist-pressure' '-fdata-sections' '-fpredictive-commoning'
+ '-ftree-ch' '-ftree-loop-ivcanon' '-fcprop-registers' '-fcheck-data-deps'
+ '-ftree-loop-distribute-patterns' '-ftree-bit-ccp'
+ '-fsched-last-insn-heuristic' '-funroll-all-loops' '-ftree-loop-optimize'
+ '-ftree-sra' '-falign-loops' '-falign-jumps'
+ '-funsafe-math-optimizations' '-freorder-blocks-and-partition'
+ '-fpeel-loops' '-fstrict-overflow' '-fsched-dep-count-heuristic'
+ '-fif-conversion' '-ffast-math']
+
+55119	['-ftree-slsr' '-ftree-vectorize' '-fpredictive-commoning'
+ '-fcx-limited-range' '-fsched-stalled-insns-dep' '-ftree-dse '
+ '-fmerge-all-constants' '-ftree-dce' '-foptimize-sibling-calls'
+ '-ftree-phiprop' '-ftree-switch-conversion' '-flto' '-ftree-ccp'
+ '-fshrink-wrap' '-fpeel-loops' '-fstrict-overflow' '-fkeep-static-consts'
+ '-fgraphite-identity' '-fhoist-adjacent-loads' '-ftree-ter'
+ '-fcompare-elim' '-faggressive-loop-optimizations'
+ '-funsafe-math-optimizations' '-floop-nest-optimize' '-ftree-reassoc'
+ '-fdelete-null-pointer-checks']
+
+56137	['-ftree-dominator-opts' '-fgcse-after-reload' '-ftree-phiprop'
+ '-fcx-fortran-rules' '-fsched-stalled-insns-dep'
+ '-fsched2-use-superblocks' '-ffunction-sections' '-ftree-ter' '-fregmove'
+ '-ftree-partial-pre' '-falign-functions' '-fshrink-wrap'
+ '-fbtr-bb-exclusive' '-fno-default-inline' '-fhoist-adjacent-loads'
+ '-fdelayed-branch' '-fif-conversion' '-fipa-cp-clone' '-fivopts'
+ '-fpredictive-commoning' '-fsched-rank-heuristic' '-flto'
+ '-floop-strip-mine' '-fsched-spec-insn-heuristic' '-ffinite-math-only'
+ '-freorder-blocks' '-fif-conversion2' '-ftree-pta' '-ftree-loop-linear'
+ '-fauto-inc-dec']
+
+55269	['-fshrink-wrap' '-ftree-ter' '-fno-trapping-math' '-fcompare-elim'
+ '-fpeel-loops' '-funsafe-loop-optimizations' '-falign-jumps' '-ftree-fre'
+ '-frounding-math' '-flto' '-fthread-jumps' '-frerun-cse-after-loop'
+ '-ftree-loop-if-convert' '-faggressive-loop-optimizations'
+ '-floop-strip-mine' '-funswitch-loops' '-foptimize-sibling-calls'
+ '-ftree-phiprop' '-fcse-follow-jumps' '-fdevirtualize'
+ '-floop-interchange' '-fauto-inc-dec' '-ftree-ccp' '-fipa-reference'
+ '-ftree-copyrename' '-fgcse-lm' '-ffunction-sections'
+ '-fpredictive-commoning' '-fdelayed-branch' '-fsched-stalled-insns'
+ '-finline-functions-called-once' '-finline-small-functions'
+ '-ftree-loop-linear' '-ftree-slsr' '-fvariable-expansion-in-unroller'
+ '-fbtr-bb-exclusive' '-fsched-stalled-insns-dep' '-fprefetch-loop-arrays'
+ '-fomit-frame-pointer' '-fira-hoist-pressure' '-fdce'
+ '-freorder-functions' '-fregmove' '-fdelete-null-pointer-checks'
+ '-ftree-dce' '-fivopts']
+
+56949	['-falign-functions' '-fsel-sched-pipelining-outer-loops'
+ '-fno-ira-share-spill-slots']
+
+56858	['-fcse-follow-jumps' '-fthread-jumps' '-fipa-reference' '-falign-labels'
+ '-fcprop-registers' '-fpeel-loops' '-ftree-switch-conversion' '-fgcse-lm'
+ '-free' '-ftree-reassoc' '-fweb' '-fgcse' '-ftree-phiprop' '-fgcse-sm']
+
+56967	['-funswitch-loops' '-floop-strip-mine' '-freorder-functions'
+ '-fcaller-saves' '-fsel-sched-pipelining-outer-loops']
+
+55452	['-fno-defer-pop' '-fira-hoist-pressure' '-fno-peephole' '-ftree-ccp'
+ '-fsel-sched-pipelining' '-fvariable-expansion-in-unroller'
+ '-fsched2-use-superblocks' '-fipa-pta' '-flto' '-ftree-bit-ccp'
+ '-ftree-ter' '-funit-at-a-time' '-fpeel-loops'
+ '-funsafe-math-optimizations' '-fmudflapth' '-floop-block'
+ '-fira-loop-pressure' '-free' '-freorder-blocks' '-fcprop-registers'
+ '-fcx-limited-range' '-fipa-profile' '-fgraphite-identity'
+ '-fconserve-stack']
+
+55333	['-flto' '-ftree-copyrename' '-funsafe-loop-optimizations'
+ '-fmerge-all-constants' '-fhoist-adjacent-loads' '-fno-sched-spec'
+ '-freorder-blocks' '-fbtr-bb-exclusive' '-fsched-stalled-insns-dep'
+ '-fira-loop-pressure' '-ftree-pta' '-fcaller-saves' '-falign-loops'
+ '-ftree-copy-prop' '-free' '-ftree-pre' '-fcheck-data-deps'
+ '-fno-defer-pop' '-ftree-dse ' '-fira-hoist-pressure'
+ '-fgcse-after-reload' '-fregmove' '-ftree-loop-distribute-patterns'
+ '-ftree-tail-merge' '-fconserve-stack' '-fgcse' '-funit-at-a-time']
+
+55625	['-ftree-ccp' '-fcombine-stack-adjustments' '-fira-loop-pressure'
+ '-fregmove' '-flto' '-funroll-loops' '-floop-block'
+ '-fsel-sched-pipelining-outer-loops' '-fstrict-aliasing'
+ '-fno-math-errno' '-fdelete-null-pointer-checks' '-ffinite-math-only'
+ '-ftree-pta' '-fsched-group-heuristic' '-ftree-dce'
+ '-fvariable-expansion-in-unroller' '-fgcse' '-ftree-dse '
+ '-fgraphite-identity' '-ftree-loop-distribution' '-fbtr-bb-exclusive'
+ '-ftree-loop-linear' '-fkeep-static-consts' '-fira-hoist-pressure'
+ '-fdce' '-fno-branch-count-reg' '-fipa-reference'
+ '-fsched-stalled-insns-dep' '-fpeel-loops' '-ftree-vrp'
+ '-fsched-spec-insn-heuristic' '-fauto-inc-dec' '-fno-defer-pop'
+ '-ftree-ter' '-ftree-copy-prop' '-frounding-math' '-fno-trapping-math'
+ '-free' '-fivopts' '-ftree-partial-pre' '-fcompare-elim'
+ '-fdelayed-branch' '-ftree-loop-optimize'
+ '-finline-functions-called-once' '-fno-peephole' '-ftree-bit-ccp'
+ '-ftree-dominator-opts' '-ftree-loop-ivcanon' '-fipa-pure-const']
+
+56961	['-floop-interchange' '-ftree-pta' '-fauto-inc-dec' '-ftree-vectorize'
+ '-fdevirtualize' '-fsel-sched-pipelining-outer-loops'
+ '-fhoist-adjacent-loads' '-fira-loop-pressure' '-ftree-copyrename'
+ '-floop-block' '-fsched2-use-superblocks' '-fforward-propagate'
+ '-ftree-loop-distribution' '-fcombine-stack-adjustments'
+ '-fstrict-overflow' '-fdce' '-ftree-phiprop' '-foptimize-register-move'
+ '-fregmove']
+
+55454	['-ftree-ter' '-fcombine-stack-adjustments' '-ftree-loop-linear'
+ '-fcprop-registers' '-ftree-pre' '-fgcse-sm' '-fpeel-loops' '-flto'
+ '-fcrossjumping' '-fgcse-lm' '-fsched-rank-heuristic' '-falign-jumps'
+ '-ftree-reassoc' '-fprofile-values ' '-fno-defer-pop' '-fcompare-elim'
+ '-fvariable-expansion-in-unroller' '-falign-labels']
+
+54727	['-fhoist-adjacent-loads' '-fipa-pta' '-fsched-spec-insn-heuristic'
+ '-ffast-math' '-ftree-switch-conversion' '-flto' '-fprofile-values '
+ '-ftree-loop-if-convert' '-fira-loop-pressure']
+
+55473	['-fsched-stalled-insns' '-fcaller-saves' '-funsafe-loop-optimizations'
+ '-fweb' '-fipa-cp-clone' '-fcheck-data-deps' '-ftree-vrp'
+ '-fauto-inc-dec' '-ftree-loop-distribute-patterns' '-fcx-limited-range'
+ '-fno-math-errno' '-ftree-loop-ivcanon' '-falign-loops'
+ '-fsched-stalled-insns-dep' '-fsched-dep-count-heuristic'
+ '-ftree-partial-pre' '-flto' '-fcse-follow-jumps' '-ftree-tail-merge'
+ '-fno-defer-pop' '-ftree-copyrename' '-finline-small-functions'
+ '-fgraphite-identity' '-ftree-dse ' '-ftree-sra' '-fif-conversion2'
+ '-funit-at-a-time' '-freorder-blocks-and-partition' '-fno-sched-spec'
+ '-fgcse-after-reload' '-fhoist-adjacent-loads' '-falign-jumps'
+ '-fno-toplevel-reorder' '-floop-block' '-fsched-last-insn-heuristic'
+ '-fsched-rank-heuristic' '-fmudflapth' '-fsched-spec-load-dangerous'
+ '-fgcse-lm' '-fsplit-wide-types' '-fira-hoist-pressure']
+
+56673	['-fmerge-all-constants' '-fbtr-bb-exclusive' '-ftree-copyrename'
+ '-ftree-loop-optimize']
+
+56542	['-fsel-sched-pipelining' '-fsched-dep-count-heuristic' '-ffast-math'
+ '-fstrict-aliasing']
+
+56786	['-ftree-tail-merge' '-fira-loop-pressure'
+ '-fsel-sched-pipelining-outer-loops' '-fsched-pressure'
+ '-freorder-blocks-and-partition' '-ffast-math' '-fno-peephole'
+ '-fsched-stalled-insns' '-fcx-fortran-rules' '-fgraphite-identity'
+ '-fdce' '-fthread-jumps' '-ftree-ch' '-ftree-switch-conversion'
+ '-fsched-last-insn-heuristic' '-fbranch-target-load-optimize2'
+ '-fno-function-cse' '-faggressive-loop-optimizations'
+ '-foptimize-sibling-calls' '-finline-small-functions' '-ftree-ter'
+ '-fsection-anchors' '-fgcse' '-fgcse-lm' '-ftree-dse ']
+
+56664	['-ftree-vrp' '-fvect-cost-model' '-fmerge-constants' '-freciprocal-math'
+ '-fmove-loop-invariants' '-fsched-group-heuristic' '-floop-strip-mine'
+ '-fshrink-wrap' '-fno-default-inline' '-faggressive-loop-optimizations'
+ '-ftree-forwprop']
+
+55580	['-fsched-rank-heuristic' '-funroll-all-loops' '-fmudflapth'
+ '-fthread-jumps' '-ftree-tail-merge' '-fsel-sched-pipelining-outer-loops'
+ '-fno-sched-spec' '-ftree-phiprop' '-floop-nest-optimize' '-flto'
+ '-ftree-loop-linear' '-fgcse-after-reload' '-fcse-skip-blocks'
+ '-fsched2-use-superblocks' '-fcprop-registers'
+ '-funsafe-loop-optimizations' '-fivopts' '-fno-toplevel-reorder'
+ '-fno-defer-pop' '-falign-jumps' '-fsched-last-insn-heuristic'
+ '-fregmove' '-foptimize-sibling-calls' '-fcx-limited-range'
+ '-fno-peephole' '-fstrict-overflow' '-fconserve-stack'
+ '-ftree-coalesce-vars' '-floop-interchange' '-floop-strip-mine'
+ '-fif-conversion' '-fpredictive-commoning' '-fdata-sections'
+ '-ftree-builtin-call-dce' '-fstack-protector' '-ftree-pta'
+ '-fif-conversion2' '-fdce' '-fkeep-static-consts' '-ftree-pre' '-free'
+ '-fgcse-lm' '-ffunction-sections' '-ftree-dse '
+ '-fvariable-expansion-in-unroller' '-frerun-cse-after-loop']
+
+56871	['-floop-nest-optimize' '-fthread-jumps' '-fsched-last-insn-heuristic'
+ '-ftree-tail-merge' '-ftree-partial-pre' '-floop-interchange']
+
+56689	['-fprefetch-loop-arrays' '-fipa-profile' '-floop-nest-optimize'
+ '-fno-branch-count-reg' '-fshrink-wrap' '-fno-ira-share-spill-slots'
+ '-fconserve-stack']
+
+55444	['-fcombine-stack-adjustments' '-flto' '-fno-peephole' '-fno-peephole2'
+ '-fira-loop-pressure' '-fthread-jumps' '-fsplit-wide-types'
+ '-flto-report' '-floop-strip-mine' '-fforward-propagate' '-fpeel-loops'
+ '-ftree-loop-distribute-patterns' '-ftree-dse ' '-ftree-loop-optimize'
+ '-fgcse' '-ftree-coalesce-vars' '-funswitch-loops' '-ffinite-math-only'
+ '-fipa-pta' '-ftree-ccp' '-fsched-dep-count-heuristic'
+ '-ftree-loop-linear' '-ftree-pta' '-freorder-blocks' '-fmerge-constants'
+ '-fsel-sched-pipelining' '-fdevirtualize' '-fgraphite-identity'
+ '-fhoist-adjacent-loads' '-ftree-ch']
+
+54917	['-fcaller-saves' '-foptimize-sibling-calls' '-fgcse-sm'
+ '-fvariable-expansion-in-unroller' '-ftree-switch-conversion'
+ '-floop-strip-mine' '-ftree-pre' '-ffunction-sections' '-fno-defer-pop'
+ '-ftree-loop-linear' '-ftree-dce' '-ftree-coalesce-vars'
+ '-ftree-loop-ivcanon' '-freorder-blocks-and-partition' '-fno-peephole2'
+ '-fmudflapth' '-ftree-pta' '-fvect-cost-model' '-fgcse' '-flto'
+ '-fsched-stalled-insns' '-fno-peephole' '-funsafe-math-optimizations'
+ '-fprefetch-loop-arrays' '-fgraphite-identity' '-fpeel-loops'
+ '-funroll-all-loops' '-fcprop-registers' '-ftree-ccp' '-fshrink-wrap'
+ '-fomit-frame-pointer' '-fsched-spec-load-dangerous'
+ '-fno-default-inline' '-ftree-copyrename' '-freciprocal-math'
+ '-fsection-anchors' '-fif-conversion' '-fno-trapping-math' '-fweb'
+ '-fregmove']
+
+54910	['-fhoist-adjacent-loads' '-flto' '-fsched-dep-count-heuristic'
+ '-fomit-frame-pointer' '-finline-functions' '-fcprop-registers'
+ '-funsafe-math-optimizations' '-fkeep-static-consts'
+ '-fbranch-target-load-optimize2' '-falign-labels'
+ '-fprefetch-loop-arrays' '-fcompare-elim' '-fgcse-sm' '-fstack-protector'
+ '-ftree-dce' '-fgcse-after-reload' '-ftree-loop-linear'
+ '-fno-branch-count-reg' '-funroll-all-loops' '-fira-loop-pressure'
+ '-fshrink-wrap' '-funroll-loops' '-freorder-blocks' '-fweb' '-ftree-sink'
+ '-fdevirtualize' '-fipa-cp-clone']
+
+56507	['-ftree-ccp' '-ffinite-math-only' '-foptimize-sibling-calls'
+ '-floop-nest-optimize']
+
+56742	['-fforward-propagate' '-falign-jumps' '-ftree-dominator-opts'
+ '-frename-registers' '-fsched-rank-heuristic' '-fsched-stalled-insns'
+ '-fcombine-stack-adjustments' '-fif-conversion' '-fipa-pta'
+ '-ftree-copyrename' '-fbranch-target-load-optimize2'
+ '-fno-branch-count-reg' '-ftree-loop-optimize' '-fcse-skip-blocks'
+ '-fprofile-values ' '-fno-defer-pop' '-fcprop-registers'
+ '-ffinite-math-only' '-fgcse-after-reload'
+ '-fvariable-expansion-in-unroller' '-ftree-switch-conversion'
+ '-floop-strip-mine' '-fconserve-stack' '-fbtr-bb-exclusive' '-ftree-dse '
+ '-fomit-frame-pointer']
+
+55079	['-floop-nest-optimize' '-fvariable-expansion-in-unroller'
+ '-funroll-all-loops' '-ftree-copy-prop' '-fsched-stalled-insns-dep'
+ '-fsched-rank-heuristic' '-fsched-last-insn-heuristic' '-fearly-inlining'
+ '-ftree-tail-merge' '-frounding-math' '-ftree-forwprop' '-flto'
+ '-fsel-sched-pipelining-outer-loops' '-falign-loops'
+ '-foptimize-register-move' '-fira-hoist-pressure' '-floop-block'
+ '-fselective-scheduling' '-ftree-sra' '-ftree-copyrename'
+ '-fno-sched-spec' '-ftree-dominator-opts' '-ffast-math' '-fivopts'
+ '-fassociative-math' '-ftree-loop-ivcanon' '-ftree-phiprop'
+ '-ftree-loop-linear' '-ftree-coalesce-vars' '-flto-report'
+ '-falign-jumps' '-fpredictive-commoning' '-fcaller-saves'
+ '-funit-at-a-time' '-ftree-vrp']
+
+55614	['-fsched-spec-load-dangerous' '-fkeep-static-consts' '-fweb'
+ '-fauto-inc-dec' '-fsched-pressure' '-fpeel-loops' '-ftree-partial-pre'
+ '-fno-sched-spec' '-fpredictive-commoning' '-ftree-loop-linear'
+ '-ftree-loop-ivcanon' '-ftree-dse ' '-ftree-ter' '-free'
+ '-fhoist-adjacent-loads' '-fstrict-overflow' '-fshrink-wrap'
+ '-fif-conversion' '-ftree-dce' '-flto' '-frounding-math' '-fipa-profile'
+ '-fvariable-expansion-in-unroller' '-ftree-loop-optimize' '-flto-report'
+ '-falign-jumps' '-fcrossjumping' '-fbtr-bb-exclusive' '-ftree-sink'
+ '-ftree-loop-distribute-patterns' '-fno-trapping-math' '-ftree-slsr'
+ '-ftree-vrp' '-fira-loop-pressure' '-fthread-jumps' '-fcompare-elim'
+ '-fcx-fortran-rules' '-ftree-tail-merge' '-funsafe-loop-optimizations'
+ '-fsched-dep-count-heuristic']
+
+57330	['-fvect-cost-model' '-fsched2-use-superblocks' '-fsel-sched-pipelining'
+ '-funswitch-loops' '-fsched-stalled-insns' '-ftree-phiprop'
+ '-ftree-loop-ivcanon' '-fsched-dep-count-heuristic' '-ftree-tail-merge'
+ '-fif-conversion2' '-fif-conversion' '-fno-math-errno']
+
+56808	['-foptimize-sibling-calls' '-fsel-sched-pipelining'
+ '-ftree-loop-optimize' '-ftree-slsr' '-fipa-reference'
+ '-ftree-loop-ivcanon' '-ftree-partial-pre' '-ftree-ccp' '-ftree-pre'
+ '-fhoist-adjacent-loads' '-ftree-dce' '-ftree-copyrename'
+ '-fcse-skip-blocks' '-funsafe-math-optimizations'
+ '-fvariable-expansion-in-unroller' '-ftree-pta' '-fpredictive-commoning'
+ '-fsel-sched-pipelining-outer-loops' '-ftree-vrp' '-ftree-loop-linear'
+ '-fgraphite-identity' '-floop-nest-optimize'
+ '-fdelete-null-pointer-checks' '-fgcse-sm' '-fcombine-stack-adjustments'
+ '-funroll-all-loops' '-fmudflapth' '-fassociative-math'
+ '-fcprop-registers' '-fsched-spec-insn-heuristic'
+ '-ftree-switch-conversion']
+
+55351	['-fcx-fortran-rules' '-fgcse-after-reload' '-funroll-loops'
+ '-fcse-follow-jumps' '-fno-ira-share-spill-slots' '-funswitch-loops'
+ '-fsched-stalled-insns' '-floop-strip-mine' '-fira-hoist-pressure'
+ '-fdevirtualize' '-fif-conversion' '-ftree-vrp' '-fcaller-saves' '-flto'
+ '-fipa-profile' '-fipa-pta' '-ftree-bit-ccp' '-fshrink-wrap'
+ '-fprefetch-loop-arrays' '-funsafe-math-optimizations'
+ '-ftree-partial-pre' '-fconserve-stack' '-ftree-sra' '-ffast-math'
+ '-falign-labels' '-fvariable-expansion-in-unroller'
+ '-foptimize-sibling-calls' '-fno-peephole' '-fno-peephole2'
+ '-funit-at-a-time' '-fselective-scheduling2' '-fsel-sched-pipelining'
+ '-fno-default-inline' '-fcombine-stack-adjustments' '-ftree-pta'
+ '-ftree-loop-distribution' '-fsel-sched-pipelining-outer-loops']
+
+55435	['-fpeel-loops' '-fsched-stalled-insns' '-fif-conversion'
+ '-fomit-frame-pointer' '-fcompare-elim' '-floop-strip-mine'
+ '-frounding-math' '-ftree-forwprop' '-fvpt' '-fcprop-registers'
+ '-fshrink-wrap' '-fsel-sched-pipelining-outer-loops'
+ '-fno-toplevel-reorder' '-fsched-rank-heuristic' '-ftree-vectorize'
+ '-fno-peephole2' '-fdevirtualize' '-floop-block' '-fmerge-all-constants'
+ '-fregmove' '-ftree-loop-distribute-patterns' '-ftree-switch-conversion'
+ '-fdelayed-branch' '-fdata-sections' '-flto' '-fstrict-overflow'
+ '-ftree-vrp']
+
+55045	['-free' '-fgcse-after-reload' '-fcx-fortran-rules' '-fipa-reference'
+ '-fira-loop-pressure' '-ftree-dse ' '-fsched2-use-superblocks'
+ '-fno-trapping-math' '-fsplit-wide-types' '-flto' '-ftree-pre'
+ '-fconserve-stack' '-fsched-stalled-insns'
+ '-fvariable-expansion-in-unroller' '-fmerge-all-constants'
+ '-fdelete-null-pointer-checks' '-fcse-follow-jumps'
+ '-ftree-switch-conversion' '-fmove-loop-invariants' '-ftree-forwprop'
+ '-fbranch-target-load-optimize2' '-ftree-copyrename' '-ftree-tail-merge'
+ '-fno-peephole' '-funsafe-loop-optimizations' '-fgcse' '-ftree-vrp'
+ '-fno-branch-count-reg' '-ftree-ccp' '-ffast-math' '-fipa-pure-const'
+ '-ffinite-math-only' '-foptimize-sibling-calls' '-ftree-loop-ivcanon'
+ '-ftree-loop-if-convert' '-fif-conversion2' '-fsched-rank-heuristic'
+ '-fdevirtualize' '-finline-functions-called-once' '-ftree-dce']
+
+55391	['-fsched-stalled-insns-dep' '-fcx-fortran-rules' '-fsplit-wide-types'
+ '-fno-ira-share-spill-slots' '-ftree-copyrename' '-fno-peephole2'
+ '-flto-report' '-fno-function-cse' '-finline-functions-called-once'
+ '-ftree-loop-linear' '-fvpt' '-freorder-blocks-and-partition'
+ '-ftree-reassoc' '-funsafe-math-optimizations' '-fno-peephole'
+ '-ftree-switch-conversion' '-floop-interchange' '-fforward-propagate'
+ '-falign-loops' '-fsched-rank-heuristic' '-ftree-pre'
+ '-ftree-loop-distribute-patterns' '-fdce'
+ '-fbranch-target-load-optimize2' '-fno-toplevel-reorder'
+ '-ftree-dominator-opts' '-ftree-phiprop' '-fstrict-overflow'
+ '-funit-at-a-time' '-ftree-copy-prop' '-fweb' '-falign-jumps' '-flto'
+ '-floop-block' '-ftree-vrp' '-ftree-sra' '-fira-loop-pressure'
+ '-fhoist-adjacent-loads' '-fgcse-sm' '-fpeel-loops'
+ '-fira-hoist-pressure' '-ftree-builtin-call-dce' '-fcaller-saves'
+ '-fgcse-lm']
+
+56855	['-fdce' '-falign-functions' '-fno-branch-count-reg'
+ '-funsafe-math-optimizations' '-frerun-cse-after-loop'
+ '-ftree-copyrename' '-fomit-frame-pointer' '-fsched-stalled-insns'
+ '-fhoist-adjacent-loads' '-fno-defer-pop' '-ffunction-sections'
+ '-falign-loops' '-ftree-ccp' '-fcx-fortran-rules' '-fcheck-data-deps'
+ '-fsched-rank-heuristic' '-ftree-forwprop' '-fno-peephole'
+ '-floop-strip-mine' '-ftree-dce' '-funswitch-loops' '-fgcse-lm'
+ '-fif-conversion' '-fgcse-after-reload' '-fsched2-use-superblocks'
+ '-fpeel-loops' '-fsched-last-insn-heuristic' '-fbtr-bb-exclusive'
+ '-ftree-copy-prop' '-funsafe-loop-optimizations' '-fif-conversion2'
+ '-fgcse' '-ftree-switch-conversion' '-fsched-stalled-insns-dep'
+ '-fregmove' '-fcombine-stack-adjustments' '-ftree-reassoc' '-ftree-sink']
+
+56817	['-fsection-anchors' '-ftree-coalesce-vars' '-fsel-sched-pipelining'
+ '-fgraphite-identity' '-ftree-dominator-opts' '-fipa-reference'
+ '-freorder-blocks-and-partition' '-fstrict-overflow' '-fgcse-sm'
+ '-fsched-stalled-insns' '-fdelayed-branch' '-ffunction-sections'
+ '-finline-small-functions' '-falign-jumps'
+ '-fbranch-target-load-optimize2' '-fforward-propagate' '-ftree-dse '
+ '-fif-conversion' '-freciprocal-math' '-fno-defer-pop']
+
+56756	['-fivopts' '-fmudflapth' '-ftree-phiprop']
+
+56753	['-fsched-stalled-insns-dep' '-ffinite-math-only' '-ftree-ccp'
+ '-fpredictive-commoning' '-fcaller-saves' '-ftree-sink' '-ffast-math'
+ '-fipa-pta' '-ftree-slsr' '-freorder-functions'
+ '-ftree-switch-conversion' '-fpeel-loops' '-fdevirtualize'
+ '-funswitch-loops' '-fcrossjumping' '-fhoist-adjacent-loads'
+ '-ftree-dominator-opts' '-ftree-tail-merge' '-fif-conversion2'
+ '-ftree-loop-distribution' '-fipa-reference' '-floop-block'
+ '-fira-loop-pressure' '-ftree-loop-distribute-patterns'
+ '-fforward-propagate' '-fno-defer-pop' '-fgcse-after-reload'
+ '-foptimize-sibling-calls' '-free' '-fgraphite-identity']
+
+56648	['-finline-functions-called-once' '-fsched-stalled-insns' '-ftree-sra'
+ '-ftree-switch-conversion' '-ftree-pta' '-faggressive-loop-optimizations'
+ '-fcheck-data-deps' '-freorder-functions' '-fsched-pressure' '-fgcse-sm'
+ '-fvariable-expansion-in-unroller' '-fsched-rank-heuristic'
+ '-fipa-cp-clone' '-ftree-vectorize' '-fkeep-static-consts'
+ '-fstrict-overflow' '-ftree-vrp' '-floop-nest-optimize'
+ '-fcse-follow-jumps' '-fgcse-after-reload' '-fira-hoist-pressure'
+ '-ftracer']
+
+56419	['-floop-strip-mine' '-fsplit-wide-types' '-fprofile-values '
+ '-fconserve-stack' '-ftree-switch-conversion' '-fipa-reference'
+ '-ftree-loop-if-convert' '-fno-branch-count-reg' '-fira-hoist-pressure'
+ '-fkeep-static-consts' '-fstrict-aliasing' '-fno-peephole'
+ '-ftree-dominator-opts' '-fcrossjumping' '-finline-small-functions'
+ '-ftree-ter' '-falign-jumps' '-ftree-ccp' '-funsafe-math-optimizations'
+ '-fsched-stalled-insns' '-fsel-sched-pipelining' '-floop-interchange'
+ '-frounding-math' '-fno-function-cse' '-fsched-last-insn-heuristic'
+ '-fcaller-saves' '-fprefetch-loop-arrays' '-fipa-pure-const'
+ '-fauto-inc-dec' '-ftree-phiprop' '-ftree-copy-prop' '-fmudflapth'
+ '-ffunction-sections' '-fif-conversion' '-ffinite-math-only'
+ '-fsched-spec-insn-heuristic' '-fregmove' '-fcx-limited-range'
+ '-foptimize-sibling-calls' '-fsched-group-heuristic' '-ftree-copyrename'
+ '-ftree-pre' '-ftree-dse ' '-fpeel-loops' '-fno-defer-pop'
+ '-fgraphite-identity' '-fno-sched-spec']
+
+55338	['-fcompare-elim' '-fthread-jumps' '-frounding-math'
+ '-ftree-loop-optimize' '-fconserve-stack' '-ftree-sink' '-ftree-ter'
+ '-fpeel-loops' '-falign-labels' '-ftree-reassoc' '-fgcse-sm'
+ '-fsched-spec-load-dangerous' '-fipa-pure-const' '-fgcse-after-reload'
+ '-fdevirtualize' '-ftree-partial-pre' '-ftree-loop-linear' '-fweb'
+ '-falign-loops' '-freciprocal-math' '-fno-default-inline'
+ '-funsafe-loop-optimizations' '-fdelayed-branch' '-funswitch-loops'
+ '-ftree-phiprop' '-ftree-copyrename' '-fcse-skip-blocks'
+ '-ftree-loop-ivcanon' '-flto' '-fno-ira-share-spill-slots'
+ '-fforward-propagate' '-ftree-forwprop' '-ftree-loop-distribute-patterns'
+ '-fgraphite-identity' '-fshrink-wrap' '-fbtr-bb-exclusive' '-fvpt'
+ '-fno-trapping-math']
+
+56537	['-fgcse-sm' '-fgcse' '-fif-conversion2' '-funsafe-math-optimizations'
+ '-fearly-inlining' '-fconserve-stack']
+
+55517	['-fpredictive-commoning' '-floop-interchange' '-fkeep-static-consts'
+ '-fauto-inc-dec' '-fstrict-aliasing' '-fsched-stalled-insns-dep'
+ '-fno-function-cse' '-fassociative-math' '-funsafe-math-optimizations'
+ '-ftree-partial-pre' '-fgcse-after-reload' '-fgcse-sm'
+ '-fgraphite-identity' '-ftree-dce' '-fearly-inlining' '-ftree-tail-merge'
+ '-fno-default-inline' '-flto' '-fvpt' '-fhoist-adjacent-loads'
+ '-fpeel-loops' '-free' '-ftree-copyrename' '-fno-defer-pop'
+ '-fmerge-all-constants' '-fstack-protector' '-fsched2-use-superblocks'
+ '-fivopts' '-fsplit-wide-types' '-fno-math-errno' '-fprofile-values '
+ '-fipa-pure-const' '-fsched-spec-insn-heuristic'
+ '-ftree-loop-distribution' '-ftree-ter' '-ftree-coalesce-vars'
+ '-fcx-limited-range' '-ftree-pta' '-freciprocal-math'
+ '-ftree-loop-ivcanon' '-fif-conversion2' '-fsched-stalled-insns']
+
+56771	['-ftree-partial-pre' '-foptimize-sibling-calls' '-floop-block'
+ '-fno-peephole2' '-fvpt' '-ftree-ccp' '-ffinite-math-only'
+ '-ftree-copyrename' '-fsched-pressure' '-ftree-switch-conversion'
+ '-ftree-vrp' '-ftree-fre' '-fira-hoist-pressure'
+ '-foptimize-register-move' '-freorder-blocks' '-falign-labels'
+ '-fsplit-wide-types' '-fno-function-cse' '-frounding-math'
+ '-fcse-skip-blocks']
+
+55704	['-floop-strip-mine' '-fsched-dep-count-heuristic' '-fno-peephole2'
+ '-fno-peephole' '-fbranch-target-load-optimize2' '-fipa-cp-clone'
+ '-fsched-spec-load-dangerous' '-falign-functions' '-free' '-fvpt'
+ '-fno-ira-share-spill-slots' '-fsched-rank-heuristic' '-fdelayed-branch'
+ '-fipa-pure-const' '-fno-default-inline' '-finline-functions-called-once'
+ '-fprefetch-loop-arrays' '-freschedule-modulo-scheduled-loops'
+ '-fpeel-loops' '-ftree-dce' '-ftree-loop-linear' '-ftree-pta'
+ '-ffinite-math-only' '-ftree-loop-distribute-patterns' '-flto'
+ '-fgcse-after-reload' '-fif-conversion2' '-ftree-loop-ivcanon'
+ '-fsched-spec-load' '-ftree-coalesce-vars' '-fthread-jumps'
+ '-freciprocal-math' '-fcprop-registers' '-fif-conversion'
+ '-fselective-scheduling2' '-fshrink-wrap' '-fhoist-adjacent-loads'
+ '-funit-at-a-time' '-fsched2-use-superblocks' '-ffunction-sections'
+ '-ftree-ch' '-fforward-propagate' '-fira-hoist-pressure'
+ '-ftree-loop-distribution' '-ftree-sra' '-ftree-partial-pre' '-ftree-pre']
+
+56736	['-fipa-cp-clone' '-ftree-forwprop' '-fipa-profile' '-fipa-pure-const'
+ '-fgcse-lm' '-fcx-fortran-rules' '-free' '-fcx-limited-range'
+ '-funroll-loops' '-fkeep-static-consts' '-ftree-sra']
+
+56670	['-ftree-phiprop' '-ftree-ch']
+
+56200	['-fsched-rank-heuristic' '-fivopts' '-fsched-stalled-insns-dep'
+ '-freciprocal-math' '-flto' '-fno-defer-pop' '-foptimize-sibling-calls'
+ '-fno-function-cse' '-ffinite-math-only' '-ftree-coalesce-vars']
+
+55625	['-flto' '-fif-conversion' '-fdelayed-branch' '-ftree-loop-distribution'
+ '-ftree-dse ' '-fcompare-elim' '-fsched-last-insn-heuristic' '-ftree-ccp'
+ '-fno-default-inline' '-fcx-fortran-rules' '-fsched2-use-superblocks'
+ '-free' '-fmudflapth' '-fassociative-math' '-fno-sched-spec'
+ '-fira-hoist-pressure']
+
+55442	['-fipa-pure-const' '-ftree-loop-linear' '-ftree-ch' '-ftree-dce'
+ '-fstrict-overflow' '-funit-at-a-time' '-fcse-follow-jumps' '-flto'
+ '-fmove-loop-invariants' '-fno-toplevel-reorder' '-fhoist-adjacent-loads'
+ '-ftree-ccp' '-ffunction-sections' '-fcx-limited-range'
+ '-fsched-spec-load-dangerous' '-fno-peephole' '-fipa-pta'
+ '-fsched2-use-superblocks' '-fsched-stalled-insns' '-fno-sched-spec'
+ '-freorder-blocks' '-fomit-frame-pointer' '-fno-defer-pop' '-ftree-sra'
+ '-ftree-tail-merge' '-ftree-loop-distribution'
+ '-freorder-blocks-and-partition' '-floop-strip-mine' '-free'
+ '-funsafe-math-optimizations' '-funswitch-loops']
+
+55498	['-fcse-skip-blocks' '-falign-functions' '-foptimize-sibling-calls'
+ '-fvect-cost-model' '-ftree-builtin-call-dce' '-frounding-math'
+ '-ftree-loop-distribute-patterns' '-fgraphite-identity'
+ '-fno-ira-share-spill-slots' '-fipa-pure-const' '-fno-default-inline'
+ '-flto' '-fprofile-values ' '-fsel-sched-pipelining-outer-loops'
+ '-fipa-cp-clone' '-freciprocal-math' '-fomit-frame-pointer'
+ '-floop-block' '-fsched-rank-heuristic' '-fsched-stalled-insns-dep'
+ '-free' '-ftree-partial-pre' '-fregmove' '-fipa-pta' '-ftree-dse '
+ '-fsel-sched-pipelining' '-fgcse-after-reload' '-ftree-switch-conversion'
+ '-finline-small-functions' '-fpredictive-commoning' '-fpeel-loops'
+ '-fbtr-bb-exclusive' '-fsched-group-heuristic'
+ '-fbranch-target-load-optimize2' '-ffast-math']
+
+55662	['-fkeep-static-consts' '-fno-defer-pop' '-frounding-math'
+ '-ftree-phiprop' '-fpeel-loops' '-falign-functions'
+ '-ftree-loop-distribution' '-fconserve-stack' '-fdevirtualize' '-free'
+ '-fsched-dep-count-heuristic' '-ftree-loop-optimize' '-fcx-fortran-rules'
+ '-ftree-slsr' '-fvpt' '-freciprocal-math' '-fregmove'
+ '-ffunction-sections' '-fipa-cp-clone' '-ftree-builtin-call-dce' '-flto'
+ '-fmudflapth' '-fsched-spec-load' '-fsection-anchors' '-fstack-protector'
+ '-ftree-ter' '-fipa-reference' '-ftree-partial-pre'
+ '-fsel-sched-pipelining-outer-loops']
+
+56890	['-fno-peephole' '-ftree-sink' '-frounding-math'
+ '-fcombine-stack-adjustments' '-frerun-cse-after-loop' '-ffast-math'
+ '-ftree-partial-pre' '-freorder-blocks' '-fmove-loop-invariants'
+ '-fno-peephole2' '-fira-hoist-pressure' '-ftree-ccp' '-fthread-jumps']
+
+55127	['-fno-trapping-math' '-flto' '-ftree-vrp'
+ '-fbranch-target-load-optimize2' '-fsched-dep-count-heuristic'
+ '-ftree-loop-ivcanon' '-floop-block' '-fhoist-adjacent-loads'
+ '-foptimize-sibling-calls' '-fsection-anchors' '-fira-loop-pressure'
+ '-ftree-ccp' '-fsplit-wide-types' '-ftree-ter' '-fcaller-saves'
+ '-fipa-profile' '-fsched-spec-load-dangerous' '-ftree-pta' '-fmudflapth'
+ '-fcprop-registers' '-fprefetch-loop-arrays' '-fmove-loop-invariants'
+ '-ftree-sink' '-fira-hoist-pressure' '-fgcse-lm' '-fcse-skip-blocks'
+ '-fpeel-loops' '-ftree-sra' '-falign-loops' '-fipa-reference'
+ '-funsafe-loop-optimizations' '-fsched-spec-insn-heuristic'
+ '-fsel-sched-pipelining-outer-loops' '-ffunction-sections'
+ '-fcx-fortran-rules' '-fno-peephole2' '-ftree-loop-distribution'
+ '-fno-default-inline' '-funsafe-math-optimizations' '-falign-labels'
+ '-fno-defer-pop' '-fgcse-sm' '-fsched-pressure' '-fmerge-all-constants']
+
+56770	['-floop-strip-mine' '-fcx-limited-range' '-ftree-loop-linear'
+ '-ftree-builtin-call-dce' '-fno-ira-share-spill-slots'
+ '-fstrict-overflow' '-falign-labels' '-fsel-sched-pipelining-outer-loops'
+ '-ftree-fre' '-fpeel-loops' '-flto-report' '-fsched-last-insn-heuristic'
+ '-fno-function-cse' '-floop-interchange' '-ftree-loop-if-convert'
+ '-ftree-partial-pre' '-ftree-copy-prop' '-fgcse' '-fconserve-stack'
+ '-ftree-sra' '-ftree-switch-conversion' '-fgcse-after-reload'
+ '-fno-peephole' '-funroll-all-loops' '-ftree-tail-merge'
+ '-finline-small-functions' '-fpredictive-commoning' '-ffinite-math-only'
+ '-ftree-pre' '-floop-block' '-freorder-blocks']
+
+55262	['-falign-labels' '-ftree-pre' '-ftree-sink' '-ftree-switch-conversion'
+ '-fno-defer-pop' '-fno-default-inline' '-fcprop-registers'
+ '-fprefetch-loop-arrays' '-fpeel-loops' '-falign-functions'
+ '-fdelayed-branch' '-fmudflapth' '-fipa-pure-const' '-fauto-inc-dec'
+ '-fkeep-static-consts' '-fvpt' '-fipa-profile' '-fselective-scheduling'
+ '-fsched2-use-superblocks' '-fgcse' '-ftree-copyrename' '-flto'
+ '-faggressive-loop-optimizations' '-ftree-ccp' '-ftree-loop-optimize'
+ '-fearly-inlining']
+
+57587	['-fcse-follow-jumps' '-fpeel-loops' '-ftree-coalesce-vars' '-ftree-ch'
+ '-frounding-math' '-fsel-sched-pipelining-outer-loops'
+ '-fno-function-cse' '-ftree-copy-prop' '-fno-defer-pop']
+
+57267	['-funsafe-math-optimizations' '-fshrink-wrap'
+ '-fbranch-target-load-optimize2' '-ftree-phiprop' '-fforward-propagate'
+ '-fivopts' '-ftree-copyrename' '-falign-jumps' '-floop-strip-mine'
+ '-fselective-scheduling' '-fgcse-lm' '-fprefetch-loop-arrays'
+ '-fpeel-loops' '-fipa-reference' '-ftree-loop-distribution'
+ '-fassociative-math' '-fif-conversion' '-ftree-ch'
+ '-foptimize-sibling-calls' '-fno-math-errno' '-falign-functions'
+ '-fno-sched-spec' '-fno-peephole' '-freorder-blocks-and-partition'
+ '-ftree-dse ' '-fmerge-all-constants' '-free' '-fsched-stalled-insns-dep'
+ '-ftree-partial-pre' '-fdata-sections' '-funsafe-loop-optimizations'
+ '-ftree-forwprop' '-fvariable-expansion-in-unroller'
+ '-fkeep-static-consts' '-fif-conversion2' '-ftree-bit-ccp'
+ '-fira-loop-pressure' '-ftree-pre']
+
+55582	['-fthread-jumps' '-ftree-vrp' '-ftree-switch-conversion'
+ '-ftree-loop-distribution' '-fcaller-saves' '-ffinite-math-only'
+ '-fira-hoist-pressure' '-fsplit-wide-types' '-falign-functions'
+ '-fcse-follow-jumps' '-funsafe-loop-optimizations' '-fbtr-bb-exclusive'
+ '-fvpt' '-fprefetch-loop-arrays' '-ftree-loop-linear' '-fipa-reference'
+ '-ftree-coalesce-vars' '-freciprocal-math' '-fsection-anchors' '-flto'
+ '-fsched-group-heuristic' '-ffunction-sections' '-fsched-stalled-insns'
+ '-fno-defer-pop' '-fkeep-static-consts' '-ftree-forwprop'
+ '-fgraphite-identity' '-fstrict-overflow' '-fipa-pta']
+
+55246	['-ftree-loop-ivcanon' '-funsafe-math-optimizations' '-fvpt'
+ '-fno-peephole' '-fdelayed-branch' '-fno-defer-pop' '-finline-functions'
+ '-floop-strip-mine' '-fcx-fortran-rules' '-fira-hoist-pressure'
+ '-ftree-loop-if-convert' '-flto' '-ftree-tail-merge' '-fno-trapping-math'
+ '-free' '-ftree-dse ' '-ftree-loop-linear' '-flto-report'
+ '-fif-conversion2' '-ftree-dominator-opts' '-fcheck-data-deps'
+ '-fira-loop-pressure' '-fsched-pressure' '-foptimize-register-move'
+ '-ftree-forwprop' '-fbtr-bb-exclusive'
+ '-freschedule-modulo-scheduled-loops' '-finline-functions-called-once'
+ '-fassociative-math' '-ftree-vrp' '-fdevirtualize' '-ftree-ch'
+ '-fif-conversion' '-ftree-loop-distribution' '-fivopts']
+
+55136	['-fcrossjumping' '-floop-strip-mine' '-foptimize-sibling-calls'
+ '-fhoist-adjacent-loads' '-fira-loop-pressure' '-fregmove'
+ '-fno-function-cse' '-fno-peephole' '-freorder-blocks' '-flto'
+ '-fsched-spec-load-dangerous' '-ftree-coalesce-vars'
+ '-ftree-loop-distribute-patterns' '-fsel-sched-pipelining'
+ '-fsched-spec-insn-heuristic' '-ftree-pta' '-free' '-ffast-math'
+ '-fmerge-all-constants' '-fno-peephole2' '-fstrict-overflow'
+ '-fno-default-inline' '-ftree-loop-optimize' '-falign-jumps'
+ '-fcompare-elim' '-fipa-pure-const']
+
+58121	['-fsel-sched-pipelining' '-fcompare-elim' '-fsched-stalled-insns-dep'
+ '-finline-small-functions' '-fno-branch-count-reg' '-fif-conversion'
+ '-ftree-sink' '-fdce' '-fivopts' '-ftree-partial-pre' '-ftree-pre'
+ '-faggressive-loop-optimizations']
+
+57341	['-ftree-partial-pre' '-ffinite-math-only' '-ftree-loop-linear'
+ '-ftree-pta' '-fauto-inc-dec' '-ftree-bit-ccp' '-fsplit-wide-types']
+
+55883	['-fhoist-adjacent-loads' '-fpredictive-commoning' '-fivopts'
+ '-funroll-loops' '-floop-interchange' '-fweb' '-ftree-builtin-call-dce'
+ '-ftree-ccp' '-ftree-bit-ccp' '-fipa-pta' '-fgcse-sm' '-frounding-math'
+ '-ftree-switch-conversion' '-ftree-loop-optimize' '-fno-peephole'
+ '-ftree-sink' '-fira-loop-pressure' '-fcx-limited-range'
+ '-fsel-sched-pipelining-outer-loops' '-fsched2-use-superblocks'
+ '-fkeep-static-consts' '-fvpt' '-ftree-ter' '-flto'
+ '-funsafe-loop-optimizations' '-fno-trapping-math' '-fcrossjumping'
+ '-fno-defer-pop' '-fvariable-expansion-in-unroller']
+
+55567	['-fno-peephole' '-fsched-stalled-insns-dep'
+ '-fbranch-target-load-optimize2' '-fsched2-use-superblocks'
+ '-ftree-loop-optimize' '-ffinite-math-only' '-ftree-ccp' '-ffast-math'
+ '-falign-loops' '-funsafe-loop-optimizations' '-finline-small-functions'
+ '-fcprop-registers' '-fpredictive-commoning' '-ftree-loop-linear'
+ '-ftree-pre' '-fivopts' '-funroll-loops' '-fif-conversion2'
+ '-fauto-inc-dec' '-fno-peephole2' '-fsplit-wide-types'
+ '-fforward-propagate' '-fsection-anchors' '-floop-block'
+ '-funswitch-loops' '-fmudflapth' '-flto' '-ftree-vectorize'
+ '-ffunction-sections' '-fsched-spec-load-dangerous'
+ '-fsel-sched-pipelining-outer-loops' '-fipa-pure-const'
+ '-fsched-pressure']
+
+55532	['-fno-sched-spec' '-fshrink-wrap' '-fipa-reference' '-fcaller-saves'
+ '-fdevirtualize' '-ftree-builtin-call-dce'
+ '-fvariable-expansion-in-unroller' '-ftree-loop-optimize'
+ '-ftree-partial-pre' '-ftree-vrp' '-fif-conversion'
+ '-fsched-group-heuristic' '-ftree-ch' '-flto' '-ftree-loop-linear'
+ '-fgcse-after-reload' '-fipa-cp-clone' '-fmudflapth' '-fthread-jumps'
+ '-fselective-scheduling' '-fno-trapping-math']
+
+56098	['-ftree-copyrename' '-fprofile-values ' '-fira-loop-pressure'
+ '-fkeep-static-consts' '-fgraphite-identity' '-fipa-profile'
+ '-fsched-pressure' '-fipa-reference' '-fsched-spec-insn-heuristic'
+ '-fdevirtualize' '-ftree-reassoc' '-fstack-protector' '-fpeel-loops'
+ '-fvect-cost-model' '-fsched-group-heuristic' '-ftree-tail-merge'
+ '-fsplit-wide-types' '-flto' '-fcheck-data-deps'
+ '-ftree-switch-conversion' '-fno-default-inline' '-fsched-stalled-insns'
+ '-foptimize-sibling-calls' '-fsel-sched-pipelining-outer-loops'
+ '-fif-conversion' '-fgcse-after-reload' '-fselective-scheduling2'
+ '-ffinite-math-only']
+
+55226	['-fhoist-adjacent-loads' '-ftree-loop-distribution'
+ '-fsched-group-heuristic' '-funit-at-a-time' '-fsched-pressure' '-flto'
+ '-fstrict-overflow' '-fbranch-target-load-optimize2'
+ '-ftree-coalesce-vars' '-fgcse' '-fsched-dep-count-heuristic'
+ '-fvariable-expansion-in-unroller' '-fshrink-wrap' '-fgcse-sm'
+ '-ffinite-math-only' '-fregmove' '-fstrict-aliasing'
+ '-fno-default-inline' '-fkeep-static-consts' '-free' '-fpeel-loops'
+ '-ftree-sink']
+
+55449	['-floop-nest-optimize' '-falign-jumps' '-ftree-builtin-call-dce'
+ '-ftree-sra' '-fcrossjumping' '-floop-interchange' '-ftree-copy-prop'
+ '-fcse-follow-jumps' '-ftree-dce' '-fkeep-static-consts'
+ '-fdelayed-branch' '-fsched-spec-insn-heuristic' '-ftree-copyrename'
+ '-fmerge-all-constants' '-fmudflapth' '-fgcse' '-ftree-fre'
+ '-fthread-jumps' '-fno-peephole2' '-ftree-tail-merge'
+ '-ftree-loop-optimize' '-finline-functions' '-fno-default-inline' '-flto'
+ '-fprefetch-loop-arrays']
+
+57070	['-floop-block' '-fno-peephole2' '-frounding-math' '-fno-toplevel-reorder'
+ '-ftree-partial-pre' '-fno-sched-spec' '-fshrink-wrap' '-fipa-profile'
+ '-fsplit-wide-types' '-fmove-loop-invariants' '-ftree-ccp' '-ftree-vrp'
+ '-floop-nest-optimize' '-fmerge-constants' '-ftree-loop-linear'
+ '-fhoist-adjacent-loads' '-fno-default-inline' '-fcse-skip-blocks'
+ '-fno-branch-count-reg' '-fsched-stalled-insns-dep'
+ '-ftree-loop-distribution' '-ftree-copy-prop' '-fcprop-registers'
+ '-finline-functions' '-ftree-bit-ccp' '-ftree-tail-merge'
+ '-fsched-rank-heuristic' '-funroll-all-loops' '-fno-function-cse'
+ '-fno-defer-pop' '-fregmove' '-fira-hoist-pressure' '-ftree-phiprop']
+
+56863	['-fcaller-saves' '-fcrossjumping' '-floop-block' '-ftree-loop-optimize'
+ '-ftree-loop-ivcanon']
+
+57200	['-ftree-copyrename' '-fcaller-saves' '-ftree-tail-merge'
+ '-finline-functions' '-ftree-copy-prop' '-fcheck-data-deps' '-fdce'
+ '-fno-defer-pop' '-fsel-sched-pipelining-outer-loops' '-ftree-ter'
+ '-fgcse' '-ftree-sra' '-fweb' '-funit-at-a-time' '-fno-default-inline'
+ '-fipa-reference' '-fgcse-sm' '-fconserve-stack' '-fpeel-loops'
+ '-fivopts' '-fira-hoist-pressure' '-fgraphite-identity'
+ '-fsplit-wide-types' '-fsched-spec-load' '-fno-sched-spec'
+ '-fselective-scheduling2' '-fhoist-adjacent-loads' '-funroll-loops'
+ '-ftree-switch-conversion' '-fkeep-static-consts'
+ '-fbranch-target-load-optimize2' '-fsched-stalled-insns' '-fcrossjumping'
+ '-fvpt' '-ffinite-math-only' '-fno-peephole2' '-flto']
+
+56937	['-fipa-reference' '-free' '-fprofile-values ' '-ftree-loop-optimize'
+ '-fcse-follow-jumps' '-fkeep-static-consts' '-fthread-jumps'
+ '-fdevirtualize' '-ftree-coalesce-vars' '-fauto-inc-dec' '-fgcse'
+ '-fhoist-adjacent-loads' '-fno-defer-pop' '-fpeel-loops' '-fweb'
+ '-fno-trapping-math' '-fivopts' '-fmudflapth' '-fconserve-stack'
+ '-fshrink-wrap' '-ftree-switch-conversion'
+ '-fsel-sched-pipelining-outer-loops' '-ftree-fre' '-ffast-math'
+ '-fsched-dep-count-heuristic' '-fsched2-use-superblocks'
+ '-finline-functions' '-ftree-copyrename' '-fno-function-cse'
+ '-fprefetch-loop-arrays' '-foptimize-sibling-calls'
+ '-fsched-stalled-insns' '-ftree-pre' '-freorder-blocks-and-partition'
+ '-floop-block' '-falign-functions']
+
+55413	['-flto' '-ftree-loop-if-convert' '-fno-branch-count-reg'
+ '-fsched-stalled-insns-dep' '-fno-sched-spec' '-fno-defer-pop'
+ '-ftree-pta' '-funswitch-loops' '-ftree-dominator-opts'
+ '-fipa-pure-const' '-fsched-spec-insn-heuristic'
+ '-fbranch-target-load-optimize2' '-fgcse' '-ftree-switch-conversion'
+ '-fomit-frame-pointer' '-fweb' '-free' '-fcse-follow-jumps'
+ '-ftree-loop-ivcanon' '-funroll-all-loops' '-fkeep-static-consts'
+ '-foptimize-sibling-calls' '-ftree-phiprop' '-fno-function-cse'
+ '-fgraphite-identity' '-fmerge-all-constants' '-ftree-copyrename'
+ '-ftree-loop-linear' '-fvpt' '-fipa-reference' '-fno-default-inline'
+ '-fno-math-errno' '-fno-ira-share-spill-slots' '-ffinite-math-only'
+ '-fgcse-lm' '-floop-nest-optimize' '-ftree-dce' '-ffunction-sections'
+ '-fipa-pta' '-fpeel-loops']
+
+55077	['-fno-trapping-math' '-ftree-pta' '-ftree-forwprop' '-fcompare-elim'
+ '-fno-toplevel-reorder' '-fivopts' '-fcombine-stack-adjustments'
+ '-ftree-copyrename' '-ftree-switch-conversion' '-fgcse-lm'
+ '-falign-jumps' '-ftree-loop-ivcanon' '-fstrict-overflow' '-ftree-ter'
+ '-fsched-rank-heuristic' '-fgraphite-identity' '-ftree-bit-ccp' '-fdce'
+ '-ffinite-math-only' '-fdelayed-branch' '-funsafe-math-optimizations'
+ '-ftree-sink' '-foptimize-sibling-calls' '-fthread-jumps'
+ '-fprefetch-loop-arrays' '-fhoist-adjacent-loads' '-funroll-all-loops'
+ '-ftree-tail-merge' '-ftree-partial-pre' '-fsched-spec-insn-heuristic'
+ '-fno-defer-pop' '-fvpt' '-fmudflapth' '-flto' '-fsched-group-heuristic'
+ '-flto-report' '-fselective-scheduling' '-fira-hoist-pressure'
+ '-ftree-fre' '-floop-strip-mine' '-fsched-spec-load-dangerous'
+ '-ftree-copy-prop' '-ffunction-sections' '-fpredictive-commoning'
+ '-fassociative-math' '-ftree-dse ' '-fsched-pressure' '-fauto-inc-dec'
+ '-fsched-dep-count-heuristic' '-fweb']
+
+57397	['-fcombine-stack-adjustments' '-fira-loop-pressure' '-fgcse-lm'
+ '-ftree-sink' '-fsched2-use-superblocks' '-fcx-fortran-rules'
+ '-fira-hoist-pressure' '-fhoist-adjacent-loads' '-fstrict-overflow'
+ '-frounding-math' '-ftree-loop-optimize' '-ftree-ccp' '-falign-labels'
+ '-fipa-reference' '-ftree-vrp' '-ftree-builtin-call-dce' '-fregmove'
+ '-fipa-cp-clone' '-finline-functions-called-once']
+
+56980	['-fivopts' '-fshrink-wrap' '-ffunction-sections'
+ '-ftree-loop-distribution' '-ftree-sra' '-fpeel-loops' '-fipa-pure-const'
+ '-freorder-blocks' '-fsel-sched-pipelining-outer-loops' '-fif-conversion'
+ '-fhoist-adjacent-loads' '-fno-math-errno' '-ffast-math' '-fno-defer-pop'
+ '-funsafe-math-optimizations' '-fdce' '-fno-function-cse'
+ '-floop-interchange' '-fira-loop-pressure' '-funit-at-a-time'
+ '-ftree-ccp' '-ftree-sink' '-ftree-ch' '-fdevirtualize' '-fweb'
+ '-fno-default-inline' '-fsched2-use-superblocks'
+ '-fvariable-expansion-in-unroller' '-fmudflapth' '-fstack-protector'
+ '-ftree-ter' '-fbranch-target-load-optimize2'
+ '-fsched-last-insn-heuristic' '-fno-branch-count-reg' '-ftree-pre'
+ '-ftree-pta' '-fno-peephole' '-fcse-follow-jumps']
+
+56530	['-ftree-loop-optimize' '-ftree-pta' '-fconserve-stack'
+ '-fcx-limited-range' '-fsched-stalled-insns'
+ '-funsafe-loop-optimizations' '-ftree-sra' '-fsched-rank-heuristic'
+ '-ffast-math']
+
+54697	['-fsched-stalled-insns' '-fbtr-bb-exclusive' '-ftree-ccp'
+ '-fif-conversion2' '-fsched-stalled-insns-dep' '-ftree-pta'
+ '-freorder-blocks' '-ffinite-math-only' '-floop-strip-mine' '-fgcse-sm'
+ '-ftree-dominator-opts' '-fdce' '-ftree-loop-distribution'
+ '-fgcse-after-reload' '-fif-conversion' '-ftree-dse ' '-fcompare-elim'
+ '-fprefetch-loop-arrays' '-fno-branch-count-reg' '-fthread-jumps'
+ '-ftree-tail-merge' '-frounding-math' '-frename-registers'
+ '-fsched-spec-load-dangerous' '-ftree-loop-optimize'
+ '-fbranch-target-load-optimize2' '-fcrossjumping' '-flto-report'
+ '-foptimize-sibling-calls' '-flto' '-ftree-loop-if-convert' '-fvpt'
+ '-fpeel-loops' '-fno-math-errno' '-fdata-sections' '-ftree-copyrename'
+ '-fipa-profile']
+
+55086	['-fhoist-adjacent-loads' '-flto' '-ftree-loop-distribution'
+ '-ftree-builtin-call-dce' '-ftree-copy-prop' '-free' '-ffinite-math-only']
+
+56478	['-fira-hoist-pressure' '-fivopts' '-ftree-ch' '-funit-at-a-time'
+ '-ffast-math' '-fselective-scheduling' '-floop-interchange'
+ '-fbranch-target-load-optimize2' '-fcaller-saves' '-fkeep-static-consts'
+ '-ftree-copyrename' '-fsel-sched-pipelining'
+ '-fcombine-stack-adjustments' '-fno-defer-pop'
+ '-funsafe-math-optimizations' '-fcompare-elim'
+ '-fsched-stalled-insns-dep' '-fcprop-registers' '-floop-strip-mine'
+ '-fdelayed-branch' '-free' '-fvpt' '-fsched-spec-insn-heuristic'
+ '-fno-peephole' '-ftree-coalesce-vars' '-fif-conversion'
+ '-fgcse-after-reload']
+
+54727	['-fcprop-registers' '-ffinite-math-only' '-fmerge-all-constants'
+ '-fselective-scheduling' '-ftree-sink' '-ftree-tail-merge'
+ '-fvariable-expansion-in-unroller' '-flto' '-fcrossjumping'
+ '-fgraphite-identity' '-fsel-sched-pipelining-outer-loops'
+ '-fbranch-target-load-optimize2' '-fsplit-wide-types'
+ '-ftree-loop-distribution' '-fno-defer-pop' '-ftree-switch-conversion'
+ '-fprefetch-loop-arrays' '-foptimize-sibling-calls' '-fgcse-lm'
+ '-flto-report' '-fipa-pure-const' '-fconserve-stack'
+ '-fira-hoist-pressure']
+
+56645	['-fif-conversion2' '-ftree-partial-pre' '-ftree-vectorize'
+ '-ffinite-math-only' '-finline-small-functions'
+ '-freorder-blocks-and-partition' '-fmudflapth' '-fprefetch-loop-arrays'
+ '-fpeel-loops' '-fivopts' '-fsched-rank-heuristic' '-funswitch-loops'
+ '-fif-conversion' '-fvariable-expansion-in-unroller' '-ftree-loop-linear'
+ '-ftree-slsr' '-fsel-sched-pipelining-outer-loops' '-fipa-cp-clone'
+ '-ftree-ccp' '-floop-strip-mine' '-fstrict-overflow' '-fregmove'
+ '-ftree-pre' '-fdevirtualize' '-fno-peephole2' '-fno-branch-count-reg'
+ '-falign-loops' '-ftree-copy-prop' '-fcprop-registers'
+ '-fno-trapping-math' '-ffunction-sections' '-fhoist-adjacent-loads'
+ '-fira-hoist-pressure' '-ftree-copyrename' '-fno-ira-share-spill-slots'
+ '-ftree-fre' '-fconserve-stack' '-floop-nest-optimize' '-ftree-sink']
+
+56537	['-fpeel-loops' '-ftree-dce' '-floop-block' '-fdata-sections'
+ '-freciprocal-math' '-fcx-limited-range' '-funroll-loops'
+ '-ftree-switch-conversion' '-ftree-pre' '-floop-strip-mine'
+ '-fno-peephole2' '-fcse-follow-jumps' '-ftree-coalesce-vars'
+ '-fcombine-stack-adjustments' '-ftree-copyrename'
+ '-foptimize-sibling-calls' '-fprofile-values ' '-fearly-inlining'
+ '-fsched-pressure']
+
+55237	['-ffunction-sections' '-flto' '-fif-conversion2'
+ '-fbranch-target-load-optimize2' '-fsel-sched-pipelining'
+ '-fsched-dep-count-heuristic' '-fshrink-wrap' '-fdelayed-branch'
+ '-fsel-sched-pipelining-outer-loops' '-fcompare-elim' '-ftree-slsr'
+ '-ftree-fre' '-ftree-loop-linear' '-fassociative-math'
+ '-ftree-loop-optimize' '-fstrict-overflow' '-fpredictive-commoning'
+ '-fsched-stalled-insns' '-fsection-anchors' '-fsched-stalled-insns-dep'
+ '-fhoist-adjacent-loads' '-funswitch-loops']
+
+54779	['-free' '-ftree-loop-linear' '-fdelete-null-pointer-checks'
+ '-ftree-loop-distribute-patterns' '-fpeel-loops' '-fregmove' '-ftree-pre'
+ '-fprefetch-loop-arrays' '-fthread-jumps' '-fgcse-lm' '-frounding-math'
+ '-ftree-loop-optimize' '-fdce' '-fvariable-expansion-in-unroller'
+ '-ftree-loop-ivcanon' '-fcheck-data-deps' '-flto-report'
+ '-fcx-fortran-rules' '-fno-ira-share-spill-slots' '-ftree-forwprop'
+ '-fvpt' '-fcompare-elim' '-fselective-scheduling' '-ffunction-sections'
+ '-fstack-protector' '-fno-sched-spec' '-fsched-stalled-insns'
+ '-finline-functions-called-once' '-fprofile-values ' '-ftree-sink'
+ '-fcprop-registers' '-ftree-dominator-opts' '-fshrink-wrap'
+ '-ftree-builtin-call-dce' '-fgraphite-identity' '-flto'
+ '-fcse-skip-blocks' '-ftree-copyrename' '-ftree-vrp'
+ '-fsched-last-insn-heuristic']
+
+54547	['-fsel-sched-pipelining-outer-loops' '-fmove-loop-invariants'
+ '-funroll-all-loops' '-ftree-forwprop' '-fgcse-lm' '-ftree-phiprop'
+ '-fvect-cost-model' '-fassociative-math' '-ftree-loop-distribution'
+ '-fira-hoist-pressure' '-funsafe-math-optimizations' '-flto-report'
+ '-flto' '-ffunction-sections' '-ftree-partial-pre' '-ftree-fre'
+ '-funswitch-loops' '-fprefetch-loop-arrays' '-ffast-math'
+ '-fdelete-null-pointer-checks' '-fpeel-loops' '-fgcse-after-reload']
+
+56839	['-fcse-follow-jumps' '-fsched2-use-superblocks' '-funroll-loops'
+ '-finline-small-functions' '-fcaller-saves' '-fcompare-elim'
+ '-fipa-cp-clone' '-fcrossjumping' '-ftree-copyrename' '-fdata-sections'
+ '-fira-hoist-pressure' '-fipa-reference' '-ftree-pta'
+ '-fmerge-all-constants' '-fregmove' '-falign-jumps' '-fno-function-cse'
+ '-ftree-loop-distribute-patterns' '-fprefetch-loop-arrays']
+
+55114	['-fcheck-data-deps' '-ftree-loop-ivcanon'
+ '-fbranch-target-load-optimize2' '-ftree-copyrename' '-ftree-ccp' '-flto'
+ '-fipa-reference']
+
+55988	['-foptimize-sibling-calls' '-fira-hoist-pressure' '-fgcse-after-reload'
+ '-falign-jumps' '-fcse-follow-jumps' '-ftree-fre' '-fkeep-static-consts'
+ '-flto' '-fgraphite-identity' '-ftree-ter' '-ftree-loop-linear'
+ '-freciprocal-math' '-ftree-partial-pre' '-finline-functions-called-once'
+ '-finline-functions' '-fpeel-loops' '-fcompare-elim' '-fbtr-bb-exclusive'
+ '-ftree-bit-ccp' '-ftree-loop-ivcanon' '-fcx-fortran-rules'
+ '-fipa-pure-const' '-ftree-loop-distribute-patterns' '-freorder-blocks'
+ '-fhoist-adjacent-loads' '-fcprop-registers' '-ftree-dce' '-ftree-ch'
+ '-ftree-pta' '-fsched-stalled-insns' '-fsel-sched-pipelining-outer-loops'
+ '-ftree-phiprop' '-ffinite-math-only']
+
+55323	['-foptimize-sibling-calls' '-fno-defer-pop' '-flto'
+ '-fira-hoist-pressure' '-fsched-stalled-insns-dep' '-flto-report'
+ '-fsched-group-heuristic' '-freorder-blocks' '-fsched2-use-superblocks'
+ '-fbranch-target-load-optimize2' '-fregmove' '-fno-ira-share-spill-slots'
+ '-ftree-switch-conversion' '-ftree-loop-linear' '-fno-branch-count-reg'
+ '-ffinite-math-only' '-fsched-spec-insn-heuristic' '-fdelayed-branch'
+ '-fconserve-stack' '-fno-sched-spec' '-ftree-bit-ccp' '-fprofile-values '
+ '-free' '-ftree-loop-distribute-patterns' '-ftree-vrp' '-fthread-jumps'
+ '-fshrink-wrap' '-fpeel-loops' '-fcompare-elim'
+ '-freorder-blocks-and-partition' '-fsection-anchors' '-fno-trapping-math'
+ '-fno-math-errno' '-fcaller-saves' '-floop-nest-optimize' '-fgcse-sm'
+ '-fmerge-all-constants']
+
+54676	['-fsched-last-insn-heuristic' '-fipa-cp-clone' '-ffunction-sections'
+ '-fbranch-target-load-optimize2' '-fno-sched-spec' '-ftree-ter'
+ '-fsched-pressure' '-frounding-math' '-ftree-loop-if-convert'
+ '-fdelayed-branch' '-fno-math-errno' '-ftree-loop-linear'
+ '-fgraphite-identity' '-fvariable-expansion-in-unroller' '-fweb'
+ '-fgcse-after-reload' '-fcx-fortran-rules'
+ '-freorder-blocks-and-partition' '-fprefetch-loop-arrays' '-flto'
+ '-fno-default-inline' '-free' '-ftree-vrp' '-funroll-all-loops'
+ '-fsched-stalled-insns' '-fearly-inlining' '-ftree-pre'
+ '-fstack-protector' '-fselective-scheduling' '-ftree-coalesce-vars'
+ '-fira-hoist-pressure' '-fdevirtualize' '-funswitch-loops'
+ '-ftree-partial-pre' '-fshrink-wrap' '-finline-small-functions'
+ '-fif-conversion2' '-funsafe-math-optimizations' '-fpeel-loops'
+ '-fmerge-constants' '-fpredictive-commoning' '-ftree-ccp'
+ '-fcaller-saves' '-fsel-sched-pipelining-outer-loops' '-fcheck-data-deps'
+ '-fipa-reference' '-fmove-loop-invariants' '-ftree-copyrename'
+ '-flto-report' '-finline-functions']
+
+56359	['-fsched-last-insn-heuristic' '-fno-default-inline'
+ '-ftree-switch-conversion' '-fno-trapping-math' '-freorder-blocks'
+ '-fsplit-wide-types' '-funsafe-loop-optimizations' '-fprofile-values '
+ '-falign-jumps' '-fmudflapth' '-ftree-pta']
+
+56320	['-ftree-loop-if-convert' '-fno-defer-pop' '-fearly-inlining'
+ '-floop-nest-optimize' '-fno-sched-spec' '-ftree-dominator-opts'
+ '-fpredictive-commoning' '-fcprop-registers' '-ftree-ccp' '-fgcse-lm'
+ '-fno-function-cse' '-finline-functions-called-once' '-fivopts'
+ '-fno-trapping-math']
+
+56484	['-ftree-slsr' '-ftree-vrp' '-fno-function-cse' '-ffunction-sections'
+ '-fmudflapth' '-fdata-sections' '-finline-small-functions'
+ '-falign-labels' '-fsel-sched-pipelining-outer-loops' '-fipa-pta'
+ '-fprefetch-loop-arrays' '-fstrict-overflow' '-fsched-rank-heuristic'
+ '-fno-peephole2' '-ftree-loop-optimize' '-fno-math-errno'
+ '-fif-conversion2' '-fno-toplevel-reorder' '-floop-strip-mine'
+ '-fipa-cp-clone' '-fcx-fortran-rules']
+
+56921	['-ftree-slsr' '-free' '-ffast-math' '-fbtr-bb-exclusive'
+ '-fira-hoist-pressure' '-fno-math-errno'
+ '-fsel-sched-pipelining-outer-loops' '-fpredictive-commoning'
+ '-floop-interchange' '-fkeep-static-consts' '-ftree-pta'
+ '-fprefetch-loop-arrays' '-funroll-all-loops' '-fcaller-saves'
+ '-falign-loops' '-fassociative-math' '-fno-branch-count-reg'
+ '-ftree-switch-conversion']
+
+56451	['-fdata-sections' '-fomit-frame-pointer' '-ftree-forwprop'
+ '-fira-hoist-pressure' '-fdevirtualize' '-fpredictive-commoning'
+ '-ftree-phiprop' '-fthread-jumps' '-fsched-last-insn-heuristic'
+ '-floop-strip-mine' '-fgcse-after-reload'
+ '-fbranch-target-load-optimize2' '-fno-defer-pop' '-ftracer'
+ '-fipa-pure-const' '-fvpt' '-fno-default-inline' '-ftree-ccp' '-fivopts'
+ '-ftree-loop-linear' '-fsched-spec-insn-heuristic' '-freorder-blocks'
+ '-funsafe-math-optimizations' '-ftree-copy-prop' '-fforward-propagate'
+ '-fsched-pressure' '-falign-loops' '-fsched2-use-superblocks'
+ '-ftree-pre']
+
+56398	['-fconserve-stack' '-fpeel-loops' '-frounding-math' '-fno-defer-pop']
+
+55098	['-ftree-partial-pre' '-fipa-cp-clone' '-fno-math-errno' '-fno-defer-pop'
+ '-fgcse' '-ffinite-math-only' '-free' '-fivopts' '-fpeel-loops'
+ '-ftree-loop-linear' '-ftree-loop-optimize' '-fsched-stalled-insns'
+ '-fvariable-expansion-in-unroller' '-fomit-frame-pointer'
+ '-funsafe-loop-optimizations' '-fsched-rank-heuristic' '-fweb'
+ '-fgraphite-identity' '-floop-interchange' '-fmudflapth' '-ftree-ccp'
+ '-fbtr-bb-exclusive' '-fgcse-sm' '-ftree-sink' '-ftree-copyrename'
+ '-fif-conversion' '-flto' '-fforward-propagate' '-fno-branch-count-reg'
+ '-fsched-dep-count-heuristic' '-funit-at-a-time'
+ '-ftree-loop-distribute-patterns' '-finline-small-functions' '-fgcse-lm'
+ '-ftree-sra' '-fschedule-insns2' '-ftree-dce' '-fgcse-after-reload'
+ '-fvpt' '-fif-conversion2' '-funswitch-loops'
+ '-fsel-sched-pipelining-outer-loops' '-fselective-scheduling'
+ '-fsched-stalled-insns-dep' '-finline-functions' '-fira-loop-pressure'
+ '-fstrict-overflow' '-floop-strip-mine' '-ftracer']
+
+54580	['-fno-peephole' '-fno-ira-share-spill-slots' '-ftree-vrp'
+ '-faggressive-loop-optimizations' '-fno-trapping-math' '-flto'
+ '-ffast-math' '-fomit-frame-pointer' '-free' '-fschedule-insns2'
+ '-foptimize-sibling-calls' '-freciprocal-math' '-falign-jumps'
+ '-fsched-pressure' '-ffunction-sections' '-ftree-copyrename' '-fivopts'
+ '-ftree-slsr' '-fcrossjumping' '-ftree-coalesce-vars' '-fdelayed-branch'
+ '-ftree-pre' '-ftree-dse ' '-floop-block' '-ftree-tail-merge' '-fgcse-sm'
+ '-ftree-switch-conversion' '-funswitch-loops' '-fprefetch-loop-arrays'
+ '-fipa-pta' '-fdata-sections' '-flto-report' '-fmudflapth'
+ '-fipa-cp-clone' '-fpeel-loops' '-fhoist-adjacent-loads'
+ '-fselective-scheduling' '-fregmove' '-falign-loops'
+ '-fsched-dep-count-heuristic' '-ftree-fre'
+ '-fbranch-target-load-optimize2' '-fstack-protector'
+ '-funsafe-loop-optimizations' '-frounding-math' '-fsched-rank-heuristic'
+ '-fcombine-stack-adjustments' '-ftree-loop-ivcanon' '-ftree-partial-pre'
+ '-falign-labels']
+
+54917	['-ftree-coalesce-vars' '-fbtr-bb-exclusive' '-fcompare-elim'
+ '-ftree-loop-optimize' '-fcrossjumping' '-ftree-switch-conversion'
+ '-falign-jumps' '-ftree-copyrename' '-freorder-blocks-and-partition'
+ '-fdata-sections' '-freschedule-modulo-scheduled-loops' '-fmudflapth'
+ '-ftree-copy-prop' '-fpredictive-commoning' '-ftree-loop-linear'
+ '-fcaller-saves' '-flto' '-fearly-inlining' '-fhoist-adjacent-loads'
+ '-fkeep-static-consts' '-fno-branch-count-reg' '-fsection-anchors'
+ '-fauto-inc-dec' '-funit-at-a-time' '-freciprocal-math' '-ftree-ccp'
+ '-ftree-dce' '-fivopts' '-fpeel-loops' '-ftree-dse ' '-ftree-sink'
+ '-ffunction-sections' '-fsched-stalled-insns' '-foptimize-sibling-calls'
+ '-free' '-fcx-fortran-rules' '-fomit-frame-pointer' '-fcheck-data-deps'
+ '-ftree-loop-ivcanon' '-ftree-vrp' '-fgcse-after-reload'
+ '-fprefetch-loop-arrays' '-fcprop-registers' '-fdce' '-ffinite-math-only'
+ '-fipa-pure-const']
+
+55133	['-fgcse-sm' '-ftree-copyrename' '-fsched-pressure' '-flto'
+ '-fsched2-use-superblocks' '-fstack-protector' '-funit-at-a-time'
+ '-fno-default-inline' '-ftree-ccp' '-fgcse-after-reload' '-floop-block'
+ '-fbranch-target-load-optimize2' '-fsched-stalled-insns-dep'
+ '-fvect-cost-model' '-fsched-dep-count-heuristic' '-fstrict-aliasing'
+ '-fif-conversion' '-floop-nest-optimize' '-fpeel-loops'
+ '-funsafe-math-optimizations' '-fkeep-static-consts' '-fivopts'
+ '-fcombine-stack-adjustments' '-fno-sched-spec' '-ftree-dominator-opts'
+ '-fsel-sched-pipelining-outer-loops' '-fcx-limited-range'
+ '-fauto-inc-dec' '-fno-trapping-math' '-fvpt']
+
+56592	['-fsched-group-heuristic' '-frounding-math' '-fira-loop-pressure'
+ '-fthread-jumps' '-fno-trapping-math' '-fsched-last-insn-heuristic'
+ '-ftree-partial-pre']
+
+55082	['-fif-conversion2' '-fcheck-data-deps' '-ftree-copyrename'
+ '-fauto-inc-dec' '-flto' '-fdelete-null-pointer-checks']
+
+55037	['-fsched-spec-insn-heuristic' '-ftree-pta' '-frounding-math'
+ '-ftree-loop-linear' '-funroll-loops' '-ftree-sink' '-ftree-partial-pre'
+ '-fsched-rank-heuristic' '-fcse-skip-blocks' '-fkeep-static-consts'
+ '-fno-trapping-math' '-fgraphite-identity' '-ftracer' '-flto'
+ '-funsafe-math-optimizations' '-fif-conversion2' '-ftree-dominator-opts'
+ '-ftree-loop-optimize' '-free']
+
+56540	['-fprefetch-loop-arrays' '-funsafe-math-optimizations' '-fdelayed-branch'
+ '-fipa-cp-clone' '-fno-ira-share-spill-slots' '-fassociative-math'
+ '-fno-defer-pop' '-ftree-loop-linear' '-fpeel-loops' '-fgcse-sm'
+ '-fsched-rank-heuristic' '-fbranch-target-load-optimize2'
+ '-fno-math-errno' '-fno-trapping-math' '-fhoist-adjacent-loads'
+ '-falign-jumps' '-fsplit-wide-types' '-fcombine-stack-adjustments'
+ '-ftree-loop-optimize' '-fsched-spec-load' '-fno-toplevel-reorder'
+ '-fvariable-expansion-in-unroller' '-ftree-phiprop'
+ '-ftree-switch-conversion' '-ftree-partial-pre' '-ftree-ccp'
+ '-fsched2-use-superblocks' '-funit-at-a-time' '-foptimize-register-move'
+ '-fcompare-elim' '-fif-conversion' '-ftree-vectorize' '-ftree-tail-merge'
+ '-freorder-blocks-and-partition' '-fdelete-null-pointer-checks'
+ '-frounding-math']
+
+55168	['-fcrossjumping' '-fcse-skip-blocks' '-ftree-loop-distribution'
+ '-fipa-reference' '-fsched2-use-superblocks' '-fearly-inlining'
+ '-fauto-inc-dec' '-fivopts' '-fno-ira-share-spill-slots'
+ '-ftree-partial-pre' '-fselective-scheduling2' '-flto'
+ '-finline-functions-called-once' '-fvariable-expansion-in-unroller'
+ '-freorder-blocks-and-partition' '-fstack-protector'
+ '-ftree-switch-conversion' '-ftree-sink' '-falign-labels'
+ '-fdevirtualize' '-fno-function-cse' '-fkeep-static-consts'
+ '-fomit-frame-pointer' '-falign-loops' '-fno-peephole2'
+ '-ftree-loop-optimize' '-funsafe-math-optimizations' '-fregmove'
+ '-fcaller-saves' '-fsched-pressure' '-flto-report']
+
+56290	['-funswitch-loops' '-fcrossjumping' '-fcx-fortran-rules']
+
+56567	['-fcprop-registers' '-ftree-ccp']
+
+54897	['-fcx-limited-range' '-fgcse-lm' '-flto' '-fsched-stalled-insns'
+ '-ffinite-math-only' '-fsched-stalled-insns-dep' '-ftree-dce'
+ '-fprefetch-loop-arrays' '-floop-interchange' '-falign-loops'
+ '-fsched-spec-insn-heuristic' '-ftree-switch-conversion']
+
+56448	['-fselective-scheduling' '-falign-labels' '-fbtr-bb-exclusive'
+ '-fipa-reference' '-fno-math-errno' '-fira-loop-pressure'
+ '-funsafe-math-optimizations' '-fmerge-all-constants'
+ '-ftree-coalesce-vars' '-ftree-copy-prop' '-fcprop-registers'
+ '-fbranch-target-load-optimize2' '-free' '-fauto-inc-dec']
+
+56303	['-fcse-follow-jumps' '-ftree-loop-linear' '-ftree-ter' '-ftree-slsr'
+ '-fhoist-adjacent-loads' '-floop-block' '-ftree-ccp' '-ftree-reassoc'
+ '-fno-math-errno' '-fno-branch-count-reg' '-finline-small-functions'
+ '-ftree-fre' '-fvpt' '-fno-trapping-math' '-fgcse' '-ftree-vrp'
+ '-fkeep-static-consts' '-funsafe-math-optimizations'
+ '-fselective-scheduling' '-ftree-tail-merge' '-funroll-all-loops'
+ '-foptimize-sibling-calls' '-fsched-last-insn-heuristic'
+ '-fsched-stalled-insns' '-freschedule-modulo-scheduled-loops'
+ '-fcx-fortran-rules' '-ftree-loop-optimize' '-fpredictive-commoning'
+ '-freorder-blocks' '-fvariable-expansion-in-unroller'
+ '-fbtr-bb-exclusive' '-ftree-dse ' '-ftree-sink' '-fmudflapth'
+ '-fipa-pure-const' '-fgraphite-identity' '-fdata-sections'
+ '-fipa-cp-clone' '-fno-defer-pop' '-fconserve-stack']
+
+56339	['-flto-report' '-ftracer' '-fno-peephole' '-ftree-dse ']
+
+54586	['-ftree-phiprop' '-fno-math-errno' '-free'
+ '-fvariable-expansion-in-unroller' '-fno-toplevel-reorder' '-fpeel-loops'
+ '-falign-jumps' '-fcx-fortran-rules' '-ftree-dominator-opts'
+ '-fkeep-static-consts' '-ftree-ccp' '-ftree-loop-ivcanon' '-ftree-pta'
+ '-ftree-loop-if-convert' '-ffinite-math-only' '-flto' '-fstack-protector'
+ '-fpredictive-commoning' '-fno-sched-spec' '-ftree-slsr' '-fshrink-wrap'
+ '-fdce' '-fprefetch-loop-arrays' '-fassociative-math' '-fconserve-stack'
+ '-ftree-ter' '-freorder-blocks' '-fno-ira-share-spill-slots'
+ '-ftree-loop-distribute-patterns' '-fif-conversion' '-fmudflapth'
+ '-fgraphite-identity' '-fcombine-stack-adjustments'
+ '-fsched-rank-heuristic' '-ftree-loop-linear' '-fmerge-all-constants'
+ '-fno-default-inline' '-fno-branch-count-reg' '-freciprocal-math'
+ '-fselective-scheduling']
+
+55453	['-fsched-group-heuristic' '-fearly-inlining' '-fno-branch-count-reg'
+ '-freschedule-modulo-scheduled-loops' '-fprofile-values '
+ '-ftree-loop-linear' '-flto' '-ffast-math' '-frounding-math'
+ '-fdelete-null-pointer-checks' '-fbranch-target-load-optimize2'
+ '-ftree-loop-optimize' '-fvariable-expansion-in-unroller'
+ '-fstrict-overflow' '-ftree-sra' '-finline-functions'
+ '-fselective-scheduling' '-fno-function-cse' '-fcompare-elim'
+ '-ftree-vrp' '-fpeel-loops' '-fsched2-use-superblocks' '-flto-report'
+ '-fcprop-registers' '-fregmove' '-ftree-partial-pre'
+ '-fsel-sched-pipelining' '-floop-strip-mine' '-fgcse-sm'
+ '-freorder-blocks' '-fmudflapth' '-fthread-jumps'
+ '-fsched-last-insn-heuristic' '-ftree-forwprop' '-fpredictive-commoning'
+ '-foptimize-sibling-calls' '-fif-conversion2' '-fsched-stalled-insns'
+ '-fvpt' '-funsafe-math-optimizations' '-falign-loops' '-ftree-copy-prop'
+ '-ftree-sink' '-ftree-copyrename' '-fcaller-saves' '-fivopts'
+ '-ffunction-sections' '-fipa-profile']
+
+56670	['-ftree-dominator-opts' '-fno-default-inline' '-floop-strip-mine'
+ '-fno-defer-pop' '-ftree-coalesce-vars' '-fsched-rank-heuristic']
+
+55278	['-ftree-dse ' '-fno-defer-pop' '-fsched-last-insn-heuristic'
+ '-floop-block' '-funswitch-loops' '-fno-ira-share-spill-slots'
+ '-fbtr-bb-exclusive' '-flto' '-fshrink-wrap' '-falign-labels' '-fgcse-lm'
+ '-ftree-dce' '-falign-functions' '-fcprop-registers' '-fivopts'
+ '-floop-interchange' '-foptimize-sibling-calls' '-fsched-stalled-insns']
+
+56284	['-fkeep-static-consts' '-finline-functions' '-ftree-loop-ivcanon'
+ '-ffinite-math-only' '-ftree-vrp']
+
+56172	['-ftree-loop-if-convert' '-ftree-dce' '-fno-branch-count-reg'
+ '-ftree-ccp' '-falign-jumps' '-fif-conversion' '-fsplit-wide-types'
+ '-fcse-follow-jumps' '-fhoist-adjacent-loads']
+
+54902	['-fsched-stalled-insns-dep' '-fomit-frame-pointer'
+ '-fsched-rank-heuristic' '-fsched-pressure' '-fivopts'
+ '-foptimize-sibling-calls' '-fmerge-all-constants'
+ '-fsel-sched-pipelining' '-flto-report' '-fweb' '-ffinite-math-only'
+ '-fno-trapping-math' '-fno-function-cse'
+ '-fvariable-expansion-in-unroller' '-falign-jumps' '-fcompare-elim'
+ '-fira-hoist-pressure' '-ftree-switch-conversion'
+ '-ftree-loop-if-convert' '-ffast-math' '-fipa-reference' '-fno-peephole2'
+ '-floop-block' '-fno-default-inline' '-ftree-fre' '-fsection-anchors'
+ '-fkeep-static-consts' '-fif-conversion2' '-flto' '-fif-conversion'
+ '-free' '-ftree-loop-optimize' '-fsel-sched-pipelining-outer-loops'
+ '-fno-defer-pop']
+
+55430	['-fassociative-math' '-fipa-cp-clone' '-flto' '-funroll-all-loops'
+ '-fgcse' '-ftree-reassoc' '-fsched-pressure' '-fmerge-all-constants'
+ '-fschedule-insns2' '-fvariable-expansion-in-unroller' '-ftree-copy-prop'
+ '-floop-nest-optimize' '-free' '-finline-functions-called-once'
+ '-ftree-pta' '-ftree-vrp' '-fipa-reference' '-fauto-inc-dec'
+ '-funit-at-a-time' '-fpeel-loops' '-fcprop-registers'
+ '-fno-default-inline' '-freschedule-modulo-scheduled-loops' '-fivopts'
+ '-fshrink-wrap' '-fsched-stalled-insns-dep' '-fregmove' '-fif-conversion'
+ '-ftree-phiprop']
+
+55051	['-ffinite-math-only' '-fmove-loop-invariants' '-flto'
+ '-fbranch-target-load-optimize2']
+
+56651	['-flto-report' '-fdata-sections' '-fdelayed-branch' '-fif-conversion'
+ '-fsched-dep-count-heuristic' '-fsched-last-insn-heuristic'
+ '-floop-strip-mine' '-ftree-builtin-call-dce' '-ftree-switch-conversion'
+ '-ftree-tail-merge' '-fconserve-stack' '-ftree-dominator-opts'
+ '-fsched-stalled-insns-dep' '-falign-functions' '-fearly-inlining'
+ '-fipa-cp-clone' '-fvpt' '-fcaller-saves' '-fregmove'
+ '-fgcse-after-reload' '-ftree-loop-distribution' '-fgraphite-identity'
+ '-floop-block' '-free' '-ftree-loop-ivcanon' '-ftree-forwprop'
+ '-fsched-rank-heuristic' '-fgcse-sm' '-ftree-partial-pre'
+ '-fcompare-elim' '-fif-conversion2' '-fira-hoist-pressure'
+ '-ffinite-math-only' '-ftree-coalesce-vars' '-falign-labels' '-ftree-vrp'
+ '-fsched-spec-insn-heuristic' '-fvariable-expansion-in-unroller'
+ '-fmudflapth' '-fno-ira-share-spill-slots' '-floop-interchange'
+ '-fomit-frame-pointer' '-fpeel-loops']
+
+56683	['-funsafe-math-optimizations' '-fsel-sched-pipelining-outer-loops'
+ '-fmudflapth' '-fsched-pressure' '-fconserve-stack' '-fgcse-sm' '-fvpt'
+ '-fgraphite-identity']
+
+55121	['-ftree-dse ' '-ftree-fre' '-fsched-stalled-insns' '-fno-defer-pop'
+ '-fipa-reference' '-fno-peephole' '-ftree-copy-prop' '-ffast-math'
+ '-ftree-loop-optimize' '-fbranch-target-load-optimize2'
+ '-fconserve-stack' '-freorder-blocks-and-partition' '-fforward-propagate'
+ '-ftree-slsr' '-ftree-loop-distribution' '-fno-ira-share-spill-slots'
+ '-fregmove' '-flto' '-ftree-bit-ccp' '-fpeel-loops'
+ '-fmerge-all-constants' '-ftree-switch-conversion' '-fno-default-inline'
+ '-fno-branch-count-reg' '-fira-loop-pressure'
+ '-funsafe-math-optimizations' '-fdelayed-branch' '-ftree-ter'
+ '-ffunction-sections' '-fno-trapping-math' '-fsched-dep-count-heuristic'
+ '-fomit-frame-pointer' '-fcompare-elim' '-fkeep-static-consts']
+
+55489	['-ftree-copyrename' '-funswitch-loops' '-fpeel-loops' '-fno-math-errno'
+ '-fipa-cp-clone' '-ffast-math' '-fkeep-static-consts'
+ '-ftree-dominator-opts' '-ftree-loop-linear' '-fipa-pure-const'
+ '-fsched-stalled-insns-dep' '-fsched-rank-heuristic'
+ '-fmerge-all-constants' '-ftree-loop-optimize' '-fconserve-stack'
+ '-fsel-sched-pipelining-outer-loops' '-finline-functions-called-once'
+ '-fcaller-saves' '-freciprocal-math' '-fsched-stalled-insns'
+ '-fstrict-overflow' '-fvariable-expansion-in-unroller'
+ '-ftree-loop-distribution' '-fsched-spec-insn-heuristic'
+ '-ffunction-sections' '-fcrossjumping' '-foptimize-sibling-calls'
+ '-flto-report' '-flto' '-fno-function-cse'
+ '-fbranch-target-load-optimize2' '-frounding-math']
+
+54964	['-ftree-dse ' '-fcx-fortran-rules' '-flto' '-funswitch-loops'
+ '-fdelayed-branch' '-fmudflapth' '-fpeel-loops' '-ftree-sra'
+ '-floop-block' '-free']
+
+54450	['-fno-trapping-math' '-fsched-group-heuristic' '-fsection-anchors'
+ '-fdelete-null-pointer-checks' '-freciprocal-math' '-fcse-skip-blocks'
+ '-fconserve-stack' '-foptimize-sibling-calls'
+ '-freorder-blocks-and-partition' '-fprefetch-loop-arrays'
+ '-ftree-loop-optimize' '-ftree-switch-conversion' '-fpeel-loops'
+ '-fno-ira-share-spill-slots' '-fbranch-target-load-optimize2'
+ '-fsched-stalled-insns' '-ffast-math' '-flto' '-fipa-pure-const'
+ '-fsched-critical-path-heuristic' '-fvpt' '-fweb' '-funswitch-loops'
+ '-ffunction-sections']
+
+55064	['-falign-labels' '-fgcse' '-fauto-inc-dec' '-funswitch-loops'
+ '-fno-trapping-math' '-fira-hoist-pressure' '-fsched-stalled-insns'
+ '-ftree-dominator-opts' '-fpeel-loops' '-fbranch-target-load-optimize2'
+ '-ftree-ch' '-fsched-last-insn-heuristic'
+ '-fvariable-expansion-in-unroller' '-fsched2-use-superblocks'
+ '-flto-report' '-ftree-ccp' '-ftree-vrp' '-fdevirtualize'
+ '-fbtr-bb-exclusive' '-fsched-pressure' '-funit-at-a-time'
+ '-fstack-protector' '-fassociative-math' '-ftree-builtin-call-dce'
+ '-ftree-loop-ivcanon' '-fivopts' '-fcheck-data-deps' '-freorder-blocks'
+ '-fcx-fortran-rules' '-fmudflapth' '-ftree-partial-pre' '-fno-peephole2'
+ '-flto' '-ffunction-sections' '-fmove-loop-invariants'
+ '-fforward-propagate' '-funsafe-math-optimizations' '-ftree-reassoc'
+ '-fsel-sched-pipelining' '-ftree-coalesce-vars' '-falign-jumps'
+ '-fira-loop-pressure' '-ftree-fre' '-fcaller-saves' '-ftree-sink'
+ '-fdata-sections']
+
+55537	['-freorder-functions' '-fsched-stalled-insns' '-fregmove' '-ftree-dce'
+ '-fipa-cp-clone' '-fcompare-elim' '-fgcse-after-reload'
+ '-fhoist-adjacent-loads' '-flto' '-finline-small-functions'
+ '-ftree-partial-pre' '-ftree-dominator-opts' '-fpeel-loops' '-fgcse-lm'
+ '-fcx-fortran-rules' '-fno-sched-spec' '-fsched-last-insn-heuristic'
+ '-fcaller-saves' '-fassociative-math' '-ftree-dse ' '-fprofile-values '
+ '-ftree-pta' '-floop-block' '-fomit-frame-pointer']
+
+56059	['-fstrict-overflow' '-fvariable-expansion-in-unroller' '-fweb']
+
+56175	['-ftree-dominator-opts' '-falign-jumps' '-fdevirtualize'
+ '-ftree-loop-ivcanon' '-fno-ira-share-spill-slots' '-fira-loop-pressure'
+ '-fcprop-registers' '-funsafe-loop-optimizations' '-fno-defer-pop'
+ '-fmove-loop-invariants' '-fipa-profile' '-fmerge-all-constants'
+ '-foptimize-sibling-calls' '-ftree-loop-distribution' '-ftree-ter'
+ '-funroll-all-loops']
+
+54458	['-ftree-ter' '-fira-hoist-pressure' '-ftree-ccp' '-fpeel-loops'
+ '-ftree-loop-ivcanon' '-foptimize-sibling-calls' '-ftree-phiprop'
+ '-funsafe-math-optimizations' '-fgcse' '-ffast-math'
+ '-ftree-coalesce-vars' '-finline-functions-called-once'
+ '-fira-loop-pressure' '-fvpt' '-ftree-partial-pre' '-floop-nest-optimize'
+ '-frounding-math' '-fcaller-saves' '-fno-sched-spec' '-ftree-sink'
+ '-fno-default-inline' '-ftracer' '-fsched-stalled-insns-dep' '-flto'
+ '-ftree-tail-merge' '-ffunction-sections' '-fif-conversion'
+ '-fstrict-aliasing' '-fcombine-stack-adjustments' '-floop-interchange']
+
+56142	['-foptimize-sibling-calls' '-fsplit-wide-types' '-fno-peephole'
+ '-fgraphite-identity' '-free' '-ftree-ccp' '-fsection-anchors']
+
+56694	['-fif-conversion2' '-fsched-stalled-insns' '-ftree-pre'
+ '-fgraphite-identity' '-fcse-follow-jumps' '-ffast-math' '-fpeel-loops'
+ '-faggressive-loop-optimizations' '-falign-jumps' '-fearly-inlining'
+ '-ftree-fre' '-fcaller-saves' '-fconserve-stack' '-ftree-forwprop'
+ '-fcprop-registers' '-fstack-protector' '-fsched-stalled-insns-dep'
+ '-ftree-loop-linear' '-fbranch-target-load-optimize2' '-frounding-math'
+ '-fshrink-wrap' '-ftree-phiprop' '-fcompare-elim'
+ '-freorder-blocks-and-partition']
+
+54701	['-flto-report' '-fsched-spec-insn-heuristic' '-funswitch-loops'
+ '-fno-defer-pop' '-fbtr-bb-exclusive' '-ftree-sra' '-fmudflapth'
+ '-floop-nest-optimize' '-fgcse-lm' '-flto' '-fno-default-inline'
+ '-fno-branch-count-reg' '-fcx-fortran-rules' '-freciprocal-math'
+ '-ftree-copy-prop']
+
+54611	['-fregmove' '-ftree-loop-ivcanon' '-ftree-reassoc'
+ '-fcombine-stack-adjustments' '-fno-defer-pop' '-fprofile-values '
+ '-fvpt' '-ftree-pre' '-fmudflapth' '-fsched-rank-heuristic'
+ '-fno-branch-count-reg' '-freciprocal-math' '-fomit-frame-pointer'
+ '-fvariable-expansion-in-unroller' '-ftree-tail-merge'
+ '-fno-ira-share-spill-slots' '-fearly-inlining' '-fsched-stalled-insns'
+ '-fdelayed-branch' '-freorder-blocks-and-partition' '-fdce'
+ '-ftree-loop-if-convert' '-funswitch-loops' '-fauto-inc-dec'
+ '-ftree-switch-conversion' '-fstack-protector' '-flto-report'
+ '-ffast-math' '-ftree-ccp' '-fira-loop-pressure' '-fif-conversion2'
+ '-fbranch-target-load-optimize2' '-fpeel-loops' '-fpredictive-commoning'
+ '-ftree-coalesce-vars' '-fivopts' '-flto' '-ftree-ch'
+ '-ffunction-sections' '-fgcse-after-reload' '-funsafe-loop-optimizations'
+ '-fcheck-data-deps' '-fprefetch-loop-arrays' '-ffinite-math-only']
+
+56381	['-fno-ira-share-spill-slots' '-foptimize-register-move'
+ '-fsched2-use-superblocks' '-fsched-stalled-insns' '-fdevirtualize'
+ '-fprefetch-loop-arrays' '-ftree-dominator-opts' '-ftree-slsr'
+ '-fgraphite-identity' '-freorder-blocks' '-fdelayed-branch'
+ '-ftree-copyrename' '-fbtr-bb-exclusive' '-fsel-sched-pipelining']
+
+55090	['-fira-loop-pressure' '-ftree-dce' '-fdata-sections'
+ '-fno-default-inline' '-flto' '-ftree-vrp' '-fsched2-use-superblocks'
+ '-ftree-loop-optimize' '-floop-block' '-free' '-fpredictive-commoning'
+ '-fira-hoist-pressure' '-ftree-loop-linear'
+ '-ftree-loop-distribute-patterns' '-ftree-partial-pre'
+ '-ftree-loop-distribution' '-funsafe-loop-optimizations'
+ '-floop-nest-optimize' '-fcompare-elim' '-fearly-inlining'
+ '-fkeep-static-consts' '-funswitch-loops' '-fhoist-adjacent-loads'
+ '-ftree-tail-merge' '-fshrink-wrap' '-fno-function-cse'
+ '-fipa-pure-const' '-ftree-ccp' '-fauto-inc-dec' '-fsection-anchors'
+ '-funroll-all-loops' '-fno-ira-share-spill-slots' '-ftree-sra'
+ '-ffinite-math-only' '-fbtr-bb-exclusive' '-ftree-loop-ivcanon'
+ '-fassociative-math' '-freorder-blocks-and-partition'
+ '-ftree-coalesce-vars' '-ftree-sink' '-faggressive-loop-optimizations'
+ '-falign-jumps' '-fcprop-registers' '-fgcse-after-reload' '-fgcse-sm']
+
+54893	['-fgcse-lm' '-fsched-stalled-insns' '-fdelayed-branch'
+ '-fsched2-use-superblocks' '-foptimize-sibling-calls' '-fauto-inc-dec'
+ '-funroll-all-loops' '-ftree-bit-ccp' '-floop-nest-optimize'
+ '-fgcse-after-reload' '-ftree-loop-if-convert' '-ftree-ch' '-fpeel-loops'
+ '-fsched-group-heuristic' '-fno-trapping-math' '-fno-function-cse'
+ '-funsafe-loop-optimizations' '-fsched-last-insn-heuristic'
+ '-fkeep-static-consts' '-fsched-dep-count-heuristic' '-ftree-ccp' '-flto'
+ '-frounding-math' '-fforward-propagate' '-freciprocal-math'
+ '-fno-branch-count-reg' '-fsched-pressure' '-ftree-sink' '-fshrink-wrap'
+ '-fmudflapth' '-fira-hoist-pressure' '-ftree-loop-ivcanon'
+ '-ftree-copyrename' '-free' '-ftree-dominator-opts' '-ftree-loop-linear'
+ '-ffinite-math-only' '-ftree-builtin-call-dce' '-fgcse-sm'
+ '-falign-labels' '-fearly-inlining' '-frerun-cse-after-loop'
+ '-ffunction-sections' '-fsched-stalled-insns-dep' '-floop-block'
+ '-ftree-switch-conversion' '-fvpt' '-fbranch-target-load-optimize2'
+ '-fstrict-overflow' '-ftree-phiprop']
+
+54257	['-ftree-pre' '-fno-peephole2' '-ftree-switch-conversion'
+ '-fsched-dep-count-heuristic' '-fmove-loop-invariants'
+ '-fforward-propagate' '-fgraphite-identity' '-funsafe-math-optimizations'
+ '-fcompare-elim' '-fipa-reference' '-finline-functions-called-once'
+ '-fauto-inc-dec' '-fcx-limited-range' '-fbranch-target-load-optimize2'
+ '-ftree-dominator-opts' '-ftree-copyrename' '-fgcse-after-reload'
+ '-fgcse-sm' '-flto' '-foptimize-sibling-calls' '-ftree-loop-linear'
+ '-fgcse' '-fcheck-data-deps' '-fsched-spec-insn-heuristic'
+ '-funroll-loops' '-ftree-sink' '-fstrict-aliasing' '-fconserve-stack'
+ '-fprefetch-loop-arrays' '-fsched-last-insn-heuristic'
+ '-fkeep-static-consts' '-floop-block' '-fsched-group-heuristic'
+ '-floop-nest-optimize' '-ffunction-sections' '-fno-defer-pop'
+ '-fmerge-constants' '-fhoist-adjacent-loads' '-fno-math-errno'
+ '-falign-loops' '-ffinite-math-only' '-ftree-bit-ccp' '-fshrink-wrap'
+ '-fcprop-registers' '-freorder-blocks-and-partition' '-ftree-sra']
+
+56049	['-fivopts' '-ffunction-sections' '-fsched-stalled-insns-dep'
+ '-fsched-stalled-insns' '-fhoist-adjacent-loads' '-fcse-follow-jumps'
+ '-foptimize-sibling-calls' '-fsched-rank-heuristic' '-ftree-ch'
+ '-fcx-fortran-rules' '-fsched-pressure' '-fno-math-errno'
+ '-fprefetch-loop-arrays' '-fdata-sections']
+
+56086	['-fregmove' '-fipa-pure-const' '-foptimize-sibling-calls'
+ '-ffinite-math-only' '-fno-ira-share-spill-slots'
+ '-fsched-stalled-insns-dep' '-fira-hoist-pressure' '-fassociative-math'
+ '-fno-function-cse' '-ftree-loop-distribution' '-ftree-builtin-call-dce'
+ '-fvpt' '-fforward-propagate' '-ftree-copyrename' '-ftree-pta'
+ '-fshrink-wrap' '-ftree-switch-conversion' '-fif-conversion2'
+ '-fno-toplevel-reorder' '-fhoist-adjacent-loads']
+
+54500	['-fdevirtualize' '-fcse-follow-jumps' '-fmudflapth'
+ '-fkeep-static-consts' '-fsched-dep-count-heuristic'
+ '-ffunction-sections' '-freschedule-modulo-scheduled-loops'
+ '-fshrink-wrap' '-ftree-pta' '-funsafe-math-optimizations'
+ '-fcx-fortran-rules' '-fipa-reference' '-fauto-inc-dec' '-fno-peephole'
+ '-fgcse' '-fdelete-null-pointer-checks' '-ftree-dominator-opts'
+ '-fno-ira-share-spill-slots' '-fno-branch-count-reg'
+ '-ftree-loop-if-convert' '-fdelayed-branch' '-finline-functions'
+ '-ftree-loop-optimize' '-fcprop-registers' '-foptimize-sibling-calls'
+ '-fpredictive-commoning' '-flto' '-funroll-all-loops'
+ '-ftree-coalesce-vars' '-fsched-rank-heuristic' '-fno-sched-spec'
+ '-funit-at-a-time']
+
+54694	['-fsection-anchors' '-ftree-loop-optimize' '-fgcse-after-reload' '-free'
+ '-flto' '-fschedule-insns2' '-fno-function-cse' '-funswitch-loops'
+ '-finline-functions' '-fno-sched-spec' '-ffast-math' '-ftree-partial-pre'
+ '-fcheck-data-deps' '-falign-loops' '-fno-peephole' '-ftree-fre'
+ '-freorder-blocks-and-partition' '-funsafe-loop-optimizations'
+ '-fbtr-bb-exclusive' '-frounding-math' '-fgraphite-identity'
+ '-fprefetch-loop-arrays' '-fconserve-stack' '-ftree-loop-distribution'
+ '-ftree-dominator-opts' '-fsched-stalled-insns' '-ftree-ch'
+ '-fthread-jumps' '-fno-math-errno' '-fgcse' '-ftree-phiprop']
+
+56333	['-fipa-pta' '-floop-strip-mine' '-finline-functions-called-once'
+ '-falign-functions' '-fhoist-adjacent-loads' '-ftree-dominator-opts'
+ '-ftree-sink' '-ftree-tail-merge' '-funsafe-loop-optimizations'
+ '-ftree-loop-linear' '-fsched-spec-load' '-fassociative-math'
+ '-fsched-stalled-insns-dep' '-ftree-ccp' '-fgraphite-identity'
+ '-funroll-all-loops' '-fcaller-saves' '-fvariable-expansion-in-unroller'
+ '-ftree-pta' '-funit-at-a-time' '-ftree-loop-optimize'
+ '-fcprop-registers']
+
+55993	['-ftree-sra' '-ftree-loop-ivcanon' '-fif-conversion2'
+ '-fno-branch-count-reg' '-fshrink-wrap' '-fipa-cp-clone'
+ '-fsel-sched-pipelining' '-fselective-scheduling' '-fno-sched-spec'
+ '-fmudflapth' '-fdelayed-branch' '-fsplit-wide-types' '-fconserve-stack'
+ '-fsched-stalled-insns-dep' '-fsched2-use-superblocks'
+ '-fprefetch-loop-arrays' '-funsafe-loop-optimizations' '-falign-jumps'
+ '-ftree-loop-linear' '-funsafe-math-optimizations' '-fsection-anchors'
+ '-fpeel-loops' '-floop-interchange' '-ffast-math'
+ '-ftree-switch-conversion' '-fvpt' '-fno-peephole' '-ftree-dce'
+ '-fmerge-all-constants' '-freorder-blocks-and-partition'
+ '-ffinite-math-only' '-fgraphite-identity'
+ '-fvariable-expansion-in-unroller' '-fno-math-errno' '-fcheck-data-deps'
+ '-fgcse-sm' '-fira-hoist-pressure' '-fno-default-inline']
+
+56018	['-ffunction-sections' '-fomit-frame-pointer']
+
+55030	['-flto' '-funsafe-math-optimizations' '-fsched-last-insn-heuristic'
+ '-fgcse-after-reload' '-fif-conversion' '-fhoist-adjacent-loads'
+ '-ftree-builtin-call-dce' '-fcombine-stack-adjustments'
+ '-fsched-pressure' '-fselective-scheduling' '-fif-conversion2'
+ '-fno-peephole' '-falign-loops' '-fpredictive-commoning'
+ '-funswitch-loops' '-fassociative-math'
+ '-freschedule-modulo-scheduled-loops' '-freorder-blocks'
+ '-floop-strip-mine' '-fcompare-elim' '-fira-hoist-pressure'
+ '-fmerge-all-constants']
+
+54618	['-fprefetch-loop-arrays' '-fcx-fortran-rules' '-ftree-partial-pre'
+ '-fcombine-stack-adjustments' '-ftree-sink'
+ '-fvariable-expansion-in-unroller' '-ftree-forwprop' '-ftree-dce'
+ '-fconserve-stack' '-fkeep-static-consts' '-fearly-inlining'
+ '-ftree-loop-if-convert' '-freciprocal-math' '-fno-default-inline'
+ '-fhoist-adjacent-loads' '-fcprop-registers' '-fsched2-use-superblocks'
+ '-fcse-follow-jumps' '-ftree-dse ' '-flto' '-floop-nest-optimize'
+ '-ffunction-sections' '-fno-peephole' '-fpeel-loops' '-funroll-loops'
+ '-fbtr-bb-exclusive' '-fvpt' '-finline-functions-called-once'
+ '-fno-math-errno' '-fomit-frame-pointer' '-fipa-pta' '-ftree-ccp'
+ '-fsched-rank-heuristic' '-ftree-vrp' '-ftree-loop-linear' '-fivopts'
+ '-fpredictive-commoning']
+
+54802	['-fsched-last-insn-heuristic' '-fno-trapping-math' '-ftree-ccp'
+ '-ftree-loop-optimize' '-fconserve-stack' '-fprofile-values '
+ '-ffinite-math-only' '-freschedule-modulo-scheduled-loops'
+ '-fcse-follow-jumps' '-finline-functions' '-fipa-reference'
+ '-fno-ira-share-spill-slots' '-ftree-sra'
+ '-fbranch-target-load-optimize2' '-fmudflapth' '-fno-math-errno' '-flto'
+ '-foptimize-sibling-calls' '-fipa-pta' '-ffunction-sections'
+ '-fsel-sched-pipelining-outer-loops' '-fipa-pure-const'
+ '-fcx-fortran-rules' '-ftree-sink' '-fsched-group-heuristic'
+ '-fbtr-bb-exclusive' '-funroll-all-loops' '-ftree-loop-distribution'
+ '-freorder-blocks-and-partition' '-fmove-loop-invariants'
+ '-fpredictive-commoning' '-ftree-loop-distribute-patterns' '-free'
+ '-fthread-jumps' '-ftree-switch-conversion' '-flto-report'
+ '-fhoist-adjacent-loads' '-fgcse-sm' '-fauto-inc-dec'
+ '-fmerge-all-constants' '-fsched-spec-load-dangerous'
+ '-fsched-spec-insn-heuristic' '-freciprocal-math']
+
+54660	['-fsel-sched-pipelining-outer-loops' '-fsection-anchors'
+ '-fstrict-aliasing' '-fmerge-constants' '-fivopts' '-fcx-fortran-rules'
+ '-flto' '-fgraphite-identity' '-fira-loop-pressure' '-ffast-math'
+ '-fsched-stalled-insns' '-ftree-ter' '-ftree-ch' '-falign-loops'
+ '-fcheck-data-deps' '-funsafe-loop-optimizations' '-ftree-ccp'
+ '-fcombine-stack-adjustments' '-fno-ira-share-spill-slots' '-fpeel-loops'
+ '-finline-functions' '-fthread-jumps' '-ftree-loop-optimize'
+ '-fbranch-target-load-optimize2' '-fipa-reference'
+ '-fselective-scheduling' '-funswitch-loops']
+
+56439	['-fcx-fortran-rules' '-fcrossjumping' '-fcprop-registers'
+ '-fira-hoist-pressure' '-fno-peephole' '-fcse-follow-jumps'
+ '-fsched-group-heuristic' '-floop-block' '-fsplit-wide-types'
+ '-fif-conversion' '-fipa-pta' '-fbranch-target-load-optimize2'
+ '-ftree-loop-distribute-patterns' '-funswitch-loops'
+ '-fsched-last-insn-heuristic' '-ftree-partial-pre' '-fno-defer-pop'
+ '-ftree-dce' '-fdevirtualize' '-floop-interchange' '-ftree-ccp'
+ '-ftree-tail-merge' '-fsched2-use-superblocks' '-ftree-dominator-opts']
+
+54702	['-floop-block' '-fno-branch-count-reg' '-fconserve-stack' '-free'
+ '-ftree-builtin-call-dce' '-ftree-dse ' '-fsched-pressure'
+ '-ftree-dominator-opts' '-ftree-pta' '-fno-peephole2' '-fmudflapth'
+ '-fvpt' '-fsched-dep-count-heuristic' '-fcx-fortran-rules'
+ '-fsection-anchors' '-flto' '-fpeel-loops' '-fpredictive-commoning'
+ '-fgcse' '-ftree-ter' '-ffinite-math-only' '-fipa-pure-const']
+
+55191	['-flto' '-fauto-inc-dec' '-ftree-loop-if-convert' '-fcx-fortran-rules'
+ '-fsched-spec-load' '-ftree-dse ' '-fsched2-use-superblocks'
+ '-floop-strip-mine' '-fcaller-saves' '-free' '-ftree-switch-conversion'
+ '-ffunction-sections' '-ftree-ccp' '-fassociative-math'
+ '-foptimize-sibling-calls' '-falign-functions'
+ '-fsched-spec-insn-heuristic' '-fipa-reference' '-frounding-math'
+ '-fsplit-wide-types' '-falign-jumps' '-fprefetch-loop-arrays'
+ '-fno-math-errno' '-fno-peephole' '-fsched-dep-count-heuristic'
+ '-fcombine-stack-adjustments' '-fdce' '-fmudflapth' '-ftree-loop-linear'
+ '-ftree-pta' '-fdata-sections' '-fmerge-constants'
+ '-ftree-loop-distribution' '-fbtr-bb-exclusive' '-fgraphite-identity'
+ '-funsafe-loop-optimizations' '-fhoist-adjacent-loads' '-fno-defer-pop'
+ '-fregmove' '-ftree-loop-optimize' '-fomit-frame-pointer'
+ '-fcheck-data-deps' '-fsel-sched-pipelining-outer-loops'
+ '-funit-at-a-time' '-ftree-slsr' '-fmove-loop-invariants']
+
+54559	['-flto' '-freciprocal-math' '-fsched-spec-insn-heuristic'
+ '-ftree-phiprop' '-floop-nest-optimize' '-fno-trapping-math'
+ '-ftree-bit-ccp']
+

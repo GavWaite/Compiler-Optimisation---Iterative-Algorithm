@@ -1,0 +1,37 @@
+Genetic Tests for 3 iterations
+Iteration 0
+"-fvariable-expansion-in-unroller -ftree-fre -ftree-dse  -fconserve-stack -frerun-cse-after-loop -fstrict-overflow -ftree-copy-prop -fif-conversion2 -fcse-skip-blocks -ftree-loop-distribute-patterns -fgcse-lm -fdevirtualize -freorder-blocks -fmudflapth -fgraphite-identity -fdce -fomit-frame-pointer -fdelayed-branch -free -fcx-limited-range -floop-interchange -fipa-reference -fprofile-values  -ftree-sink -fcx-fortran-rules -O3"	3323.8 
+2284.8 
+14809.9 
+14324.1 
+2159.1 
+3207.2 
+1001.8 
+9309.5 
+2257.6 
+1817.1 
+126.33333333333333 
+Iteration 1
+"-ftree-pta -ftree-loop-if-convert -ftree-builtin-call-dce -fmerge-constants -fsched-dep-count-heuristic -ftree-copyrename -foptimize-sibling-calls -fsplit-wide-types -ftree-dominator-opts -fno-peephole -fsched-spec-insn-heuristic -ftree-forwprop -fno-ira-share-spill-slots -fif-conversion2 -ftree-sink -O3"	3325.5 
+2317.5 
+14521.6 
+14235.8 
+2140.7 
+3127.6 
+996.0 
+9364.176470588236 
+2235.7 
+1791.8 
+121.3 
+Iteration 2
+"-funsafe-math-optimizations -falign-loops -fmudflapth -freorder-blocks -fdelete-null-pointer-checks -fsched-spec-load -fsched-critical-path-heuristic -fstrict-aliasing -ftree-sra -frerun-cse-after-loop -frounding-math -fsplit-wide-types -fno-ira-share-spill-slots -fipa-pta -freciprocal-math -fauto-inc-dec -falign-jumps -fmerge-all-constants -fcx-limited-range -fsched-spec-insn-heuristic -O3"	3280.3 
+2263.3 
+14549.8 
+15663.666666666666 
+2429.5238095238096 
+3598.6190476190477 
+1079.3333333333333 
+9960.9 
+2347.0 
+1985.3 
+136.04761904761904 
