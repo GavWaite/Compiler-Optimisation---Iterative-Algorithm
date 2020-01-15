@@ -1,2 +1,3 @@
 coptbenchmarks2013/* linguist-vendored
+*.tex linguist-documentation=true
 *.py linguist-vendored=false
